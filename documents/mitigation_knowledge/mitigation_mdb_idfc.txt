@@ -1,0 +1,3590 @@
+COMMON PRINCIPLES FOR
+CLIMATE MITIGATION FINANCE TRACKING
+Revision version dated 5 December 2023
+
+COMMON PRINCIPLES FOR
+CLIMATE MITIGATION FINANCE TRACKING
+Version 4 –5 December 2023
+Background
+The Common Principles for Climate Mitigation Finance Tracking consist of a set of definitions and
+guidelines and a list of eligible activities that allow for consistent accounting and reporting of
+financial flows for climate change mitigation finance.
+The Common Principles have been developed by the Joint Climate Finance Tracking Group of
+multilateral development banks (MDBs) 1 and a group of representatives of the International
+Development Finance Club (IDFC) member banks, based on their experience and knowledge of
+climate change mitigation activities and available low-carbon technologies. The MDBs and the
+IDFC (in its Green Finance Mapping) commit to applying the Common Principles in their tracking
+and reporting of climate change mitigation finance. 2 They invite other institutions to adopt the
+methodology and foster increased transparency, consistency and credibility while reporting
+financial flows that contribute to climate change mitigation.
+The Paris Agreement3 sets the goal of holding the increase in global average temperature to well
+below 2°C above pre-industrial levels and pursuing efforts to limit it to 1.5°C. Supporting this goal,
+the Special Report on Global Warming of 1.5°C 4 by the Intergovernmental Panel on Climate Change
+(IPCC), which summarises the current scientific understanding of climate change, highlights the
+grave consequences that a temperature rise above 1.5°C would entail, and indicates that structural
+changes in many sectors of the economy will be needed to avoid such a scenario. In light of its
+findings, the report highlights the need to undertake action as early as possible to yield substantial
+results by 2030.
+The Common Principles have been strengthened in the context of the Paris Agreement. Updating
+the Principles, including the list of eligible activities, has involved (i) consideration of new
+mitigation activities that are required in order to achieve the structural changes in the economy
+pointed out by the IPCC as necessary to achieve the goals of the Paris Agreement, and (ii)
+avoidance of identifying as climate mitigation finance activities that, despite reducing greenhouse
+gas (GHG) emissions in the short term, risk locking in emissive technologies over long periods of
+time and run counter to the structural changes needed, thereby undermining the long-term
+temperature goal.
+
+1 The MDBs involved are the African Development Bank;
+
+Asian Development Bank; Asian Infrastructure Investment
+Bank; Council of Europe Development Bank; European Bank for Reconstruction and Development; European
+Investment Bank; Inter-American Development Bank Group; Islamic Development Bank; New Development Bank; and
+the International Bank for Reconstruction and Development, International Development Association, International
+Finance Corporation, and Multilateral Investment Guarantee Agency of the World Ban k Group.
+2 For climate change adaptation finance tracking and reporting, the MDBs and IDFC members apply the Common
+Principles for Climate Change Adaptation Finance Tracking.
+3 https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement.
+4 https://www.ipcc.ch/sr15/.
+
+2
+
+The Common Principles are designed for use in ex-ante assessments5 and focus on the type of
+activity to be executed, not on its purpose, the origin of the financial resources, or its actual
+mitigation impact. The list of eligible activities is presented by sector in tables 2–12. Policy actions,
+technical assistance and programmes in support of the eligible activities are also eligible, provided
+that the link to eligible activities is clear or sufficiently demonstrated.6
+
+Operationalisation of the Common Principles
+Between 2021 and 2023, the MDBs and IDFC members have adopted different approaches to
+implementing the Common Principles. The MDBs have used the list of eligible activities in tables
+2–12 as an exhaustive list, considering only activities in the list as being eligible for climate
+mitigation finance. IDFC members by contrast have used the list as a guide, aiming to apply the
+list to the extent possible. This means that for the first two years of operationalisation, climate
+finance numbers may not have been directly comparable between the IDFC and the MDBs. In
+2023, the MDBs and the IDFC worked together to adjust the list based on their respective
+experience. 7 The aim at the end of this two–year operationalisation period was to have a common
+list of eligible activities, considered an exhaustive list by both the MDBs and the IDFC. The MDBs
+and the IDFC commit to maintaining an open and transparent exchange of information around
+institutional experience and learning, as well as to discussing improvements to the Common
+Principles.
+The list of eligible activities will be reviewed regularly to ensure that it accounts for technology
+developments that may enable deeper decarbonisation of economic activities. Thus, the current
+list includes some activities that may not be eligible in the future as the transition to an economy
+with net-zero GHG emissions progresses. A major review of the methodology will be completed
+by the end of 2026, whilst this version captures the minor adjustments made in 2023.
+The MDBs will use the Common Principles for reporting on climate change mitigation finance in
+their Joint Report on Multilateral Development Banks’ Climate Finance. IDFC members will use this
+version of Common Principles to report their climate change mitigation finance starting in 2024.
+Other methodologies and taxonomies for tracking climate mitigation finance have been
+developed or are under development, and the MDBs and the IDFC will continue to monitor these
+developments in the future, including international efforts at harmonisation. The MDBs and the
+IDFC (in its Green Finance Mapping) may choose to use one or more of these other methodologies
+in conjunction with the Common Principles, provided in so doing the institutions claiming to
+comply with the Common Principles continue to comply fully with the eligibility criteria in this
+document.
+
+Definition of climate change mitigation and classification of eligible activities
+An activity can be classified as climate change mitigation where the activity, by avoiding or
+reducing GHG emissions or increasing GHG sequestration, contributes substantially to the
+stabilisation of GHG concentrations in the atmosphere at a level which prevents dangerous
+5
+
+The MDBs and IDFC determine whether a project should be identified as climate mitigation finance for the purpose
+of reporting prior to activity implementation.
+6 Each eligible activity is understood to include policy actions, technical assistance and programmes carried out in its
+support, which are not listed separately. Only policy actions, technical assistance and programmes that cannot be
+directly linked to eligible activities described elsewhere are listed separately.
+7
+The adjustments focused on refinements of the Common Principles mainly to bring further clarity and consistency.
+
+3
+
+anthropogenic interference with the climate system consistent with the long -term temperature
+goal of the Paris Agreement. 8
+The Common Principles recognise that a substantial contribution to climate change mitigation can
+involve the following three categories of climate change mitigation activities:
+(1) Negative- or very-low-emission activities, which result in negative, zero or very low GHG
+emissions and are fully consistent with the long-term temperature goal of the Paris
+Agreement, e.g., carbon sequestration in land use or some forms of renewable energy.
+(2) Transitional activities, which are still part of GHG-emissive systems, but are important for
+and contribute to the transition towards a climate-neutral economy, e.g., energy
+efficiency improvement in manufacturing that directly or indirectly uses fossil fuels.
+(3) Enabling activities, which are instrumental in enabling other activities to make a
+substantial contribution to climate change mitigation, e.g., manufacture of very -lowemission technologies.
+Table 1 summarises the principles of eligibility under each mitigation category. Tables 2–12 define
+activities that are eligible within the scope of these categories.
+
+Table 1: Summary of eligibility principles for the three categories of activities
+Category of
+activity
+
+Summary of eligibility principles9
+
+Negative or very
+low emissions
+
+ Have negative or near-zero relative GHG emissions
+
+Transitional
+
+ Lack technologically or economically feasible very-low-emission
+alternatives available;
+ Comply with high performance country- or sector-specific standards,
+benchmarks or thresholds for GHG emissions or emission-intensity
+that significantly exceed expected performance in a sector or
+activity; 10
+ Do not hamper the development or deployment of very-low-emission
+activities; and
+ Do not lead to a lock-in of GHG-emission-intensive assets that is
+inconsistent with the long-term goal of net-zero GHG emissions.
+
+Enabling
+
+ Are necessary for developing or implementing other eligible climate
+mitigation activities;
+ Do not hamper the development or deployment of negative- or verylow-emission activities; and
+ Do not lead to a lock-in of GHG-emission-intensive assets that is
+inconsistent with the long-term goal of net-zero GHG emissions.
+
+8 For some activities
+
+in the eligibility tables, reducing other non-GHG climate forcing emissions may be relevant to
+consider in assessments of eligible activities. An example is black carbon, a short-lived climate pollutant emitted by
+combustion of a fuel containing carbon, such as biomass used in cookstoves.
+9 Eligibility principles may not be universally applicable to all activities. Exceptions are defined in criteria and guidance
+included in tables 2–12.
+10 These may be based on published sources or defined by the reporting institution, and may be absolute performance
+indicators, or relative performance improvement indicators using a plausible assessment of relative GHG emissions
+against a baseline scenario.
+
+4
+
+Recognising that institutions may wish to set specific quantitative thresholds according to
+individual mandates and specific circumstances in the areas of their operation, or apply th resholds
+set in other standards or taxonomies, no fixed quantitative requirements are established.
+In some cases, it may be challenging or not appropriate to calculate a reduction in relative GHG
+emissions (for example, on account of difficulties in defining the baseline scenario), whereas there
+may be suitable benchmarks for intensity metrics— such as tonnes of carbon dioxide equivalent
+(CO2e) or gigajoules of energy per unit of output or outcome—and comparison with such
+benchmarks may be adequate for assessing the likely mitigation impact. To accommodate such
+cases, some eligibility criteria (specified in tables 2–12, for example in agriculture, forestry, land
+use, fisheries, manufacturing, and ICT) allow the option of substituting the reduction in relative
+GHG emissions with that in the intensity of CO2e emissions or energy consumption or meeting a
+high-performance threshold for CO 2e emissions as defined in standards, taxonomies, regulations
+or benchmarks.
+Where absolute emissions are already very low in the baseline and it is not possible to reduce the
+emissions much further, demonstration of a substantial reduction in relative GHG emissions is not
+required. Two examples are addition of renewable energy generation capacity in a system already
+dominated by very-low-carbon electricity and increasing the energy efficiency of electric
+equipment using largely renewable energy. For the former, it may be sufficient to demonstrate
+very low absolute emissions (such as tonnes of CO 2e emitted per gigawatt-hour), and for the latter
+it may be sufficient to demonstrate a substantial reduction in the intensity of energy consumption
+(such as kilowatt-hours per lumen).
+
+Paris alignment and climate finance
+The MDBs, IDFC and other financial institutions are working on developing approaches to align
+activities with the goals of the Paris Agreement. The methodology for tracking climate change
+mitigation finance outlined in this document and the MDB and IDFC Paris alignment approaches
+are separate methodologies. Not all activities consistent with countries’ low-carbon and climateresilient development pathways satisfy the principles and criteria in the Common Principles.
+Activities that are aligned with the Paris Agreement goals may therefore include those that are
+relatively neutral in terms of GHG emissions and some emitting activities in addition to those
+tracked as “climate mitigation finance” (as defined by the Common Principles). Examples include
+a new vaccine programme and training of new teachers that do not meet the criteria in this
+methodology.
+Also, meeting the climate change mitigation eligibility criteria in this methodology does not
+automatically imply that the activity is aligned with the countries’ low-carbon, climate-resilient
+development pathways. For example, a hydropower project (that complies with the climate
+change mitigation eligibility criteria) may be inconsistent with a country’s resilient development
+pathway if such investment increases the probability of electricity shortages as a result of falling
+rainfall in the coming years.
+As specific methodologies for Paris alignment are developed, institutions will set up processes to
+ensure that activities reported as contributing to climate change mitigation also be consistent
+with such pathways.
+
+5
+
+Scope of application
+
+
+Scope and boundaries: Climate change mitigation activities can consist of a stand-alone
+project (which can be for investment, technical assistance, or research and development),
+multiple stand-alone projects under a larger programme, a component of a stand-alone
+project, a policy programme or action in a broader policy package, a programme financed
+through a financial intermediary, a programme focused on communication or awarenessraising, or an activity to prepare one of the foregoing projects or programmes. Climate
+finance tracking may be applied to a range of different financial instruments, such as loans,
+guarantees, equity and bonds. 11
+The application of the Common Principles is voluntary and open to any financial institution
+willing to track and report climate mitigation finance. Committing to the Common
+Principles does not exclude the financing of activities that are not compliant with their
+criteria. However, the MDBs and the IDFC commit to applying the Common Principles in
+their respective, group-based tracking and reporting of climate change mitigation finance.
+
+
+
+Exclusion of activities in support of upstream and midstream activities in the fossil fuel
+industry, electricity generation from coal or peat, and those that lead to deforestation:
+Upstream activities involve exploration or production of fossil fuels and midstream
+activities include natural gas processing, storage, transport, liquefaction and
+regasification, and crude oil refining. Activities that are otherwise eligible but support
+these activities, such as carbon capture and utilisation for enhanced oil recovery, are not
+eligible. Exceptions are the use of waste gas and reduction of fugitive emissions from
+existing gas infrastructure. 12 Activities that lead directly or (where feasible to assess)
+indirectly to deforestation over time are also ineligible, other than small scale tree
+clearance.
+
+
+
+Greenfield and brownfield activities: The Common Principles distinguish between
+greenfield and brownfield activities where eligibility and criteria differ. Greenfield
+activities relate to projects in new sites or in existing facilities where the vast majority of a
+plant and equipment is new and where, in the case of projects in existing facilities, all the
+critical items of equipment are decommissioned, or projects that primarily acquire and
+deploy new appliances or equipment. Brownfield activities relate to projects that modify
+existing facilities, equipment, appliances, systems or processes. Where there is gradual
+replacement or retrofit of a whole facility dedicated to the same activity over a longer
+period of time, this may be considered as a series of brownfield projects.
+In recognition of the role that new, highly efficient, and low-carbon activities can play in
+mitigating climate change, the updated Common Principles introduce criteria and
+guidance to determine the circumstances under which greenfield activities are eligible
+activities and help prevent a long-term lock-in of high-GHG-emission infrastructure and
+activities. In particular, such greenfield investments may enable structural changes
+required for meeting the long-term temperature goal, support emerging technologies
+
+11
+
+Guidance on how the MDBs track climate finance in different types of financial instrument is contained in
+Annex E of the 2022 Joint Report of Multilateral Development Banks’ Climate Finance.
+12
+Specific cases are covered in 2.5 (waste gas), 2.13 (reduction of fugitive emissions, waste gas), and 4.10
+(waste gas as feedstock).
+
+6
+
+with significant climate mitigation potential, meet global high-performance standards or
+high-efficiency benchmarks, or significantly exceed national or regional standards.
+In all cases and particularly relevant to greenfield facilities, whether land costs and other
+costs are integral to climate change mitigation should be assessed, and if they are not and
+yet comprise a significant share of the total cost, they are not counted as climate finance.
+
+Overarching principles
+
+
+Conservativeness: Where data are unavailable or there are uncertainties about the data,
+the principle of conservativeness, where it is preferable to under-report rather than overreport climate change mitigation finance, should be followed. Where the same project,
+sub-project or project component contributes to both climate change mitigation and
+climate change adaptation, however they are tracked, there should be no doublecounting.
+
+
+
+Granularity: The Common Principles require mitigation activities to be disaggregated from
+non-mitigation activities as far as reasonably possible so that a clear correlation between
+financial flows and the actual mitigation activity can be established. When disaggregation
+is needed but not possible using project-specific data, a more qualitative assessment,
+experience-based assessment, or both can be used to identify the proportion of the
+project finance that covers climate change mitigation activities, consistent with the
+conservativeness principle.
+
+
+
+Complementarity: Reporting institutions should seek to ensure that only climate change
+mitigation activities that neither conflict with nor undermine the wider objectives of the
+Sustainable Development Goals be considered and reported.
+
+Specific requirements and guidance when applying the eligibility principles and
+criteria
+
+
+National context: The Common Principles acknowledge that the development pathways
+in individual countries that collectively enable the world to achieve low—and ultimately
+net-zero—GHG emissions depend on different national circumstances and capabilities.
+Assessment of potential mitigation activities should consider, where appropriate and to
+the extent possible, country-appropriate technology benchmarks (including those derived
+from regional benchmarks) in order to facilitate progress towards national goals and avoid
+risks of locking in emission-intensive technologies and practices over the long term.
+
+
+
+GHG assessment: Where GHG assessments are required to demonstrate eligibility, these
+should follow, where appropriate, the “International Financial Institution (IFI) Framework
+for a Harmonised Approach to Greenhouse Gas Accounting” 13 and the harmonised
+standards or approaches adopted by the IFI Technical Working Group on Greenhouse Gas
+Accounting. 14 Where IFI standards or approaches do not exist, relevant alternative
+methodologies or standards may be applied. Where lifecycle emissions are considered
+material and relevant for assessing eligibility, they may be based, where appropriate, on
+
+13
+
+https://unfccc.int/sites/default/files/resource/International%20Financial%20Institution%20Framework%20fo
+r%20a%20Harmonised_rev.pdf.
+14
+https://unfccc.int/climate-action/sectoral-engagement/ifis-harmonization-of-standards-for-ghgaccounting/ifi-twg-list-of-methodologies.
+
+7
+
+literature references rather than project-specific information. Emissions associated with
+the rebound effect may also be considered within GHG assessments, where such
+emissions are feasible to assess and deemed material.
+Where a GHG assessment is not feasible, e.g., where data are not available or no suitable
+methodology exists, the assessment may be substituted by the use of appropriate proxy
+approaches ensuring adoption of widely accepted international practices and
+implementation of the principle of conservativeness.
+The Common Principles recommend that scope 3 emissions be quantified for activities
+where those emissions are expected to be material and relevant. Quantification should be
+carried out to the extent possible and on a best-effort basis, particularly where the
+activity’s scope 1, scope 2, and consequential emissions result in relative GHG emissions
+that are (i) positive (that is, GHG emissions in the project scenario are higher than in the
+baseline scenario) or close to zero, or (ii) negative but with material scope 3 emissions
+that can result in relative positive GHG emissions. By contrast, if the relative GHG emissions
+are already substantially negative even without accounting for scope 3 emissions and
+inclusion of the latter is expected to decrease relative GHG emissions further,
+quantification of scope 3 emissions may be omitted and replaced with a qualitative
+analysis.
+
+
+Baseline scenario: To assess the impact of projects and where required for a GHG
+assessment, the baseline scenario should follow the approach of the “IFI Framework for
+a Harmonised Approach to Greenhouse Gas Accounting” and the harmonised standards
+or guidelines adopted by the IFI Technical Working Group on Greenhouse Gas Accounting.
+Additional guidance on defining baselines is provided within certain categories in the
+eligibility list, and in some cases an alternative baseline scenario is proposed.
+
+
+
+Energy and resource efficiency: When considering brownfield energy or resource
+efficiency investments as climate finance, old technologies must be replaced well before
+the end of their lifetimes with new technologies that are substantially more efficient.
+Alternatively, for greenfield projects, new technologies or processes must enable
+substantially higher system-efficiency compared to those normally used in greenfield
+projects.
+
+
+
+Mixed greenfield and brownfield projects: In some projects, there may be both greenfield
+and brownfield components. Where there is a physical expansion of an existing site, a
+significant increase in output capacity, or a significant extension of the expected life of
+the site, facility or the equipment, the activity should be disaggregated into brownfield
+and greenfield components whereby the one corresponding to such an increase or
+extension should be considered as greenfield development and must meet criteria
+defined for greenfield activities. Where possible, the proportion of the project that is
+considered as greenfield should be based on the incremental investment costs associated
+with the increase in cumulative outputs. Where this approach is not possible, then the
+proportions of investments in greenfield and brownfield may be apportioned by
+comparing cumulative outputs before and after the project.
+
+
+
+Carbon offsetting: The Common Principles require climate mitigation activities to
+contribute substantially to avoiding or reducing GHG emissions within the defined scope
+and boundaries of the project, programme or investment. Any purchased carbon credits
+or other market-based instruments, such as renewable energy credits, to offset GHG
+emissions directly generated by the activity cannot generally be used as an eligible
+8
+
+mitigation approach at the project level, with certain narrowly limited exceptions. Where
+the activity has no or low direct emissions or direct emissions do not make the activity
+ineligible—such as a manufacturing plant burning sustainably harvested biomass for heat
+generation—and has high scope 2 emissions even after adopting energy efficiency
+improvement measures, purchasing energy with very low lifecycle GHG emissions by, for
+example, signing a power purchase agreement with a renewable energy provider or
+paying a renewable energy premium for electricity consumed, as a means of achieving a
+substantial reduction in scope 2 emissions, may be eligible, if the contractual arrangement
+results in an increase in the amount of such energy generated through, for example, new
+capacity addition or reduced curtailment.
+
+
+
+
+Use of renewable energy: There are cases where a project generates renewable energy
+and uses it. In such cases, the following activities may be tracked as climate mitigation
+finance:
+(i) On-site production of renewable energy is eligible provided it has very low lifecycle
+GHG emissions. 15
+(ii) Costs associated with conversion of existing equipment to use renewable energy are
+eligible.
+(iii) New equipment or appliances using renewable energy are eligible if one or more of
+the following conditions are satisfied:
+- The equipment or appliance is designed specifically to use renewable energy. An
+example is a solar cooker.
+- The equipment or appliance using renewable energy and equipment generating
+renewable energy is integrated in a package and switching to another source of
+energy for the appliance or equipment in the package is not possible without
+altering the integrity of the package.
+- The equipment or appliance uses the best available technology or matches or
+surpass country-appropriate technology benchmarks in performance. 16
+- The use of electricity in a particular application is relatively rare in the region .
+Types of financing instruments: Provided they meet the conditions described in Annex
+C.5 of the 2022 Joint Report of Multilateral Development Banks’ Climate Finance, advisory
+services, equity, grants, bonds, guarantees, investment loans, refinancing, working
+capital, lines of credit, policy-based lending, and results-based financing may be
+considered as climate finance for reporting purposes. 17
+
+List of eligible activities
+A list of eligible activities is provided in 11 tables with screening criteria (indicated by the word
+“shall”) and guidance for each activity. Every activity is required to meet all the criteria specified
+unless indicated otherwise. In some cases, not all criteria need to be satisfied and the document
+indicates which criteria need to be met and under what conditions. “Guidance” provides
+recommendations that should be followed as much as possible where relevant or highlights issues
+to consider but is not intended as a universal requirement. Illustrative examples may also be
+included under “guidance.” In addition, the following should be taken into account in reading and
+interpreting tables 2–12:
+
+15
+
+More details are provided in activity 2.1.
+More details on end-use efficiency improvement in equipment and appliances are provided in activity 9.5.
+17
+The IDFC members may use the definitions of the financing instruments set out in the above annex unless
+they have their own definitions.
+16
+
+9
+
+
+
+
+
+
+
+
+
+
+
+With the exception of the column for category, all other columns in the tables use inclusive
+“or”—equivalent to “and/or” for the series of options presented—unless stated
+otherwise. For example, if A, B or C are listed as eligible activities, carrying out any one of
+these activities and meeting the corresponding criteria would be sufficient for eligibility.
+The phrase “low carbon” is used to denote projects or materials that have low levels of
+CO2e emissions associated with them.
+Where an activity proposed is replacement of a chemical compound with another with
+much lower global warming potential, the phrase “a reduction in CO 2e emissions” is used.
+The word “resource” is used to denote materials or water as opposed to energy, such as
+materials of construction. Resource efficiency improvement refers to reducing the
+amount of materials or water consumed.
+The word “energy” comprises electricity, heat and fuels, and should not be considered to
+be synonymous with electricity. Therefore, fuel economy standards represent a type of
+energy efficiency standards.
+Some tables have opening text to explain how to interpret the table entries and any
+departure from the general approach in the Common Principles.
+
+The phrase “potentially eligible activities include” is used to provide examples. The examples that
+follow should not be taken as an exclusive or exhaustive list of eligible activities.
+
+Overview of the tables
+Table 2: Energy................................................................................................................... 11
+Table 3: Mining and metal production for climate action........................................................ 22
+Table 4: Manufacturing ...................................................................................................... 25
+Table 5: Agriculture, forestry, land use and fisheries.............................................................. 29
+Table 6: Water supply and wastewater ................................................................................ 35
+Table 7: Solid waste management .......................................................................................40
+Table 8: Transport ............................................................................................................. 52
+Table 9: Buildings, public installations and end-use energy efficiency ...................................... 57
+Table 10: Information and communications technology (ICT) and digital technologies .............. 61
+Table 11: Research, development and innovation ..................................................................64
+Table 12: Cross-sectoral activities.........................................................................................65
+
+10
+
+Table 2: Energy
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+
+Renewable energy
+generation
+
+2.1. Generation of renewable energy
+with low lifecycle GHG
+emissions to supply electricity,
+heating, mechanical energy or
+cooling
+
+Criteria:
+ GHG emissions of the renewable energy shall be substantially lower than corresponding GHG
+emissions from fossil fuel generation without carbon capture and storage or utilisation.
+ First-generation liquid biofuels shall be excluded unless they are sourced from waste or from
+biomass meeting certain criteria. The eligible biomass shall be supplied from sustainable and
+socially acceptable sources, as demonstrated through compliance with internationally accepted
+sustainability certifications, and the activity shall not interfere with food security.
+ All expenditures through the life of assets generating renewable energy that meets the above
+criteria shall be eligible.
+Guidance:
+ Analysis of GHG emissions should take account of material lifecycle sources, such as where scope
+3 emissions or scope 1 emissions during construction are expected to be material.
+ Examination of material lifecycle sources is typically relevant for hydropower involving
+construction of a new reservoir or expanding the capacity of an existing reservoir, geothermal
+energy, and bioenergy (such as solid biomass and liquid biofuels).
+ Examination of GHG emissions is not necessary for forms of energy that are widely recognised to
+have very low lifecycle emissions, such as solar, wind, and tidal energy.
+ For carbon capture and storage or utilisation, see activity 12.5.
+ Lifecycle expenditures are eligible, from site preparation and installation of equipment to
+maintenance, operation, repairs, upgrading, rehabilitation, and decommissioning.
+ Examples of internationally recognised sustainability certification schemes for first-generation
+biofuels include those developed by the Round Table on Responsible Soy Association (RTRS),
+Bonsucro, and the Roundtable on Sustainable Palm Oil (RSPO). For more information on the
+eligibility of biomass, see activity 5.10.
+ For bioenergy involving solid biomass as a fuel (to be burned) or feedstock (such as sugarcane to
+produce bioethanol), GHG emissions during transport should be included, as well as emissions
+from feedstock production (tilling, fertiliser use) and energy used during processing, where any
+one of them is material.
+
+11
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+ Direct land-use changes should be included in the lifecycle GHG emissions analysis if they are
+deemed to make a material difference, and indirect land-use changes should also be considered
+where they are feasible to assess and expected to be material.
+
+Renewable energy
+generation
+
+2.2. Joint use of renewable energy
+and fossil fuel to supply
+electricity, heat, mechanical
+energy or cooling
+
+Criteria:
+ The criteria for renewable energy with low lifecycle GHG emissions in activity 2.1 shall apply.
+ GHG emissions from such joint use shall be substantially lower than corresponding GHG
+emissions from fossil fuel generation without carbon capture and storage or utilisation meeting
+the same demand.
+ Where separate sources of generation are financed together (such as solar energy backed up by
+diesel generation), only that for renewable energy shall be eligible.
+ Where equipment is shared by both renewable and non-renewable energy sources (such as cofiring of renewable and non-renewable fuels) and separation of project components is not
+possible, financing should be apportioned according to the share of energy input or output, as
+appropriate, that is renewable.
+Guidance:
+ Where fossil fuel combustion is an integral part of renewable energy production, fossil fuel
+consumption should be minimised.
+ Two examples of renewable energy production potentially requiring integrated fossil fuel
+consumption are concentrated solar power and energy production from biomass. For the latter,
+cash flows and other analyses should be used to ensure that biomass is the main fuel,
+supplemented by fossil fuels only when necessary (such as during a cold start or in highly
+oscillating operation).
+
+Lower-carbon
+hydrogen and
+derivatives
+
+2.3. Production, transport, or
+storage of low-carbon hydrogen
+or low-carbon products made
+from it
+
+Criteria:
+ Hydrogen produced by electrolysis of water using very-low-carbon electricity shall be eligible.
+ Hydrogen produced by steam reforming of natural gas with carbon capture followed by storage
+or utilisation of captured CO2 in a manner consistent with the criteria for activity 12.5 shall be
+eligible.
+ Hydrogen manufactured by electrolysis of water using grid electricity or by any other technology
+shall be eligible, provided the entity applying the Common Principles demonstrates a substantial
+
+12
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+reduction in relative GHG emissions compared to efficient steam reforming of natural gas, taking
+scope 3 emissions into account where they are expected to be material.
+ The production of materials from low-carbon hydrogen shall have low absolute GHG emissions.
+ Where the end-use is as a transport fuel, transport and storage of all such hydrogen shall be
+eligible irrespective of carbon intensity.
+ In all other cases, where transport or storage is shared between low-carbon hydrogen and nonlow-carbon gases, financing shall be apportioned according to the share of transported or stored
+gases that are low in carbon intensity.
+Guidance:
+ See activities 4.9 for use.
+ As stated in the last bullet in activity 8.6, use of hydrogen as a fuel in transporting passengers or
+freight and associated infrastructure are eligible irrespective of the hydrogen’s carbon intensity.
+Production of hydrogen, however, is eligible only if it satisfies one of the first three criteria
+above.
+ Apportioning of financing for storage of low-carbon hydrogen should use the expected average
+share of low-carbon hydrogen over the economic life of the storage facility. One exception is
+storage of any form of hydrogen as part of the refuelling infrastructure for transport in activity
+8.6, which is fully eligible.
+ Potentially eligible activities include electrolysis of water using renewable energy meeting the
+criteria in activity 2.1 to produce hydrogen, production of ammonia or methanol from such
+hydrogen in a manner that is not carbon-intensive, and production of a synthetic liquid fuel by
+reacting low-carbon hydrogen and captured CO2.
+
+Lower-carbon energy
+generation
+
+2.4. Brownfield displacement of a
+carbon-intensive fuel with a
+different, lower-carbon fuel to
+supply electricity, heat,
+mechanical energy or cooling
+
+Criteria:
+ The entity applying the Common Principles shall demonstrate a substantial reduction in relative
+GHG emissions, taking into account material lifecycle sources, such as where scope 3 emissions
+are expected to be material.
+ Where the lower-carbon fuel is a fossil fuel in electricity generation, the activity shall not be
+eligible.
+
+13
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+ Where the lower-carbon fuel is a fossil fuel, the entity applying the Common Principles shall
+demonstrate that there will be no life extension of the equipment generating energy to supply
+heat, mechanical energy or cooling.
+ Where the lower-carbon fuel is a fossil fuel and there is no life extension but there is capacity
+expansion and there are reasonable grounds to suspect that the proposed activity may deter the
+expansion of renewable energy with low lifecycle GHG emissions as defined in activities 2.1 and
+2.2, the activity shall not be eligible.
+Guidance:
+There is no specific guidance.
+
+Lower-carbon energy
+generation
+
+2.5. Use of waste gas as a feedstock
+or fuel to supply electricity,
+heat, mechanical energy or
+cooling energy
+
+Criteria:
+ Utilisation of abandoned coal mine methane, or associated gas shall decrease relative GHG
+emissions substantially.
+ Utilisation of coalbed methane, associated gas from greenfield oil production, and methane from
+mines currently producing coal shall all be ineligible.
+ The entity applying the Common Principles shall demonstrate that utilisation of associated gas
+from brownfield oil production will not extend the life of oil production by making it more
+financially attractive.
+ With the exception of biogas, if there are reasonable grounds to suspect that the proposed
+activity may deter expansion of renewable energy with low lifecycle GHG emissions as defined in
+activities 2.1 and 2.2, the activity shall not be eligible.
+Guidance:
+ Examples of waste gas include landfill methane, abandoned mine methane, associated gas
+currently being flared or vented, and biogas from municipal sewage, wastewater, or agricultural
+activities.
+ Associated gas is the gas that is produced with oil and requires separation from oil. It is different
+from the natural gas that may be found within the same operation in a brownfield oil reservoir
+but not associated with oil production, the use of which is not eligible.
+ See biogas and landfill gas in Table 7: Solid waste management for additional information and
+guidance.
+
+14
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+ Financing needed to construct or modify the infrastructure to transport or utilise eligible waste
+gas is eligible after apportioning the financing to reflect the share of infrastructure utilisation
+associated with the waste gas over the life of the infrastructure. If such apportioning cannot be
+carried out with a reasonable degree of certainty, such financing is not eligible.
+ For examples of sources and uses of waste biogas in other sectors, see activities 6.4, 6.5, 7.6, 7.9,
+and 8.9.
+
+Efficient energy
+generation
+
+2.6. Brownfield conversion from
+production of electricity, or
+from desalination only, to joint
+generation or delivery for use of
+electricity, heat, mechanical
+energy, cooling, or desalination
+
+Criteria:
+ The efficiency of combined processes shall be substantially higher than those of individual
+processes carried out separately.
+ Electricity generation shall not be eligible if it is one of the new activities in the joint generation.
+Where one or more of the production processes involve combustion of a fossil fuel without
+carbon capture or utilisation, the entity applying the Common Principles shall demonstrate that
+no viable lower-carbon alternatives are available.
+Guidance:
+For carbon capture and storage or utilisation, see activity 12.5.
+
+Energy efficiency
+
+2.7. Brownfield energy-efficiency
+improvement in energy
+production to supply electricity,
+heat, mechanical energy or
+cooling
+
+Criteria:
+ The entity applying the Common Principles shall demonstrate a substantial improvement in
+energy efficiency or a substantial reduction in relative GHG emissions.
+ Where the production process involves combustion of a fossil fuel without carbon capture or
+utilisation, the entity applying the Common Principles shall demonstrate that no viable lowercarbon alternatives are available.
+Guidance:
+For carbon capture and storage or utilisation, see activity 12.5.
+
+Energy storage and
+network stability
+
+2.8. Energy storage or measures to
+improve network stability or
+flexibility that increase
+consumption of very-lowcarbon energy
+
+Criteria:
+ In case of direct connection to renewable energy plants, renewable energy so enabled shall meet
+the same criteria for low lifecycle GHG emissions as in activity 2.1.
+ Storage of fossil fuels shall not be eligible.
+
+15
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+ Where energy being stored is not entirely very low in carbon intensity but the storage is
+dedicated to increasing renewable energy capacity, the entity applying the Common Principles
+shall demonstrate how the objective will be achieved.
+ Where storage is shared between very-low-carbon energy and other energy sources, financing
+shall be apportioned according to the share of stored energy that is very low in carbon intensity.
+ Storage of previously wasted heat shall not extend the life of assets generating heat by
+combusting fossil fuels.
+ The entity applying the Common Principles shall demonstrate that storage will not significantly
+increase GHG emissions over the short or medium term.
+ Measures, such as smart grid technologies, that increase network stability or flexibility but have
+only marginal effects on integration or uptake of renewable energy shall not be eligible.
+ Where storage is pumped storage requiring construction of a new reservoir or capacity
+expansion of an existing reservoir, the entity applying the Common Principles shall demonstrate
+that lifecycle emissions of the new reservoir are low, as defined in activity 2.1.
+Guidance:
+ Energy storage should increase the use of very-low-carbon energy by enabling capacity
+expansion of renewable energy generation, reduction in the curtailment of very-low-carbon
+energy, or increasing the utilisation rate of very-low-carbon energy generation.
+ With respect to the third criterion, the share of climate financing may be apportioned on the
+basis of increased renewable capacity compared to the capacity of the storage facility. For
+storage considered to be an integrated part of the transmission and distribution system, the
+guidance for determining the share in activity 2.9 should be used.
+ With respect to the sixth criterion, storage investments with a very long economic life, such as
+pumped storage plants, may support renewable development over decades while still
+supporting the optimisation of highly emitting energy sources in the short term. If such activity
+results in delaying the development of additional renewable generation in the short or medium
+term, the criterion is not met.
+ The activities that are deemed eligible on account of their increasing grid stability or flexibility
+should significantly enhance stability or flexibility.
+ Potentially eligible activities include the following:
+
+16
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+- for energy storage, behind-the-meter battery storage and electric vehicles; and
+- for increasing network stability, installation of equipment such as power system stabilizers,
+series compensation, static reactive power compensators and synchronous condensers.
+
+Transport of
+electricity
+
+2.9. Greenfield transmission or
+distribution of electricity that
+supports delivery of nonnuclear, very-low-carbon
+electricity
+
+Criteria:
+ Non-nuclear, very-low-carbon electricity shall be either renewable electricity meeting the criteria
+for lifecycle GHG emissions in activity 2.1, or fossil-fuel-based generation with carbon capture and
+storage or utilisation as described in activity 12.5.
+ Apportionment of financing eligible for climate mitigation finance shall differ by type of
+investment:
+(1) If the transmission or distribution system is dedicated to or is required for the evacuation of
+non-nuclear, very-low-carbon electricity or reducing its curtailment, the financing of such
+investment shall be fully eligible. Where such investment is a part of a larger investment
+program, eligible financing shall be apportioned according to the capacity required for the
+evacuation of the non-nuclear, very-low-carbon electricity.
+Any additional capacity beyond the above shall be apportioned as described below depending on
+the nature of the investment.
+(2) Financing of general transmission or distribution investments within an existing grid shall be
+apportioned according to the share of additional electricity delivered that can be
+characterised as non-nuclear, very-low-carbon electricity during a 10-year period comprising
+five years before and five years after the start of the operation of the new infrastructure.
+(3) Financing of a new grid system not connected to an existing system shall be apportioned
+according to the share of non-nuclear, very-low-carbon electricity delivered at the start of the
+operation of the grid and in the five following years.
+(4) Financing of interconnections between grid systems, including transborder transmission of
+electricity, shall be apportioned according to the weighted average of the share of new nonnuclear, very-low-carbon electricity in the respective grids during the 10-year period described
+in (2), weighted according to the expected flows of electricity (in both directions where
+applicable).
+ The entity applying the Common Principles shall demonstrate that the grid in which transmission
+or distribution infrastructure is being built will either maintain or increase the share of non-
+
+17
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+nuclear, very-low-carbon electricity delivered. The only exception is a new grid system for which
+historical comparison is not possible.
+Guidance:
+ An electricity grid may be an interconnected transmission or distribution network with common
+market or dispatch rules that regulate electricity flows, an isolated grid, a mini-grid, or a microgrid. A country may have several grids; conversely a single grid may cover several countries.
+ The share of additional electricity delivered that meets the definition of non-nuclear, very-lowcarbon electricity in the five years after the start of the operation may be calculated from
+gigawatt-hours planned to be dispatched in the most recent power system expansion plan; or
+alternatively using data on generation plants under construction, committed projects, and other
+plants likely to come online and assuming appropriate load factors. The share from the past five
+years may be calculated using available dispatch data from ministries or utilities. If such data are
+not available, capacity data and representative load factors suitable for the location and
+technology of each relevant plant may be used.
+ New meters and other pieces of equipment installed at the retail end in a greenfield distribution
+system may be considered part of the system even if they are handled by retail rather than
+distribution companies. They may be eligible under this activity with appropriate apportionment
+of financing if they do not meet the criteria in activity 2.12.
+ Potentially eligible activities include:
+- extending access to unelectrified areas by connecting them to a power system that is
+following a decarbonization plan (case 2 in the second bullet in the criteria) or by using locally
+produced renewable electricity in a new mini-grid (case 3); and
+- strengthening the grid backbone infrastructure aimed at enabling the flow of additional
+renewable electricity (case 1).
+
+Transport of heating
+and cooling energy
+
+2.10. Greenfield high-efficiency
+transmission or distribution of
+heat or cooling energy
+
+Criteria:
+ The financing ear-marked for installation of advanced pilot systems (control and energy
+management systems) shall be eligible.
+ Apart from the above, energy transport systems to carry energy largely from greenfield energy
+generation facilities fuelled by fossil fuels shall not be eligible.
+
+18
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+Guidance:
+ The project should use the best available technology or, if the best available technology is
+commonly used, emerging technology with even higher efficiency.
+ Metering infrastructure considered to be part of an eligible distribution network is eligible. For
+other types of metering infrastructure, see activity 2.12.
+
+Energy transport
+
+Energy transport and
+sale
+
+2.11. Brownfield efficiency
+improvement or reduction of
+CO2e emissions in transmission
+or distribution of electricity,
+heat, cold, low-carbon gases, or
+CO2
+
+Criteria:
+The entity applying the Common Principles shall demonstrate a substantial improvement in energy
+efficiency or a substantial reduction in relative CO2e emissions in the supply chain itself.
+
+2.12. Activities targeting customers
+
+Criteria:
+No specific criteria
+
+of energy systems that support
+a reduction in consumption or
+enhanced uptake of renewable
+energy
+
+Guidance:
+ A substantial improvement in energy efficiency in the case of technical loss reduction in
+transmission or distribution of electricity, heat, cold, low-carbon gases, or CO2 is demonstrated
+by comparing the reduction in technical losses before and after the project intervention.
+ Metering infrastructure considered to be part of a distribution network is eligible only if it meets
+the requirements of activity 2.12. Metering infrastructure that does not meet these requirements
+is not eligible.
+ Where this activity transports electricity, heat, or cold from fossil fuel combustion, special
+attention should be paid to avoiding a carbon lock-in to ensure alignment with the Paris
+Agreement. An example of a procedure to examine the potential for a carbon lock-in of a district
+heating or cooling system can be found in annex 4 of the Methodology to determine the Paris
+Agreement alignment of EBRD investments.
+ Potentially eligible activities include technical loss reduction in transmission or distribution of
+electricity, which may comprise reactive power compensation plans and upgrading of
+transmission or distribution facilities to higher voltage levels or transformation to direct current;
+reduction of sulphur hexafluoride (SF6 ) emissions in electricity transmission and distribution; 2.10
+and reducing gas shrinkage in pipeline transport.
+
+19
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+Guidance:
+ The reduction of collection losses involves reducing accounts payable over and above those due
+to the standard time lag between billing and payment.
+ See activity 12.12 for treatment of activities that increase energy tariffs.
+ Activities that connect new customers in a greenfield distribution system without measures that
+support a reduction in consumption or enhanced uptake of renewable energy may be eligible
+under activity 2.9 or 2.10.
+ Potentially eligible activities include:
+- activities that reduce commercial or collection losses;
+- installation of calibrated meters in households who currently do not have meters or who have
+tampered meters;
+- installation of pre-paid meters;
+- installation of individual household meters for consumers who are currently sharing meters;
+- installation of smart meters with two-way communication, or other energy monitoring or
+control devices that enable consumers to actively manage their energy consumption;
+- measures that enable management of consumer demand at short time intervals and increase
+the flexibility of the electricity grid and its ability to accommodate an increasing share of
+variable renewable energy generation, such as through time-of-use pricing, load shifting, or
+through electricity market operators that provide “virtual power plant” services;
+- installation of smart grid devices that permit the implementation of the above measures, such
+as control devices that respond to remote signals or time-of-use pricing; and
+- installation of two-way metering devices or other consumer connection infrastructure that
+enable the installation of decentralized renewable energy systems such as solar rooftop units
+on the consumers’ premises.
+
+Fugitive emissions
+
+2.13. Reduction of fugitive GHG
+emissions in existing energy
+transport or storage
+infrastructure, or flaring of
+fugitive emissions from a
+closed coal mine where
+
+Criteria:
+In the case of flaring, the entity applying the Common Principles shall demonstrate that economic
+utilisation of gas in activity 2.5 is not viable.
+Guidance:
+There is no specific guidance.
+
+20
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+
+methane utilisation is not
+commercially viable
+
+21
+
+Table 3: Mining and metal production for climate action
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+
+Mining for climate
+action
+
+3.1. Projects that support mining of
+minerals or metal ores prevalently
+used in or critical for renewable
+energy, technologies that increase
+energy efficiency, other low-carbon
+technologies, or materials and
+products with low embedded GHG
+emissions
+
+Criteria:
+ Minerals classified by the International Energy Agency (IEA) as being critical for “clean
+energy transitions” shall be eligible, subject to apportionment rules in the next criterion.
+ Financing shall be apportioned according to rules that differ depending on whether endusers have been identified:
+- Where end-users are known, financing shall be apportioned according to the share of
+production that will be used in clean energy transition activities in the end-use markets.
+- Where end-users are not known, financing shall be apportioned according to the share of
+new global production that will be needed for clean energy transition activities in the IEA’s
+net-zero-emissions-by-2050 scenario over the expected life of the mine or from the start of
+the project operation to 2050, whichever period is shorter.
+ The supported mining activities shall adhere to a long-term strategy for reducing GHG
+emissions through:
+- long-term decarbonisation of electricity generated or purchased from the grid, including
+integration of renewable energy; and
+- efficient use of energy and resources, including, where economically viable and technically
+feasible, treatment and recycling of mining waste.
+Guidance:
+ A list of minerals identified as critical minerals for clean energy transitions by the IEA is
+available at The role of critical minerals in c lean energy transitions.
+ End-users are known if there are contracts with buyers who are end-users, or who in turn
+have contracts with end-users (of processed minerals or metal ores).
+ Materials that can be recycled include tailings and wastewater.
+ Greenfield mining and processing should use best available technologies that are
+economically viable to maximise recycling and treatment of mining waste and minimise GHG
+emissions.
+
+Metal production
+for climate action
+
+3.2. Projects that support production of
+metals or alloys prevalently used in
+or critical for renewable energy,
+
+Criteria:
+
+22
+
+Category
+
+Eligible activity
+technologies that increase energy
+efficiency, other low-carbon
+technologies, or materials and
+products with low embedded GHG
+emissions
+
+Screening Criteria and Guidance
+ Production of metals or alloys from the minerals classified by the IEA as being critical for
+“clean energy transitions” shall be eligible, subject to apportionment rules in the next
+criterion.
+ Financing shall be apportioned according to rules that differ depending on whether endusers have been identified:
+- Where end-users are known, financing shall be apportioned according to the share of
+production that will be needed for clean energy transition activities in the end-use
+markets.
+- Where end-users are not known, financing shall be apportioned according to the share of
+new global production that will be used in clean energy transition activities in the IEA’s
+net-zero-emissions-by-2050 scenario over the expected life of the smelter or the refinery
+or from the start of the project operation to 2050, whichever period is shorter.
+ The supported processes for production of metals or alloys shall adhere to a long-term
+strategy for reducing GHG emissions through:
+- long-term decarbonisation of electricity generated or purchased from the grid, including
+integration of renewable energy; and
+- efficient use of energy and resources, including, where economically viable and technically
+feasible, treatment and recycling of residues for re-use.
+ Activities devoted to recycling of used metals or alloys shall be eligible, provided that the
+entity applying the Common Principles demonstrates a substantial reduction in lifecycle GHG
+emissions.
+Guidance:
+ A list of minerals identified as critical minerals for clean energy transitions by the IEA is
+available at The role of critical minerals in c lean energy transitions.
+ Production processes falling under this activity are smelting and refining of minerals.
+ End-users are known if there are contracts with buyers who are end-users of metals or alloys,
+or who in turn have contracts with end-users.
+ Materials that can be recycled and treated in the third criterion include slag.
+ Greenfield refining and smelting should use best available technologies that are economically
+viable to maximise recycling and treatment of residues and minimise GHG emissions.
+
+23
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+ Eligible recycling activities in the last criterion range from collection and separation of
+materials containing metals or alloys to be recycled to final finishing for use by
+manufacturers using metals or alloys. See also activity 12.1 on circular economy systems.
+ Demonstration of a substantial reduction in relative GHG emissions in the last criterion
+includes consideration of the sourcing of scrap metals. As an example of potentially ineligible
+activities, importing scrap metals involving long-distance shipping may not materially reduce
+lifecycle emissions.
+
+24
+
+Table 4: Manufacturing
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+
+Energy efficiency
+
+4.1. Brownfield industrial
+energy or resource-use
+efficiency improvement
+
+Criteria:
+The entity applying the Common Principles shall demonstrate a substantial reduction in relative GHG
+emissions, carbon intensity (e.g., tCO2e/unit of output), or energy intensity (e.g., gigajoules/unit of
+output).
+Guidance:
+ Relative GHG emissions are reduced through energy savings, decreased carbon intensity, decreased
+use of virgin materials, or decreased waste generation.
+ Potentially eligible activities include installation of more efficient equipment, changes in processes
+resulting in energy savings, resource-use efficiency measures, and implementation of energy-efficiency
+plans.
+
+Efficient energy
+generation
+
+4.2. Brownfield conversion
+from production of one
+type of energy to joint
+generation, or delivery
+for use of electricity,
+heat, mechanical energy,
+cooling, or desalination
+
+See activity 2.6.
+
+Energy and resource
+efficiency
+
+4.3. Highly efficient or lowcarbon greenfield
+manufacturing facilities
+or greenfield
+supplementary
+equipment or production
+lines at an existing
+manufacturing facility
+
+Criteria:
+ The entity applying the Common Principles shall demonstrate a substantially lower carbon intensity or
+energy intensity of the greenfield manufacturing facility or greenfield supplementary equipment or
+production lines at an existing manufacturing facility against a selected benchmark.
+ The financing provided for a greenfield facility shall be apportioned according to the share of the total
+finance devoted to enabling high efficiency in a manner consistent with the principles of
+conservativeness and granularity.
+ Components of activities that use fossil fuels shall not be eligible.
+Guidance:
+ The benchmark for defining low carbon or low energy intensity should be based on available
+documentation for the global or regional top tier of efficient production as applicable. Benchmarks
+should allow activities involving a fossil fuel as a source of heat for the sector in question only where
+
+25
+
+Category
+
+Electrification
+
+CO2e-emission
+reduction
+
+Resource demand
+management
+
+Eligible activity
+
+4.4. Brownfield replacement
+of equipment or
+processes based on fossil
+fuels with electrical
+equipment or process
+components
+
+4.5. Retrofit of existing
+industrial infrastructure
+resulting in avoidance of
+industrial GHGs, a switch
+to industrial GHGs with
+lower global warming
+potential, or
+implementation of
+technologies or practices
+that minimise leakages
+4.6. Improvements to
+existing industrial
+processes, new
+processes, or advanced
+manufacturing
+technology solutions,
+leading to a reduction in
+consumption or a
+reduction in waste of
+non-energy resources
+
+Screening Criteria and Guidance
+renewable energy resources on the scale required are not available. Benchmarks should allow
+activities involving a fossil fuel as a feedstock for the sector in question only where the use of a nonfossil-fuel feedstock is relatively rare.
+ Where a project includes fossil fuels, their continued use for the lifetime of the project should be
+consistent with a credible decarbonisation pathway for that sector.
+Criteria:
+ Eligible projects shall be for industrial equipment, processes, or components where electrification is
+relatively rare and enables structural changes required for long-term decarbonisation.
+ The entity applying the Common Principles shall demonstrate that electrification of the process is a
+widely recognised pathway to decarbonisation.
+Guidance:
+An example is switching an industrial fossil-fuel-based furnace or boiler to equipment that runs on
+electricity.
+Criteria:
+Where the activity involves a switch to a new industrial GHG, the entity applying the Common Principles
+shall demonstrate that the replacing industrial GHG has lower global warming potential and the resulting
+reduction in relative GHG emissions is substantial.
+Guidance:
+Potentially eligible industrial GHGs with lower global warming potential include natural refrigerants,
+hydrofluorocarbons (HFCs) with lower global warming potential, hydrofluoroolefins (HFOs), or HFC-HFO
+blends.
+Criteria:
+The entity applying the Common Principles shall demonstrate a substantial reduction in relative GHG
+emissions, taking account of material lifecycle sources, such as where scope 3 emissions are expected to
+be material.
+Guidance:
+ The boundaries for GHG assessment can be limited by excluding certain stages or activities in the
+supply chain based on, for example, the materiality of the emissions from the emission sources or the
+ability of the project to influence the sources of emissions.
+
+26
+
+Category
+
+Eligible activity
+through changes in
+processes or process
+inputs
+
+Energy storage
+
+Support for lowcarbon development
+
+Lower-carbon
+hydrogen and
+derivatives
+
+Lower-carbon energy
+generation
+
+4.7. Energy storage or smart
+industrial-scale solutions
+to increase integration of
+very-low-carbon energy
+or use of previously
+waste energy
+4.8. Projects that support
+production of
+components, equipment
+or infrastructure
+dedicated exclusively to
+utilisation in the
+renewable energy,
+energy efficiency
+improvement, or other
+low-carbon technologies
+
+4.9. Use of low-carbon
+hydrogen or low-carbon
+products made from it,
+or use of any hydrogen
+in processes previously
+using a fossil fuel
+
+4.10. Use of waste gas as a
+feedstock or as a fuel to
+
+Screening Criteria and Guidance
+ When a project replaces primary resources with secondary or alternative resources without increasing
+energy consumption, demonstration of a substantial reduction in the resource use may substitute
+demonstration of a substantial reduction in relative GHG emissions.
+Criteria:
+For energy storage, see activity 2.8 for criteria.
+Guidance:
+ For energy storage, see activity 2.8 for guidance.
+ An example of storage of previously wasted energy in manufacturing is use of molten salt in thermal
+storage.
+Criteria:
+The entity applying the Common Principles shall demonstrate support to manufacturing eligible
+products, product components, equipment or appliances that are needed for eligible climate change
+mitigation activities.
+Guidance:
+There is no specific guidance.
+
+Criteria:
+ Low-carbon hydrogen or low-carbon products made from it shall satisfy the criteria in activity 2.3.
+ Where a combination of low-carbon hydrogen or products derived from such hydrogen meeting the
+criteria in activity 2.3 and their non-low-carbon equivalents are used, financing shall be apportioned
+according to the share of low-carbon chemicals.
+ The use of non-low-carbon hydrogen shall be eligible only if used in hydrogen-fuelled vehicles or when
+the application is in a process in which hydrogen replaces a fossil fuel (see activity 8.6).
+Guidance:
+With respect to the last criterion, with the exception of hydrogen-fuelled vehicles, processes currently
+using hydrogen would be eligible only if they use low-carbon hydrogen meeting the criteria in activity 2.3.
+Criteria:
+See activity 2.5 for criteria.
+
+27
+
+Category
+
+Eligible activity
+supply electricity, heat,
+mechanical energy or
+cooling
+
+Screening Criteria and Guidance
+Guidance:
+ Non-energy uses include use of waste gas as a feedstock for production of fertilisers or
+petrochemicals.
+ See activity 2.5 for additional guidance.
+
+28
+
+Table 5: Agriculture, forestry, land use and fisheries
+In this table, the distinction between greenfield and brownfield applies only to equipment and machinery used. Otherwise, given the complex interplay
+of natural systems and management practices in various land- and water-based activities, distinguishing between greenfield and brownfield activities is
+not considered appropriate.
+To demonstrate GHG emission reductions or sequestration in agriculture, forestry or livestock projects, methodologies approved by the IPCC should be
+used, such as those included in the Ex-ante Carbon-balance Tool (EX-ACT). For specific sectoral projects or programmes specialised assessment tools
+such as the Global Livestock Environmental Assessment Model (GLEAM) or those of other reputed institutions, may be applied . There may be instances
+where GHG assessment is not feasible, due to factors such as the complex interplay of GHG emissions and diversity of management practices in the
+agriculture sector. In such cases, proxy approaches may be used in a manner that upholds the principle of conservativeness in line with best international
+practices. Potential impacts due to leakage should be considered in GHG assessments where feasible to assess.
+Category
+
+Eligible activity
+
+Screening Criteria: and Guidance
+
+Agriculture:
+energy efficiency
+
+5.1. Reduction in energy
+consumption in
+operations
+
+Criteria:
+ For brownfield activities the entity applying the Common Principles shall demonstrate a substantial
+reduction in relative GHG emissions, carbon intensity (e.g., tCO2e/unit of output), or energy intensity (e.g.,
+gigajoules/unit of output).
+ For greenfield activities, the entity applying the Common Principles shall demonstrate a substantial
+reduction in relative GHG emissions, carbon intensity, or energy intensity against a selected benchmark.
+Guidance:
+ Potentially eligible activities include increasing energy efficiency of crop production and increasing use of
+energy-efficient equipment for agricultural processing and storage.
+ Examples of operations are traction, irrigation, pumping, pest management, harvesting, post-harvest crop
+processing, crop drying, crop cooling, storage, and transport. For transport, see activities related to goods
+transport in Table 8: Transport.
+
+Agriculture:
+carbon
+sequestration
+
+5.2. Agricultural projects
+that contribute to
+increasing the carbon
+stock in the soil or
+avoiding loss of soil
+carbon through erosion
+control measures
+
+Criteria:
+The entity applying the Common Principles shall demonstrate a substantial increase in the above- or belowground carbon stock.
+
+29
+
+Category
+
+Eligible activity
+
+Screening Criteria: and Guidance
+Guidance:
+ Where appropriate, trade-offs between higher carbon and nitrogen levels in the soil on the one hand and
+higher emissions of nitrous oxide on the other should be addressed through appropriate management
+practices.18
+ In peatland restoration, trade-offs between avoided carbon loss and increased methane emissions should be
+addressed through appropriate management practices.19
+ For activities or policy interventions that enable peatland conservation (e.g., activities preventing mining of
+peat and drainage of peatlands), evidence of contribution to peatland conservation should be provided.
+ Potentially eligible activities include degraded land rehabilitation, erosion control measures, reduced tillage
+intensity and cover crops, crop rotation, higher inputs of organic matter to soil, processing and application
+of manure/digestate preferably with biogas capture for energy, perennial cropping systems, cultivation of
+deep rooting species, circular/integrated activities that enhance carbon stock, fire management, and
+peatland restoration and conservation.
+
+Agriculture: GHGemission
+reduction
+
+5.3. Reduction of GHG
+emissions from
+agricultural practices or
+technologies
+
+Criteria:
+ If data are available to enable calculations, the entity applying the Common Principles shall demonstrate a
+substantial reduction in relative GHG emissions or carbon intensity (e.g., tCO 2e/unit of output).
+ If the foregoing calculations are not feasible for a lack of data or the number of farms is large, the entity
+applying the Common Principles shall use other relevant proxies (see examples in the guidance below) to
+demonstrate eligibility.
+Guidance:
+ Potentially eligible activities include more efficient nitrogen fertiliser use (by improving the rate, type,
+timing, placement, or precision of application), manure management including anaerobic digestion, drainage
+management, improved crop breeds and biotechnology that reduce emissions, water management in paddy
+rice, and soil conservation practices.
+
+18
+
+Higher levels of carbon and nitrogen can lead to higher emissions of nitrous oxide from soil, potentially offsetting mitigation benefits of higher soil-carbon content, because
+the soil organic carbon and nitrogen cycles are closely linked. It is therefore important to manage these trade-offs through optimised practices specific to the soil composition
+in each situation.
+19 Draining peatland increases peat oxidisation and hence emissions of CO and nitrous oxide. Any management practices that lower the water table lead to losses of carbon
+2
+and nitrogen from peatlands. Responsible management of peatlands, including rewetting, can help maintain peatland ecosystem s ervices while supporting the improvement
+of local livelihoods and their adaptation to the changing conditions. However, drained peat soils do not typically emit metha ne while rewetted peatlands may emit more
+methane. It is therefore important to manage these trade-offs through optimised practices specific to the peat composition in each situation.
+
+30
+
+Category
+
+Eligible activity
+
+Screening Criteria: and Guidance
+ Examples of proxies in the second criterion include a substantial reduction in synthetic fertiliser usage per
+unit of output and internationally accepted sustainability certifications that promote improved agricultural
+practices with climate mitigation co-benefits.
+
+Livestock: GHGemission
+reduction
+
+5.4. Projects that reduce
+methane or other GHG
+emissions from
+livestock
+
+Criteria:
+ If data are available to enable calculations, the entity applying the Common Principles shall demonstrate a
+substantial reduction in relative GHG emissions or carbon intensity (e.g., tCO 2e/unit of output).
+ If the foregoing calculations are not feasible for a lack of data or the number of farms is large, the entity
+applying the Common Principles shall use other relevant proxies (see examples in the guidance below) to
+demonstrate eligibility.
+ Introduced species shall not contribute to intact ecosystem degradation.
+Guidance:
+ Potentially eligible activities include manure management with biodigesters, wastewater management,
+improved feeding practices, feed production with reduced GHG emissions or improved quality, local feed
+production including use of agricultural residues, investments in reducing feed losses along the value chain,
+improved animal welfare (such as reduced mortality and morbidity), improved animal husbandry (genetics,
+breeding, and herd population management), sourcing low-emission feeds or forage, and using feed
+additives (improved feed conversion efficiency, enteric methane inhibitor, improving nutrient efficiency).
+ Examples of proxies in the second criterion include improvement in the feed conversion ratio and
+internationally accepted sustainability certifications that promote improved agricultural practices with
+climate mitigation co-benefits.
+ Activities that improve the feed conversion ratio by converting grazing systems to intensive systems with
+off-farm feed inputs are excluded.
+
+Livestock: carbon
+sequestration
+
+5.5. Livestock projects that
+improve carbon
+sequestration through
+rangeland management
+
+Criteria:
+The entity applying the Common Principles shall demonstrate a substantial increase in the above- or belowground carbon stock.
+Guidance:
+Potentially eligible activities include improved pasture management to increase soil carbon stocks and reduce
+erosion, improved grazing management, circular or integrated activities that enhance carbon stock, promotion
+of silvopastoralism, and nitrification-inhibiting practices in pastures.
+
+31
+
+Category
+
+Eligible activity
+
+Screening Criteria: and Guidance
+
+Forestry: GHGemission
+reduction and
+carbon
+sequestration
+
+5.6. Forestry or
+agroforestry projects
+that sequester carbon
+through sustainable
+forest management,
+avoided deforestation
+or avoided land
+degradation
+
+Criteria:
+ The entity applying the Common Principles shall demonstrate a substantial increase in the above- or belowground carbon stock, or a substantial reduction in relative GHG emissions or carbon intensity (e.g.,
+tCO2e/unit of output).
+ Activities that drain intact ecosystems or degrade hydrological systems shall not be eligible.
+
+Marine and other
+water habitats:
+GHG-emission
+reduction
+
+Fisheries and
+aquaculture:
+GHG-emission
+reduction
+
+5.7. Projects that reduce
+GHG emissions from
+the degradation of
+marine ecosystems or
+other water-based
+ecosystems
+
+5.8. Projects that reduce
+CO2e intensity in
+fisheries or aquaculture
+
+Guidance:
+ Evidence of human-assisted natural regeneration should be provided.
+ Potentially eligible activities include afforestation (plantations) and reforestation on previously deforested
+land (applying international best practices), and circular or integrated activities that enhance carbon stock,
+supply chains that promote sustainable agroforestry , restoration of degraded natural land-based habitats,
+biosphere conservation, policy interventions that explicitly protect carbon stocks ( e.g., through land-use
+zoning, enforcement of sanctions on deforestation, or sustainable intensification of land use), maintaining
+healthy forests, switching from conventional logging to reduced-impact logging, selective logging, land
+degradation prevention measures and fire risk mitigation.
+Criteria:
+ The entity applying the Common Principles shall demonstrate a substantial reduction in relative GHG
+emissions or carbon intensity (e.g., tCO2e/unit of output).
+ Activities that drain intact ecosystems or degrade hydrological systems shall not be eligible.
+Guidance:
+ Evidence for human-assisted natural regeneration should be provided.
+ Potentially eligible activities include restoration and protection of healthy marine habitats or mangroves,
+reforestation of seaweeds or kelp and habitat protection programmes.
+Criteria:
+ For brownfield activities, if data are available to enable calculations, the entity applying the Common
+Principles shall demonstrate a substantial reduction in relative GHG emissions, carbon intensity (e.g.,
+tCO2e/unit of output), or energy intensity (e.g., gigajoules/unit of output) compared to a business-as-usual
+baseline.
+ For greenfield activities, if data are available to enable calculations, the entity applying the Common
+Principles shall demonstrate a substantial reduction in relative GHG emissions, carbon intensity, or energy
+intensity against a selected benchmark.
+
+32
+
+Category
+
+Eligible activity
+
+Screening Criteria: and Guidance
+ If the foregoing calculations are not feasible for a lack of data or the number of farms is large, the entity
+applying the Common Principles shall use other relevant proxies (see examples in the guidance below) to
+demonstrate eligibility.
+ Introduced species or technologies shall not contribute to degradation or destruction of intact ecosystem or
+native fisheries.
+Guidance:
+ Potentially eligible activities include improved energy efficiency in the fisheries or aquaculture value chain,
+e.g., through more efficient fishing fleets, equipment and machinery; and activities that reduce emissions by
+using sustainable feeds.
+ Examples of proxies include improvement in the feed conversion ratio and internationally accepted
+sustainability certifications that promote improved aquacultural practices with climate mitigation cobenefits.
+
+Food and diets:
+resource use
+efficiency
+
+5.9. Projects that reduce
+food losses or waste or
+promote lower-carbon
+diets
+
+Criteria:
+The entity applying the Common Principles shall demonstrate a substantial reduction in relative GHG emissions
+or carbon intensity (tCO2e/unit of output).
+Guidance:
+Potentially eligible activities include:
+ food waste utilisation (circular-economy systems; see also activity 5.4);
+ policy interventions resulting in reduced food waste;
+ Investments in avoided food losses along the value chain (e.g., improved handling and storage
+infrastructure, more efficient logistics, and better-managed cold-chain infrastructure to reduce crop or food
+spoilage); and
+ activities supporting the value chain of low-GHG products—for example, plant-based proteins (such as pulse
+production and trading and pulse protein extraction) and other alternative proteins (such as insect-based
+proteins), reformulation of products with lower-GHG ingredients, and products applying sustainability
+certifications with mitigation benefits.
+
+GHG reduction
+through
+biomaterial
+production
+
+5.10. Projects that
+contribute to
+reduction of GHG
+emissions through
+production of
+
+Criteria:
+ The entity applying the Common Principles shall demonstrate a substantial reduction in relative GHG
+emissions or carbon intensity (tCO2e/unit of output).
+ Biomass shall be supplied from sustainable and socially acceptable sources, as demonstrated through
+compliance with internationally accepted sustainability certifications, and the activity shall not interfere with
+food security.
+
+33
+
+Category
+
+Eligible activity
+biomaterials/bioenergy
+from biomass
+
+Screening Criteria: and Guidance
+Guidance:
+ In demonstrating GHG emissions reductions for forest-sourced biomass used in biomaterials production, the
+biomass should be accounted as carbon that has been removed from the forest—per agriculture, forestry
+and other land use (AFOLU) as defined and covered by the IPCC guidelines for national GHG inventories—
+and consequently the biomaterials produced shall be considered carbon sinks that substitute for fossil-based
+or energy-intensive materials.
+ Baseline emissions should consider scope 3 emissions where they are expected to be material or adversely
+affect relative GHG emissions, which may also require setting the assessment boundary outside the physical
+limits of the project to adequately represent the baseline.
+ Two examples of internationally accepted sustainability certifications for forest-sourced biomass are the
+Forest Stewardship Council (FSC) and Programme for the Endorsement of Forest Certification (PEFC).
+ Activities that fall under activity 5.10 involve the production of biomaterials or bioenergy with lower GHG
+emissions and substitution of more carbon-intensive materials or energy sources downstream with such
+biomaterials or bioenergy. For other examples of bioenergy, see activities 2.1 and 7.6.
+ Potentially eligible activities include production of bioenergy from biomass residues otherwise burned on
+site or not used as an energy source; production of bio-plastics from cereals by-products; production of
+asphalt from lignine; production of durable fibrous biomass products replacing plastics or other petroleumbased products (e.g., clothing); and other biomass materials (e.g., wood based products) replacing energyintensive materials (e.g., concrete, steel, or synthetic fibres); and manufacturing of biomaterial-based
+products (e.g., biochar, furniture) that are long-lasting and store carbon during their useful lifetime.
+ Direct land-use changes should be included in the lifecycle GHG emissions analysis if they are deemed to
+make a material difference, and indirect land-use changes should also be considered where they are feasible
+to assess and expected to be material.
+
+34
+
+Table 6: Water supply and wastewater
+For the purposes of Table 6, “water supply” refers to potable water.
+Category
+
+Eligible activity
+
+Screening Criteria: and Guidance
+
+Energy and resource
+efficiency and demand
+management in water
+supply
+
+6.1. Brownfield energy
+efficiency
+improvement in
+water supply
+systems through
+deployment of lowenergyconsumption
+technologies or
+equipment,
+promotion of better
+auditing practices,
+or reduction of
+water losses
+
+Criteria:
+The entity applying the Common Principles shall demonstrate a substantial increase in energy efficiency or a
+substantial reduction in relative GHG emissions.
+
+6.2. Lower-carbon
+greenfield water
+supply projects that
+replace tanker use
+or local coping
+mechanisms with a
+piped utility water
+supply system
+
+Criteria:
+The entity applying the Common Principles shall demonstrate a substantial reduction in relative GHG
+emissions.
+
+Lower-carbon water
+supply
+
+Guidance:
+For water supply activities involving infrastructure that is well within its original economic lifetime, energy
+efficiency improvements, including non-revenue water (NRW) reduction, will be assessed as a brownfield
+activity. Projects that include components for both NRW reduction and water-supply-system expansion will
+be disaggregated into brownfield and greenfield components whereby the one corresponding to the water
+supply system expansion (i.e., an increase in the actual volume of water supplied) should be considered as a
+greenfield development under activities 6.2, 6.3, or 6.4 below.
+
+Guidance:
+ For projects that replace water boiling with treatment by a utility at a water treatment plant, the
+treatment technology will need to be the best locally available technology to prevent the continued lockin of highly emissive behaviours or technologies.
+ Potentially eligible activities include:
+- replacement of tanker use for water service delivery to end users with a piped network;
+- reduction in household- or neighbourhood-level pumping (groundwater or surface water extraction,
+or pumping for distribution) powered by diesel fuel with a piped network that uses energy more
+efficiently; and
+- reduction in household boiling or other emissive household treatment options with access to treated
+water.
+
+35
+
+Category
+
+Eligible activity
+
+Screening Criteria: and Guidance
+
+Energy efficiency and
+demand management in
+water supply
+
+6.3. Greenfield water
+supply projects
+meeting high
+energy efficiency
+standard or making
+use of demand
+management
+
+Criteria:
+The entity applying the Common Principles shall demonstrate that the relevant equipment meet at least
+one of the following three criteria: i) it substantially exceeds applicable energy efficiency requirements
+where such a legal framework is enforced; ii) it employs the best technology available in the country in the
+absence of such a legal framework, or iii) it is a zero-emission system, such as gravity-fed pipelines.
+
+Energy and resource
+efficiency and GHGemission reduction in
+water supply and
+wastewater
+management
+
+6.4. Greenfield and
+brownfield projects
+that promote
+improved operation
+and maintenance to
+reduce water
+losses, promote
+energy savings, or
+meet or exceed
+wastewater
+treatment targets
+
+Guidance:
+Potentially eligible activities include:
+ requiring the most energy efficient technologies available locally for treatment, pipes, or pumping
+(groundwater or surface water extraction, or pumping for distribution);
+ using gravity-based systems instead of pumping;
+ employing rainwater harvesting and utilisation;
+ locating water treatment plants, desalination plants, storage equipment, or other infrastructure where
+the need for pumping or additional treatment is reduced;
+ using the best available technology in water supply sector (such as installing smart pumps and variable frequency drives); and
+ making use of load or demand management.
+Criteria:
+The entity applying the Common Principles shall demonstrate the specific focus of the operation and
+maintenance program targeting substantial energy efficiency improvement, water savings, or reduced
+emissions from improved wastewater treatment.
+Guidance:
+ The improved operation and maintenance program can be either a dedicated energy efficiency, water
+savings, or wastewater treatment target program, or a part of an overall program to improve operation
+and maintenance across all metrics for the utility. For the latter, only the portion of the operation and
+maintenance program dedicated to energy efficiency or water savings is eligible.
+ For use of biogas from anaerobic digestion of wastewater or sludge, see activity 2.5.
+ Potentially eligible activities include:
+- training programs that emphasise leak detection and prevention, improved maintenance, or energy
+efficiency improvements;
+- programs implementing supervisory control and data acquisition (SCADA) systems expected to reduce
+water losses or reduce energy use; and
+
+36
+
+Category
+
+GHG-emission reduction
+in wastewater
+management
+
+Eligible activity
+
+Screening Criteria: and Guidance
+
+6.5. Greenfield projects
+that reduce
+methane or nitrous
+oxide emissions
+through
+wastewater, fecal
+sludge or septage
+collection and
+treatment
+
+- programs ensuring that the levels of removal of biochemical oxygen demand (BOD) or five-day
+biochemical oxygen demand (BOD5), chemical oxygen demand (COD), or nitrogen20 reach or exceed
+their targets.
+Criteria:
+ The entity applying the Common Principles shall demonstrate a substantial reduction in relative GHG
+emissions.
+ The treatment system shall remove BOD. If there is no treatment of the collected wastewater, fecal
+sludge or septage—that is, no BOD is removed—as part of the project, the activity shall not be eligible.
+ For projects using anaerobic treatment technologies only, anaerobic treatment projects that would
+otherwise generate an appreciable amount of methane shall use it in energy generation or production
+processes, or, if use of methane is not economically viable, flare methane to release carbon dioxide.
+Appropriate mitigation measures shall be put in place to minimise and control methane leakage.
+Guidance:
+ In the GHG assessment, the project scenario should account for both direct emissions from treatment
+and emissions from energy use for collection and treatment.
+ Collected wastewater, fecal sludge or septage should be treated soon after collection.
+ For use of biogas from anaerobic digestion of wastewater or sludge, see activity 2.5.
+
+Energy efficiency and
+GHG-emission reduction
+in wastewater
+management
+
+6.6. Brownfield projects
+for wastewater that
+reduce emissions
+through energy
+efficiency
+improvements or
+improved
+treatment targets
+
+Criteria:
+The entity applying the Common Principles shall demonstrate a substantial reduction in relative GHG
+emissions.
+Guidance:
+ Less energy-intensive wastewater treatment technologies may have different rates of BOD/BOD5, COD,
+or nitrogen removal from the existing baseline technology. When switching from a more energyintensive to a less energy-intensive treatment technology, the GHG analysis should reflect both changes
+in emissions due to energy demand for treatment and changes in direct emissions from treated
+wastewater for different levels of treatment. When comparing a baseline with project scenarios, the rate
+of removal and the effluent quality should be the same or higher in the project.
+ Projects that aim to improve treatment standards of BOD, BOD5, COD or nitrogen should result in
+relative emission reductions of methane or nitrous oxide. The GHG analysis should reflect both changes
+
+20
+
+For wastewater, fecal sludge or septage systems that are ex-ante expected to result in relative GHG emissions reductions through collection and treatment, reaching
+or exceeding their targeted levels of BOD, BOD5, COD or nitrogen removal are necessary for ensuring net emission reductions of methane or nitrous oxide.
+
+37
+
+Category
+
+GHG-emission reduction
+in wastewater collection
+
+Efficient use of
+wastewater
+
+Eligible activity
+
+6.7. Greenfield or
+brownfield projects
+that improve
+latrines or
+collection of
+wastewater, fecal
+sludge, or septage
+
+6.8. Wastewater reuse
+
+Screening Criteria: and Guidance
+in direct emissions due to improved treatment standards and changes in emissions from different energy
+demand for treatment. When comparing a baseline with project scenarios, the rate of removal and the
+effluent quality should be the same or higher in the project.
+Criteria:
+The entity applying the Common Principles shall demonstrate a substantial reduction in relative GHG
+emissions once treatment of the collected material is taken into account.
+Guidance:
+ The project will be investing only in a collection (and not treatment) system, which in isolation would
+likely increase relative GHG emissions due to electricity or fuel usage. If the project is linked to an existing
+wastewater treatment plant or a treatment plant that will be built through a separate project
+implemented by a different entity, then the direct and indirect emissions from treatment should also be
+accounted for in assessing whether the activity would qualify for mitigation finance, because a reduction
+in relative GHG emissions due to treatment at the treatment plant level would only be possible due to the
+investment in the collection system.
+ Gravity-based collection systems as part of a wastewater treatment system in greenfield projects are
+eligible if they result in near zero energy-related GHG emissions due to a lack of energy use.
+ Increased collection rates from existing latrines and septic tanks in isolation may lead to an increase in
+relative GHG emissions from increased electricity use (from sewers) or fuel use (from vacuum trucks),
+although the increased treatment rate may lead to an overall reduction in relative GHG emissions for the
+project or activity. A reduction in time wastewater, fecal sludge, or septage spends in anaerobic
+conditions, such as septic tanks or latrines, can in isolation lead to a reduction in relative GHG emissions.
+Both of these factors should be included in the overall GHG analysis for brownfield projects targeting a
+higher collection rate.
+ These types of activities are often combined with building or improving latrines with reduced anaerobic
+conditions compared to the baseline scenario. Investments in latrine improvement are eligible for
+mitigation finance when they result in a substantial reduction in relative GHG emissions and are
+combined with investments in wastewater, fecal sludge, or septage collection that lead to a substantial
+reduction in relative GHG emissions through collection and treatment.
+Criteria:
+The entity applying the Common Principles shall demonstrate a substantial reduction in relative GHG
+emissions between the wastewater reuse activity and the expected activity to be replaced or prevented.
+
+38
+
+Category
+
+Eligible activity
+
+Screening Criteria: and Guidance
+Guidance:
+ Some wastewater reuse technologies, such as tertiary treatment for aquifer recharge, can be highly
+energy-intensive. The analysis of GHG emissions should capture the high level of energy intensity where
+applicable.
+ Potentially eligible activities include:
+- greywater reuse and blackwater reuse after treatment at the building or local level;
+- treated wastewater reuse for irrigation;
+- treated sludge as a fertiliser replacement; and
+- nature-based solutions using retention ponds or constructed wetlands as part of integrated flood risk
+management.
+
+39
+
+Table 7: Solid waste management
+For all eligible activities in this table, the entity applying the Common Principles should demonstrate the following to the extent possible and
+applicable:
+ For investments in new waste infrastructure or expansion or replacement of the existing infrastructure, in particular for residual waste treatment
+and disposal (activities 7.9, 7.10, and 7.12), the entity has appropriately considered the waste hierarchy principle through national legislation (e.g.,
+prevention and recycling objectives and targets, waste disposal objectives and targets) and waste management plans (e.g., plans and measures to
+increase waste prevention, recycling and material recovery while developing residual waste management infrastructure), and can demonstrate that
+the activity will not result in long-term lock-in of overcapacities, which would in return deter or reduce the impact of current or future waste
+prevention and recycling or material-recovery measures. For this purpose, the entity has adopted good practice, which bases the design capacity of
+waste management facilities on long-term waste generation forecasts for the relevant catchment area as well as on relevant waste management
+objectives and targets as defined in national legislation and waste management plans. The eligible activities apply to municipal solid waste or similar
+waste, which includes household, garden, park, commercial, and institutional waste.
+ The entity has applied the proximity principle to the waste sourcing and transport system. The proximity principle is about treating and disposing of
+waste in reasonable proximity to where it had been generated to reduce CO 2e emissions from waste transport.
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+
+Waste collection
+and transport
+
+7.1. Separate
+collection and
+transport of
+sourcesegregated
+waste fractions
+
+Criteria:
+ The activity shall support recovery of eligible materials aimed at preparing them for reuse or recycling, including
+recovery and valorisation of bio-waste.
+ Separately collected waste fractions shall not be subsequently mixed where doing so may affect their potential for
+subsequent reuse, recycling, or material recovery.
+ Where the activity does not use specialised equipment and facilities, financing shall be apportioned as described in
+the guidance below.
+Guidance:
+ Specific examples of eligible materials for recovery and associated processes and infrastructure can be found in
+activities 7.3–7.8.
+ Source segregation and separate collection of recyclable waste may be in single or co-mingled material fractions.
+ Potentially eligible activities include the deployment or operation of (i) waste collection equipment, e.g., bins and
+containers (including underground systems); (ii) waste collection and transport vehicles; (iii) technological
+equipment and applications of information and communications technologies, e.g., for collection route
+optimisation, pay-as-you-throw schemes, product tracking and take-back systems; and (iv) construction or
+
+40
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+operation of infrastructure for separate waste collection, e.g., civic amenity centres, vehicle depots, and vehicle
+washing, maintenance and repair facilities.
+ Only the portion of the investment associated with eligible material recovery activities is eligible. If there is no
+specialised equipment (e.g., if waste collection vehicles or vehicle depots are used for both residual waste
+collection and separate waste collection), the financing is apportioned according to the proportion of the waste
+that is separately collected for eligible material recovery activities.
+
+Waste storage
+and transfer
+
+Product reuse
+
+7.2. Temporary
+storage,
+bulking, or
+transfer of
+separately
+collected,
+sourcesegregated
+waste fractions
+
+Criteria:
+ The activity shall support recovery of eligible materials aimed at preparing them for reuse or recycling, including
+material recovery and valorisation of bio-waste.
+ Separately collected waste fractions shall not be subsequently mixed where doing so may affect their potential for
+subsequent material recovery, reuse or recycling.
+ Where the activity does not use specialised equipment and facilities, financing shall be apportioned as described in
+the guidance below.
+
+7.3. Repair and
+reconditioning
+of products or
+product
+components to
+enable their
+reuse
+
+Criteria:
+ The entity applying the Common Principles shall demonstrate that the activity satisfy all the conditions below:
+- Products would otherwise be discarded.
+- Products shall be put back to their original use.
+- Products shall not be intended for reuse in any activity contrary to the Common Principles.
+- The activity shall not compromise the ability to recover and recycle the products or their associated materials at
+the end of their useful life.
+ If the activity involves the repair of products that are at the end of their design life meeting obsolete energy
+efficiency standards, the entity applying the Common Principles shall additionally demonstrate a reduction in
+
+Guidance:
+ Specific examples of eligible materials for recovery and associated processes and infrastructure can be found in
+activities 7.3–7.8.
+ Source segregation and separate collection of recyclable waste may be in single or co-mingled material fractions.
+ Potentially eligible activities include construction or operation of temporary storage, bulking, or transfer facilities
+and ancillary equipment and vehicles.
+ Only the portion of the investment associated with eligible material recovery activities is eligible. If there is no
+specialised equipment (e.g., balers specific to recycling), the financing is apportioned according to the proportion
+of the waste destined to eligible material recovery activities.
+
+41
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+relative GHG emissions over the products’ extended life compared to a new replacement product that meets
+current international or national energy efficient product standards.
+Guidance:
+ “Repair” and “reconditioning” are activities that aim to restore a product to a usable state by fixing or replacing
+faulty parts.
+ Potentially eligible activities include financing of construction or operation of facilities, workshops, or equipment to
+check, clean, recondition or repair recovered products or components in preparation for re-use.
+
+Material recovery
+from solid waste
+
+7.4. Material
+recovery from
+separately
+collected waste
+involving
+mechanical
+processes
+
+Criteria:
+ The activity shall be principally aimed at recovering secondary materials from waste in preparation for reuse or
+recycling.
+ Recovered materials shall be suitable for reuse or recycling.
+ The feedstock shall be segregated at source and collected separately (in single or co-mingled material fractions)
+and shall not be subsequently mixed where doing so may affect their potential for recovery and subsequent reuse
+or recycling.
+Guidance:
+ Examples of materials recovered through this activity include metals, glass, plastics, paper and cardboard, wood,
+textiles and textile fibres, bricks and other inert construction materials.
+ Potentially eligible activities include:
+(i) Greenfield projects— construction or operation of new material recovery facilities applying mainly mechanical
+processes (such as dismantling, separation, sorting, crushing, shredding, and cutting) or organised processes to
+process waste into secondary materials in preparation for recycling; and
+(ii) Brownfield projects—modification, replacement or upgrading of existing facilities that enable higher rates of
+material recovery or improved output quality, such as through the installation of equipment for optical, ballistic,
+or magnetic separation.
+
+Material recovery
+from solid waste
+
+7.5. Material
+recovery from
+separately
+collected or presorted waste
+involving
+processes other
+
+Criteria:
+ The activity shall be aimed at recovering secondary materials from waste in preparation for reuse or recycling.
+ Recovered materials shall be suitable for reuse or recycling.
+ Where the material recovery process or connected upstream and downstream processes require a significant
+amount of energy input (e.g. thermochemical processes such as pyrolysis and gasification), the entity applying the
+Common Principles shall demonstrate a substantial reduction in relative GHG emissions compared to a relevant
+
+42
+
+Category
+
+Eligible activity
+than
+mechanical
+processes
+
+Screening Criteria and Guidance
+baseline scenario, taking account of scope 3 emissions that are expected to be material. On how to assess scope 3
+emissions, see the guidance below.
+ The feedstock used shall be separately collected or pre-sorted waste and shall not be mixed where doing so may
+affect their potential for recovery and subsequent reuse or recycling.
+Guidance:
+ Examples of typical feedstock used in this activity are plastic and rubber waste, spent oils, lubricants, solvents and
+other chemicals produced by households and businesses.
+ Potentially eligible activities include:
+(i) Greenfield projects— construction or operation of new facilities applying physico-chemical, chemical or
+thermochemical processes (e.g., re-refining and chemical recycling plants including solvent-based purification,
+chemical depolymerisation or thermal depolymerisation through pyrolysis or gasification); and
+(ii) Brownfield projects—modification, replacement or upgrading of existing facilities that enable higher rates of
+material recovery or improved output quality.
+ Where technically and economically viable, mechanical recycling should be given preference to chemical recycling.
+ While the main objective of the activity is the recovery of materials and substances, the use of process outputs for
+meeting own energy needs is allowed as long as all other criteria are fully met. For the sake of clarity, activities
+where the main objective is the recovery of fuels or energy from fossil feedstock are not eligible.
+ In demonstrating a substantial reduction in relative GHG emissions, scope 3 emissions should be quantified to the
+extent possible and on a best-effort basis, particularly where the activity’s scope 1, scope 2, and consequential
+emissions result in relative GHG emissions that are (i) positive (that is, GHG emissions in the project scenario are
+higher than in the baseline scenario) or close to zero, or (ii) negative but with material scope 3 emissions that can
+result in relative positive GHG emissions. By contrast, if the relative GHG emissions are already substantially
+negative even without accounting for scope 3 emissions and inclusion of the latter is expected to decrease relative
+GHG emissions further, quantification of scope 3 emissions may be omitted and replaced with a qualitative analysis.
+
+Recovery and
+valorisation of
+bio-waste
+
+7.6. Anaerobic
+digestion of
+separately
+collected biowaste
+
+Criteria:
+ The bio-waste shall be segregated at source and collected separately.
+ The produced biogas shall be used productively (see examples below in the guidance).
+ The digestate produced shall be used as a natural fertiliser or soil conditioner (directly or after composting) or,
+where it can be demonstrated that there is no market for such use, it shall be used for other purposes (e.g. as
+backfilling or cover material) but shall not be incinerated.
+ Appropriate mitigation measures including a monitoring plan shall be put in place to control methane leakages from
+relevant processes in industrial-scale facilities. For small-scale anaerobic digestion units (e.g., in small farms),
+appropriate mitigation measures shall be applied that are technically and economically feasible.
+
+43
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+Guidance:
+ Bio-waste means biodegradable garden and park waste; food and kitchen waste from households, offices,
+restaurants, wholesale, canteens, caterers and retail premises; and comparable waste from food proce ssing plants.
+ Co-processing with other types of biodegradable waste and residues (e.g., from agriculture) is allowed where doing
+so does not negatively affect methane yields or the quality and potential use of the digestate.
+ Examples of productive use of biogas are as a fuel for electricity generation, heat generation, cooling, and cooking;
+a vehicular fuel; a fuel after being upgraded to bio-methane for injection in the natural gas grid; and an industrial
+feedstock.
+ Potentially eligible activities include:
+(i) Greenfield projects—construction or operation of new plants and small-scale units for anaerobic digestion of
+bio-waste, for biogas treatment or utilisation, or for the treatment of digestates for use as fertilisers or soil
+conditioners; and
+(ii) Brownfield projects—modification, replacement or upgrading of existing facilities resulting in
+- improved methane yields from the anaerobic digestion process (e.g., by enabling co-digestion of bio-waste
+with other biodegradable feedstock such as agricultural residues and manure);
+- reduced methane leakages (e.g., sealed digestate storage tanks);
+- enhanced biogas utilisation (e.g., through biogas conversion to bio-methane and its compression for use as a
+fuel or injection in a natural gas grid); or
+- enhanced digestate utilisation (e.g., through additional composting and storage).
+ Specific guidance and examples of methods for monitoring methane emissions from anaerobic digestion plants can
+be found in Methane emissions from biogas plants: Methods for measurement, results and effect on greenhouse gas
+balance of electricity produced, available at https://www.ieabioenergy.com/wp-content/uploads/2018/01/MethaneEmission_web_end_small.pdf, and Best Available Techniques (BAT) Reference Document for Waste Treatment
+(section 6.6.2), available at https://eippcb.jrc.ec.europa.eu/sites/default/files/2019-11/JRC113018_WT_Bref.pdf.
+
+Recovery and
+valorisation of
+bio-waste
+
+7.7. Composting of
+separately
+collected biowaste
+
+Criteria:
+ The bio-waste shall be segregated at source and collected separately.
+ Where national legislation requirements on fertilising products are met, the compost produced shall be used as a
+natural fertiliser or soil conditioner or, where it is not meeting the environment, health and safety standards or it
+can be demonstrated that there is no market for such use, it shall be used for other purposes (e.g., as backfilling or
+cover material) but shall not be incinerated.
+ Appropriate mitigation measures including a monitoring plan shall be in place to control methane emissions from
+relevant processes in industrial-scale facilities. For small-scale composting schemes, appropriate mitigation
+measures shall be applied that are technically and economically feasible.
+
+44
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+Guidance:
+ Bio-waste means biodegradable garden and park waste; food and kitchen waste from households, offices,
+restaurants, wholesale, canteens, caterers or retail premises; and comparable waste from food processing plants.
+ Co-processing with other types of biodegradable waste and residues (e.g., from agriculture) is allowed where doing
+so does not negatively affect the quality or potential use of the compost.
+ Potentially eligible activities include:
+(i) Greenfield projects—(a) construction or operation of new composting plants, including equipment for the
+conditioning of composts for use as fertilisers or soil conditioners; and (b) deployment of household and
+community-based composting schemes; and
+(ii) Brownfield projects—modification, replacement or upgrading of existing facilities resulting in a reduction of
+methane emissions from composting plants (e.g., equipment for active aeration of windrows) or improvements
+in compost quality (e.g., equipment for compost conditioning and valorisation).
+ Where technically and economically viable, anaerobic digestion should be given preference to composting.
+ Specific guidance and examples of methods for monitoring methane emissions from large-scale biological waste
+treatment plants can be found in Best Available Techniques (BAT) Reference Document for Waste Treatment,
+available at https://eippcb.jrc.ec.europa.eu/sites/default/files/2019-11/JRC113018_WT_Bref.pdf.
+
+Recovery and
+valorisation of
+bio-waste
+
+7.8. Other types of
+recovery and
+valorisation of
+bio-waste
+
+Criteria:
+ The bio-waste shall be segregated at source and collected separately, and not subsequently mixed in a way that
+would negatively affect the recovery processes or the quality of the products.
+ Recovered materials or biofuels shall meet relevant international or national industry-specific legislation,
+regulations, standards, or user specifications for the intended use.
+ Where the material recovery or valorisation process or connected upstream or downstream processes require a
+significant amount of energy input in the project or the baseline scenario, the entity applying the Common
+Principles shall demonstrate a substantial reduction in relative GHG emissions compared to a relevant baseline
+scenario, taking account of scope 3 emissions that are expected to be material. On how to assess scope 3
+emissions, see the guidance below.
+Guidance:
+ Bio-waste means biodegradable garden and park waste; food and kitchen waste from households, markets, offices,
+restaurants, wholesale, canteens, caterers or retail premises; and comparable waste from food processing plants.
+ Co-processing with other types of biodegradable waste and residues (e.g., from agriculture) is allowed where doing
+so does not negatively affect the potential use of the process outputs and residues.
+
+45
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+ Examples of recovery and valorisation activities include the production or extraction of bio-based materials,
+biofuels, nutrients, or chemicals from bio-waste.
+ Potentially eligible activities include implementation or operation of greenfield and brownfield projects that adopt
+technologies and processes for the recovery and valorisation of bio-waste other than those included in activities 7.6
+and 7.7, such as production of biodiesel from vegetable oils, production of food and feed ingredients (protein, fats,
+peptides), and fertiliser manufacture (struvite and ammonium sulphate) from urban biowaste.
+ In demonstrating a substantial reduction in relative GHG emissions, scope 3 emissions should be quantified to the
+extent possible and on a best-effort basis, particularly where the activity’s scope 1, scope 2, and consequential
+emissions result in relative GHG emissions that are (i) positive (that is, GHG emissions in the project scenario are
+higher than in the baseline scenario) or close to zero, or (ii) negative but with material scope 3 emissions that can
+result in relative positive GHG emissions. By contrast, if the relative GHG emissions are already substantially
+negative even without accounting for scope 3 emissions and inclusion of the latter is expected to decrease relative
+GHG emissions further, quantification of scope 3 emissions may be omitted and replaced with a qualitative analysis.
+
+Treatment of
+mixed residual
+waste
+
+7.9. Mechanical or
+biological
+treatment of
+mixed residual
+waste
+
+Criteria:
+ The entity applying the Common Principles shall demonstrate a substantial reduction in relative GHG emissions
+compared to the alternative waste management and disposal method, taking account of scope 3 emissions that are
+expected to be material. On how to assess scope 3 emissions, see the guidance below.
+ Materials recovered in the mechanical separation stage shall be suitable for recycling.
+ Where the feedstock contains a material amount of biowaste fractions and where the treatment outputs are to be
+landfilled, biological treatment shall be compulsory to stabilise organic components and thus minimise methane
+emissions from landfills.
+ In addition, where the activity concerns anaerobic digestion of the organic waste fraction or production of refuse derived fuel (RDF) or solid-recovered fuel (SRF), the following criteria shall apply:
+ For anaerobic digestion of the organic waste fraction, the produced biogas shall be used productively. Further,
+appropriate mitigation measures and a monitoring plan shall be in place to minimise and control methane leakages
+from relevant facilities.
+ For production of RDF or SRF, the fuel so produced shall be suitable for use as an alternative fuel.
+Guidance:
+ Mechanical-biological treatment plants (MBT) are designed to treat mixed municipal waste and similar residual
+waste streams and can have many different design configurations. Plant configurations always combine mechanical
+sorting (upstream or downstream in the process) with biological treatment of the bio-waste fraction (e.g.,
+anaerobic treatment with biogas recovery, aerobic treatment or composting or bio-drying).
+
+46
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+ Where the mixed waste feedstock treated contains no or only insignificant amounts of bio-waste (as in mixed
+construction and demolition waste or mixed industrial waste) plants perform solely a material recovery function,
+similar to facilities under activity 7.4.
+ Bio-waste means biodegradable garden and park waste; food and kitchen waste from households, markets, offices,
+restaurants, wholesale, canteens, caterers or retail premises; and comparable waste from food processing plants.
+ Examples of materials recovered by mechanical separation include metals, plastics, paper and cardboard.
+ Examples of productive use of biogas are as a fuel for electricity generation, heat generation, cooling, and cooking;
+a vehicular fuel; a fuel after being upgraded to bio-methane for injection in the natural gas grid; and an industrial
+feedstock.
+ Potentially eligible activities include:
+(i) Greenfield projects—construction or operation of facilities including mechanical processes for sorting and
+separating waste and biological treatment processes for the bio-waste fraction; and
+(ii) Brownfield projects—modification, replacement or upgrading of existing facilities that result in
+- higher material recovery rates or improved output quality;
+- reduced methane leakages;
+- enhanced biogas utilisation (e.g., through biogas conversion to bio-methane, its compression and injection in
+a natural gas grid); or
+- enhanced digestate utilisation (e.g., through additional lines for treatment of separately collected bio-waste).
+ Eligible financing is limited only to plant components and processes with a climate mitigation impact, which include:
+(i) mechanical separation of recyclable materials, (ii) mechanical separation of RDF or SRF, (iii) mechanical
+separation and biological treatment of the biodegradable fraction, and (iv) renewable energy production. Where
+separation of financing is possible, the entire investment cost of the relevant plant components (e.g., biological
+treatment and energy recovery facilities) shall count towards eligible financing. Where separation of financing is not
+possible (e.g., mechanical sorting plant) financing shall be apportioned according to the waste throughput capacity
+and the eligible financing shall be the percent share of the sum of relevant process output fractions (see points i–iii
+above). In the case of RDF/SRF, the eligible financing shall be limited to the percent share of its renewable
+(biogenic) fraction (organics, paper, cardboard).
+ In demonstrating a substantial reduction in relative GHG emissions, scope 3 emissions should be quantified to the
+extent possible and on a best-effort basis, particularly where the activity’s scope 1, scope 2, and consequential
+emissions result in relative GHG emissions that are (i) positive (that is, GHG emissions in the project scenario are
+higher than in the baseline scenario) or close to zero, or (ii) negative but with material scope 3 emissions that can
+result in relative positive GHG emissions. By contrast, if the relative GHG emissions are already substantially
+negative even without accounting for scope 3 emissions and inclusion of the latter is expected to decrease relative
+GHG emissions further, quantification of scope 3 emissions may be omitted and replaced with a qualitative analysis.
+
+47
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+ Specific guidance and examples of methods for monitoring methane emissions from anaerobic digestion plants can
+be found in Methane emissions from biogas plants: Methods for measurement, results and effect on greenhouse gas
+balance of electricity produced, available at https://www.ieabioenergy.com/wp-content/uploads/2018/01/MethaneEmission_web_end_small.pdf, and Best Available Techniques (BAT) Reference Document for Waste Treatment,
+available at https://eippcb.jrc.ec.europa.eu/sites/default/files/2019-11/JRC113018_WT_Bref.pdf.
+
+Treatment of
+mixed residual
+waste
+
+7.10. Waste
+incineration
+with energy
+recovery
+(waste-toenergy) from
+mixed residual
+waste, RDF or
+SRF
+
+Criteria:
+ The entity applying the Common Principles shall demonstrate a substantial reduction in relative GHG emissions
+compared to the alternative of waste management and disposal, taking account scope 3 emissions that are
+expected to be material. On how to assess scope 3 emissions, see the guidance below.
+ In greenfield projects, the entity applying the Common Principles shall use an appropriate combination of best
+available techniques for the energy recovery components of the incineration plant, and in particular implement
+combined heat and power where this is economically viable under local conditions.
+Guidance:
+ Potentially eligible activities include:
+(i) Greenfield projects—construction or operation of waste incineration plants with highly efficient energy
+recovery in the form of electricity or heat or cooling and material recovery from incineration bottom ash; and
+(ii) Brownfield projects—modification, addition or upgrading of a process technology that results in enhanced
+energy recovery or material recovery.
+ Waste incinerators recover energy from mixed waste streams including renewable and fossil fractions. Eligible
+financing refers only to the renewable energy component. Given that a separation of financing is not possible,
+financing shall be apportioned according to the plant’s renewable and fossil energy generation capacities.
+ In demonstrating a substantial reduction in relative GHG emissions, scope 3 emissions should be quantified to the
+extent possible and on a best-effort basis, particularly where the activity’s scope 1, scope 2, and consequential
+emissions result in relative GHG emissions that are (i) positive (that is, GHG emissions in the project scenario are
+higher than in the baseline scenario) or close to zero, or (ii) negative but with material scope 3 emissions that can
+result in relative positive GHG emissions. By contrast, if the relative GHG emissions are already substantially
+negative even without accounting for scope 3 emissions and inclusion of the latter is expected to decrease relative
+GHG emissions further, quantification of scope 3 emissions may be omitted and replaced with a qualitative analysis.
+ Specific guidance and examples of best available techniques for improving energy efficiency in waste incinerators in the
+European Union can be found in Best Available Techniques (BAT) Reference Document for Waste Incineration,
+available at https://ec.europa.eu/jrc/en/publication/eur-scientific-and-technical-research-reports/best-availabletechniques-bat-reference-document-waste-incineration-industrial-emissions.
+
+48
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+
+Landfill gas
+capture,
+abatement and
+utilisation
+
+7.11. Landfill gas
+capture,
+abatement or
+utilisation as
+part of closure
+of old landfills,
+landfill cells or
+dumpsites
+
+Criteria:
+ The captured landfill gas shall be used productively, or where doing so is not economically viable, flared.
+ Appropriate mitigation measures including a monitoring plan shall be in place to control methane emissions from
+the landfill body and possible leakages from relevant landfill gas management facilities.
+
+7.12.Landfill gas
+capture,
+abatement or
+utilisation in
+new sanitary
+landfills or
+landfill cells
+
+Criteria:
+ The entity applying the Common Principles shall demonstrate that the new sanitary landfill will result in a
+substantial reduction in relative GHG emissions compared to the relevant baseline scenario for waste management
+and disposal.
+ The captured landfill gas shall be used productively, or where utilisation is not economically viable, flared.
+ Appropriate mitigation measures including a monitoring plan shall be in place to control methane emissions from
+the landfill body and possible leakages from relevant landfill gas management facilities.
+
+Landfill gas
+capture,
+abatement and
+utilisation
+
+Guidance:
+ Examples of productive use of landfill gas are as a fuel for electricity generation, heat generation, cooling, and
+cooking; a vehicular fuel; a fuel after being upgraded to bio-methane for injection in the natural gas grid; and an
+industrial feedstock.
+ Potentially eligible activities are limited to: (i) installation or operation of landfill gas capture and abatement
+systems (e.g., extraction wells and piping systems, blower-flare systems, containment and capsulation measures,
+including permanent landfill cover layers and bio-filters with a landfill-gas-emission abatement function), and (ii)
+landfill gas treatment and utilisation systems (e.g., facilities for energy production, or to upgrade to bio-methane,
+compress for use as a vehicle fuel or injection in a natural gas grid).
+ Guidance on best practice concerning landfill gas emission control and utilisation is available from various
+international and national organisations, including Landfill Operational Guidelines 3rd Edition, available at iswa__landfill_operational_guidelines_3rd_edition.pdf (wehrle-werk.de), and “Landfill gas control - Guidance on the
+landfill gas control requirements of the Landfill Directive” and links contained therein to further guidance
+documents recommended by EU member states, available at
+https://ec.europa.eu/environment/waste/landfill/pdf/guidance%20on%20landfill%20gas.pdf.
+
+Guidance:
+ Examples of productive use of landfill gas are as a fuel for electricity generation, heat generation, cooling, and
+cooking; a vehicular fuel; a fuel after being upgraded to bio-methane for injection in the natural gas grid; and an
+industrial feedstock.
+
+49
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+ Potentially eligible activities are limited to the installation or operation of landfill gas capture, treatment and
+utilisation systems, and the containment and capsulation measures required for the collection and management of
+landfill gas if the baseline has no GHG emission control measures in the jurisdiction.
+- Examples of landfill gas capture systems are extraction wells and piping systems, blower-flare systems, and
+where the activity includes the closure of previously filled cells, also permanent landfill cover layers or bio-filters
+with landfill-gas-emission abatement functions.
+- Examples of landfill gas treatment and utilisation systems are facilities to produce energy or to upgrade the
+captured landfill gas to bio-methane and compress it for use as a vehicular fuel or for injection in a natural gas
+grid.
+- Examples of the containment and capsulation measures are the landfill cells that contain and capture the waste
+from which the landfill gas is extracted.
+ Guidance on best practice concerning landfill gas emission control and utilisation is available from various
+international and national organisations, including Landfill Operational Guidelines 3rd Edition, available at iswa__landfill_operational_guidelines_3rd_edition.pdf (wehrle-werk.de), and “Landfill gas control - Guidance on the
+landfill gas control requirements of the Landfill Directive” and links contained therein to further guidance
+documents recommended by EU member states, available at
+https://ec.europa.eu/environment/waste/landfill/pdf/guidance%20on%20landfill%20gas.pdf.
+
+Energy efficiency
+
+7.13. Brownfield
+projects aimed
+at improving
+energy
+efficiency in
+waste
+management
+facilities
+
+Criteria:
+ Energy efficiency interventions shall be eligible only for waste management plants that are eligible under the
+Common Principles (activities 7.1–7.12).
+ The entity applying the Common Principles shall demonstrate a substantial reduction in relative GHG emissions
+from the energy efficiency improvement.
+Guidance:
+ Potentially eligible activities include the modification, retrofitting or upgrading of existing plant equipment aimed at
+increasing energy efficiency.
+ The entity applying the Common Principles should demonstrate that the activity will not result in long-term lock-in
+effects in cases where energy efficiency improvement is part of a larger replacement, modernisation or capacity
+extension project for an existing residual waste treatment facility, because such effects would deter waste
+prevention or more efficient resource management in accordance with the waste hierarchy principle.
+ Examples of best available techniques for increasing energy efficiency in various types of waste management
+installations in the European Union can be found in Best Available Techniques (BAT) Reference Document for
+Waste Treatment, available at https://eippcb.jrc.ec.europa.eu/sites/default/files/2019-
+
+50
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+11/JRC113018_WT_Bref.pdf, and Best Available Techniques (BAT) Reference Document for Waste Incineration,
+available at https://publications.jrc.ec.europa.eu/repository/handle/JRC118637.
+
+51
+
+Table 8: Transport
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+
+Urban and rural
+transport
+
+8.1. Urban and rural
+public transport
+projects
+
+Criteria:
+ The entity applying the Common Principles shall demonstrate a modal shift from a higher-carbon mode,
+except where the activity improves the performance of an eligible existing public transport system.
+ Road infrastructure shall be eligible for the case of dedicated public transport infrastructure.
+Guidance:
+ Modal shift includes prevention of future shifts to higher-carbon modes.
+ Both fleets and infrastructure that are fundamental to the operation of public transport services are eligible.
+ For road infrastructure projects where the cost of the dedicated infrastructure is not well defined or
+disaggregated cost information is not available, financing is proportional to the share of infrastructure
+dedicated to public transport.
+ Activities that improve the performance of an existing public transport system are eligible. These activities are
+exempt from demonstrating a modal shift.
+ Potentially eligible activities include buses, bus rapid transit, tram, metro, cable car, monorail, rail transit, and
+ferry used in public transport.
+ Technology-substitution projects (without a modal shift) are addressed in activity 8.6.
+
+Urban and rural
+transport
+
+8.2. Non-motorised
+transport (NMT) or
+electric personal
+mobility
+
+Criteria:
+Road infrastructure shall be eligible for the case of dedicated NMT infrastructure.
+Guidance:
+ Both fleets and infrastructure that are fundamental to the operation are eligible.
+ For road infrastructure projects where the cost of the dedicated infrastructure is not well defined or
+disaggregated cost information is not available, financing is proportional to the share of infrastructure
+dedicated to NMT schemes.
+ Two examples of NMT are bicycles and pedestrian mobility.
+
+Low-carbon interurban transport
+
+8.3. Inter-urban railway
+projects for freight
+or passengers
+
+Criteria:
+ The entity applying the Common Principles shall demonstrate a modal shift from a higher-carbon mode,
+except when the activity improves the performance of an eligible existing railway system.
+
+52
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+ Activities dedicated to transport of fossil fuels or blended fossil fuels (where a high proportion of the blended
+fuel is a fossil fuel) shall not be eligible.
+Guidance:
+ Modal shift includes prevention of future shifts to higher-carbon modes.
+ Both fleets and infrastructure that are fundamental to the operation of transport services are eligible.
+ Activities that improve the performance of an eligible existing railway system are eligible and are exempt
+from demonstrating a modal shift.
+ For the criterion excluding the eligibility of activities “dedicated to the transport of fossil fuels or blended
+fossil fuels,” dedication refers to fleets or infrastructure being acquired or built with the explicit intention of
+transporting or storing fossil fuels, even if the actual use additionally serves other purposes.
+ Blended fossil fuels refer to mixtures of fossil fuels and biofuels, such as a mixture of gasoline and bioethanol
+or petroleum diesel and biodiesel.
+ Technology-substitution projects (without a modal shift) are addressed in activity 8.6.
+
+Low-carbon interurban transport
+
+8.4. Bus or coach public
+passenger
+transport
+
+Criteria:
+The entity applying the Common Principles shall demonstrate a modal shift from a higher-carbon mode.
+Guidance:
+ Modal shift includes prevention of future shifts to higher-carbon modes.
+ Both fleets and infrastructure that are fundamental to the operation of transport services are eligible.
+ Technology-substitution projects (without a modal shift) are addressed in activity 8.6.
+
+Low-carbon mode
+and efficiency
+improvement in
+maritime and inland
+waterway transport
+
+8.5. Water transport
+projects for freight
+or passengers, or
+efficiency
+improvement
+
+Criteria:
+ The entity applying the Common Principles shall demonstrate
+- a shift from a higher-carbon to a lower-carbon mode, or
+- a substantial reduction in GHG emissions,
+except where the activity improves the efficiency of an eligible existing inland waterway or short-sea shipping
+system.
+ In all cases, activities dedicated to transport of fossil fuels or blended fossil fuels (where a high proportion of
+the blended fuel is a fossil fuel) shall not be eligible.
+
+53
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+Guidance:
+ Modal shift includes prevention of future shifts to higher-carbon modes.
+ Both fleets and infrastructure that are fundamental to the operation of transport services are eligible.
+ For the criterion excluding the eligibility of activities “dedicated to the transport of fossil fuels or blended
+fossil fuels,” dedication refers to fleets or infrastructure being acquired or built with the explicit intention of
+transporting or storing fossil fuels, even if the actual use additionally serves other purposes.
+ Potentially eligible activities include inland waterway, short-sea-and deep sea shipping infrastructure and
+fleets.
+ Potentially eligible efficiency improvements include technical efficiency measures (such as improvements in
+design, propulsion, machinery and operation), route optimisation services, ship-to-ship route exchanges,
+enhanced monitoring systems, introduction of digitisation, and port-call synchronisation.
+ Activities that improve the efficiency of an eligible existing inland waterway or short-sea shipping system are
+exempt from demonstrating either a modal shift or a substantial reduction in emissions.
+
+Low-carbon vehicles
+and associated
+infrastructure
+
+Low-carbon fuels for
+transport
+
+8.6. Land-based,
+airborne, or
+waterborne
+vehicles
+transporting
+passengers or
+freight with zero or
+low direct
+emissions, or
+associated
+infrastructure
+
+Criteria:
+Activities dedicated to transport of fossil fuels or blended fossil fuels (where a high proportion of the blended
+fuel is a fossil fuel) shall not be eligible.
+
+8.7. Transport
+operations using
+
+Criteria:
+
+Guidance:
+ Direct emissions refer to tailpipe emissions.
+ Vehicles and associated infrastructure cover all modes. Innovative low-carbon aviation activities are covered
+in Table 11: Research, development and innovation.
+ Vehicles, trains, or waterborne vessels or infrastructure that is fundamental to the operation of transport
+services are eligible.
+ For the criterion excluding the eligibility of activities “dedicated to the transport of fossil fuels or blended
+fossil fuels,” dedication refers to any otherwise eligible vehicles or associated infrastructure being acquired or
+built with the explicit intention of transporting or storing fossil fuels, even if the actual use additionally serves
+other purposes.
+ Potentially eligible activities include electric, hydrogen, hybrid, and plug-in hybrid vehicles and associated
+infrastructure.
+
+54
+
+Category
+
+Eligible activity
+biofuels or
+synthetic fuels with
+low lifecycle GHG
+emissions
+
+Screening Criteria and Guidance
+ Lifecycle GHG emissions shall not exceed the level of GHG emissions from the current fuel mix.
+ GHG emissions shall be substantially lower than corresponding GHG emissions of transport relying on fossil
+fuels.
+ For eligibility of biofuels, see activity 2.1.
+ Projects involving biofuel vehicles shall target fuel blends with significant shares of biofuels. When blended,
+only the portion of non-first-generation biofuel shall be eligible as climate finance.
+ Both fleets and infrastructure that are fundamental to the transport operation are eligible.
+Guidance:
+ For guidance on biofuels, see activity 2.1.
+ Synthetic fuels with low lifecycle GHG emissions (or e-fuels) are those that use low-carbon feedstocks of
+hydrogen and CO2. Examples are hydrogen in activity 4.9, captured CO2 in activity 12.5, and CO2 from direct air
+capture.
+
+Transport demand
+management policy
+and systems
+
+Low-carbon fuels for
+transport
+
+8.8. Transport demand
+management
+policy or associated
+intelligent
+transport systems
+(ITS)
+
+Criteria:
+Investments related to policy actions or ITS that are expected to lead to substantially decreased overall travel
+demand or modal shifts to more efficient modes shall be eligible.
+
+8.9. Use of waste gas as
+a transport fuel
+
+Criteria:
+For eligible waste gas, see activities 2.5, 6.4, 6.5, 7.6, and 7.9.
+
+Guidance:
+Potentially eligible activities include policy or systems leading to reduction in use of personal or freight transport
+and shifting from private car use to mass transit NMT, e.g., transit-oriented development (TOD), low- or zeroemission zone, mobile sharing application providing access to alternative modes such as bicycles and scooters,
+and investments in ICT to increase traffic operational efficiency or enable shared mobility.
+
+Guidance:
+For guidance on eligible waste gas, see activities 2.5, 5.10, 7.6, and 7.9.
+Air Traffic
+management
+
+8.10. Efficient air traffic
+management
+
+Criteria:
+
+55
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+The entity applying the Common Principles shall demonstrate a substantial reduction in relative GHG emissions
+to ensure that an increase in air traffic that may result from the activity does not negate the GHG-emissionintensity benefits.
+Guidance:
+There is no specific guidance.
+
+Efficiency and
+renewable energy in
+aviation
+
+8.11.Efficient airport
+system operations
+or on-site
+renewable energy
+generation
+
+Criteria:
+ The entity applying the Common Principles shall demonstrate a substantial reduction in relative GHG
+emissions from energy efficiency or other GHG reduction measures.
+ For eligibility of on-site renewable energy generation, see activity 2.1.
+Guidance:
+ Potentially eligible activities include:
+- higher operational efficiency of aircraft movements in the airfield and in the landing and take-off cycle; and
+- energy efficiency improvements in equipment.
+ Criteria for ground transport activities (such as bus fleets, car fleets and people-movers) are covered in
+activities 8.6 and 8.7 above.
+ Criteria for airport buildings are covered in activities 10.1 and 10.2.
+
+56
+
+Table 9: Buildings, public installations and end-use energy efficiency
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+
+Energy efficiency, on-site
+renewable energy, CO2eemission reduction, and
+carbon sinks in buildings
+
+9.1. Measures that reduce net
+energy consumption,
+resource consumption or
+CO2e emissions, or
+increase plant-based
+carbon sinks in greenfield
+and brownfield buildings
+and associated grounds
+
+Criteria:
+ The party executing the activity shall commit to adopting measures that substantially reduce net
+energy consumption, resource consumption, or CO2e emissions, or increase carbon sinks in the
+project design.
+ Where the eligible activity produces renewable energy, it shall meet the same criteria for low
+lifecycle GHG emissions as in eligible activity 2.1 or 2.2.
+Guidance:
+ The portion of the financing estimated to be dedicated to the above measures is eligible.
+ Potentially eligible activities include the following:
+- Building design for lower energy consumption or GHG emissions
+- Use of building materials with low embedded GHG emissions (including low-carbon cement,
+and sustainable timber, bamboo, and wood),
+- Construction of building structures for high energy efficiency, such as advanced thermal
+protection of the building envelope, windows with low thermal conductivity/low-emissivity
+façade glazing, passive energy design, green roofs and green walls partially or completely
+covered with vegetation, thermal mass storage systems, and active or passive façade shading
+elements
+- Energy efficiency improvement in assets in existing buildings, such as mechanical and electrical
+systems; heating, ventilation and air-conditioning (HVAC); induction stoves; indoor and exterior
+lighting; and pumping and heat exchanger stations
+- Installation of high-efficiency vertical (elevators, escalators) and horizontal (travellator)
+transport systems; on-site high-efficiency transformers and systems for compensation of
+reactive power; passive or active filters of harmonics; high-efficiency appliances and
+equipment; and high-efficiency motors, pumps, fans, and drives with variable speed drives
+- Adoption of energy-management systems
+- Substitution or retrofit of existing heating, cooling or distributed power generation sources for
+higher efficiency, such as replacement of existing heating or cooling with higher-efficiency
+boilers or chillers, recovery and use of waste heat, and conversion to cogeneration or trigeneration.
+
+57
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+- Digital or other smart solutions and electrification infrastructure (e.g., charging stations for
+electric vehicles; see also activity 8.6) and smart electric meters
+- Addition of on-site renewable energy sources (e.g., solar photovoltaic, solar thermal collector)
+- Installation of heat pumps
+- Prevention or reduction of use of cooling agents, or replacement of cooling agents with those
+with lower global warming potential, or adoption of technologies and practices that minimise
+hydrofluorocarbon (HFC) leakages
+- Measures to minimise methane leakages.
+
+Energy efficiency,
+renewable energy, CO2eemission reduction, and
+carbon sinks in green
+buildings
+
+9.2. Measures that reduce net
+energy consumption,
+resource consumption or
+CO2e emissions, or
+measures that increase
+plant-based carbon sinks
+in new or retrofitted
+buildings and associated
+grounds, enabling
+certification standards to
+be met
+
+Criteria:
+ The party executing the greenfield activity shall commit to meeting green building certification
+criteria, as established by a certification agency that is recognised by the financial institutions
+involved in financing.
+ The certification standards eligible for climate finance shall be characterised by the following:
+- Statement of clear, comprehensive and stringent climate performance requirements
+- Quality control by at least two independent experts from certifying entities at each stage of
+certification
+- Final certification post-construction
+Guidance:
+ A local benchmark may serve as the baseline for energy, resource, or GHG emissions intensity.
+ Examples of internationally recognised certifications are the Excellence in Design for Greater
+Efficiencies (EDGE), Building Research Establishment Environmental Assessment Method
+(BREEAM), certificate issued by the German Sustainable Building Council (DGNB), Haute Qualité
+Environnementale (HQE), GREEN STAR, and the Leadership in Energy and Environmental Design
+(LEED).
+ National or international certification programmes (such as EU Energy Efficiency Directive, the EU
+Energy Performance Directive, and the EU Energy Performance Certificates) can be used as
+appropriate.
+ If the activity comprises a large number of small buildings, certification of every building may be
+substituted by certification of a representative sample of buildings in the activity in combination
+with legally binding covenants—to follow equivalent technical specifications and design that
+
+58
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+ensure a comparable climate mitigation impact required for certification—for the remaining
+buildings not subject to certification.
+
+Energy efficiency, on-site
+renewable energy, CO2eemission reduction, and
+carbon sinks in public
+areas and installations
+
+9.3. Measures that reduce net
+energy consumption,
+resource consumption or
+CO2e emissions, or
+increase plant-based
+carbon sinks in public
+areas or installations
+
+Criteria:
+ The party executing the activity shall commit to adopting measures that substantially reduce net
+energy, resource consumption or CO2e emissions, or increase carbon sinks as part of the project
+design.
+ Where the eligible activity uses renewable energy, it shall meet the same criteria for low lifecycle
+GHG emissions as in eligible activity 2.1 or 2.2.
+Guidance:
+ The portion of the financing estimated to be dedicated to the above measures is eligible.
+ Potentially eligible activities include efficient lighting in streets and public areas, establishment of
+public parks with trees serving as carbon sinks, and efficient irrigation of local vegetation.
+
+End-use energy efficiency
+
+End-use energy efficiency
+
+9.4. Brownfield stand-alone
+end-use energy efficiency
+improvement or CO2eemission reduction in
+existing appliances or
+equipment
+
+Criteria:
+The entity applying the Common Principles shall demonstrate a substantial reduction in net energy
+consumption, resource consumption, or CO2e emissions.
+
+9.5. New or replacement
+stand-alone energy
+efficient appliances or
+equipment
+
+Criteria:
+ The entity applying the Common Principles shall demonstrate a substantial reduction in net
+energy consumption, resource consumption, or CO 2e emissions.
+ The activity shall use the best available technology or match or surpass country-appropriate
+technology benchmarks in performance.
+ Where highly efficient new appliances or equipment use a fossil fuel as the source of energy, the
+entity applying the Common Principles shall demonstrate that the activity represents the
+development solution with the least GHG emissions, does not create carbon lock-in (e.g., lifetime
+is short) and documents that neither electric nor lower-carbon alternatives are feasible.
+ Electrification of appliances or equipment previously combusting a fossil fuel shall be eligible
+without the need for a demonstration of a substantial reduction in net energy consumption,
+
+Guidance:
+This activity covers end-use efficiency improvement not covered in activity 9.1 or other sector tables.
+
+59
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+resource consumption, or CO2e emissions where electrification is relatively rare for that type of
+appliance or equipment.
+Guidance:
+ This activity covers end-use efficiency improvement not covered in activity 9.1 or 9.2 or other
+sector tables.
+ Potentially eligible activities include installation of highly efficient refrigerators with refrigerants
+with low global warming potential.
+
+60
+
+Table 10: Information and communications technology (ICT) and digital technologies
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+
+Energy efficiency,
+renewable energy
+and CO2e-emission
+reduction
+
+10.1. Energy efficiency
+improvement,
+renewable energy
+deployment, or
+CO2e-emission
+reduction in existing
+data centres
+
+Criteria:
+ The entity applying the Common Principles shall demonstrate a substantial reduction in net CO 2e emissions
+or carbon intensity.
+ Where the eligible activity involves renewable energy, it shall meet the same criteria for low lifecycle GHG
+emissions as in eligible activity 2.1.
+
+10.2. Greenfield data
+centres that meet
+best international
+practices for energy
+efficiency or that are
+supplied largely by
+on-site renewable
+energy generation
+
+Criteria:
+The eligible activity shall meet at least one of the following criteria:
+1. Energy efficiency performance of the data centre complies with internationally recognised best practice
+guidelines or is substantially better than market standards or benchmarks.
+2. Data centre buildings meet the criteria provided for greenfield buildings in activity 9.2.
+3. The activity does not meet the first criterion above but energy consumed is largely or entirely from on-site
+renewable energy generation that meets the same criteria for low lifecycle GHG emissions as in activity 2.1 or
+2.2.
+
+Energy efficiency
+and renewable
+energy
+
+Guidance:
+Potentially eligible activities include installing efficient information technology (IT) equipment, improving the
+efficiency of cooling systems, enhancing the data centre insulation, and switching to cooling agents with lower
+global warming potential.
+
+Guidance:
+ If the greenfield data centre meets both criteria 1 and 2, the entire financing for the greenfield data centre is
+eligible.
+ If the greenfield data centre meets criterion 1 only, the financing should be apportioned to reflect the share
+associated with costs of the IT equipment and auxiliary equipment, e.g., cooling and power equipment.
+ If the greenfield data centre meets criterion 2 only, the criteria and guidance for activity 9.2 are applicable
+and the financing for the building itself, but not IT equipment and auxiliary equipment, is eligible.
+ If the greenfield data centre meets criterion 3 only, the financing should be apportioned to reflect the share
+associated with costs of the on-site renewable energy.
+
+61
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+
+
+Energy efficiency
+
+Electronic service
+delivery
+
+An example of internationally recognised best practice guidelines is 2019 Best Practice Guidelines for the
+EU Code of Conduct on Data Centre Energy Efficiency (JRC), available at
+https://e3p.jrc.ec.europa.eu/publications/2023-best-practice-guidelines-eu-code-conduct-data-centreenergy-efficiency.
+
+10.3. Telecommunications
+networks with
+energy efficiency
+levels that meet best
+international
+practices
+
+Criteria:
+The entity applying the Common Principles shall demonstrate a substantial reduction in relative GHG emissions
+or that energy efficiency performance is substantially better than best market standards or benchmarks.
+
+10.4. Digitisation of
+service delivery or
+internal operations,
+leading to a
+substantial reduction
+in travel or material
+use
+
+Criteria:
+The entity applying the Common Principles shall demonstrate either of the following:
+ The activity supports a large-scale transformation of service delivery or operations, leading to a substantial
+reduction in relative GHG emissions in the long term, taking into account material lifecycle sources such as
+where scope 3 emissions are expected to be material.
+ The activity is the first of its kind, i.e., no similar activity has been implemented previously in a certain
+geographical area or for a targeted sub-group and has the potential to enable a substantial reduction in
+relative GHG emissions in the long term, taking into account material lifecycle sources such as where scope 3
+emissions are expected to be material.
+
+Guidance:
+ Where feasible, analysis of GHG emissions should take account of material lifecycle sources, including where
+scope 3 emissions are expected to be material, such as additional energy consumption in data centres to deal
+with increased data traffic.
+ Potentially eligible activities include the adoption of emerging telecommunications technologies, changes in
+processes resulting in energy savings, resource-use efficiency measures, and implementation of energyefficiency plans leading to a reduction in relative GHG emissions.
+ Two examples of standards that can be used to assess energy efficiency improvement are:
+- Operational energy Efficiency for Users (OEU); Technical Global KPIs for Fixed Access Networks (ETSI),
+available at https://www.etsi.org/deliver/etsi_gs/OEU/001_099/012/01.01.01_60/gs_OEU012v010101p.pdf;
+and
+- ETSI ES 203 228 V1.2.1 (2017-04): Environmental Engineering (EE); Assessment of mobile network energy
+efficiency (ETSI), available at
+https://www.etsi.org/deliver/etsi_es/203200_203299/203228/01.02.01_60/es_203228v010201p.pdf.
+
+62
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+Guidance:
+ If the old service delivery model is not terminated, the continued use of non-electronic service delivery
+should be accounted for in the determination of relative GHG emissions.
+ Potentially eligible activities include application of e-government, telemedicine, mobile money, and teleworking.
+
+63
+
+Table 11: Research, development and innovation
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+
+Research, development
+and innovation
+
+11.1. Research on or
+development of
+renewable energy,
+energy efficiency
+improvement, lowcarbon technologies,
+or other technologies
+instrumental to
+achieving full
+decarbonisation
+
+Criteria:
+ Research, development and innovation activities shall carry out at least one of the following:
+– Directly support other activities identified in the Common Principles for climate change mitigation.
+– Support activities with the principal objective of mitigating climate change but that are not on the
+current eligibility list because they are new, innovative technologies or practices that are still far
+from commercialisation.
+ In all cases, activities shall aim to promote substantially lower GHG emissions compared with current
+practices, except where the current practice is already low in carbon and activities focus on
+development of equally low- or lower-emission technologies with new advantages, such as lower cost.
+ Activities that support low-carbon technologies but also directly support exploration, extraction,
+processing or transport of fossil fuels, or fossil fuel power generation (with the exception of
+technologies for carbon capture and storage), shall not be eligible.
+Guidance:
+For carbon capture and storage or utilisation, see activity 12.5.
+
+64
+
+Table 12: Cross-sectoral activities
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+
+Energy and resourceuse efficiency
+
+12.1. An activity that enables a
+reduction in energy or
+material use across a supply
+chain (upstream or
+downstream) through
+energy efficiency or
+resource-use efficiency
+improvements in the existing
+supply chain, through a shift
+to a less carbon-intensive
+supply chain, or by
+implementing circular
+economy systems
+
+Criteria:
+The entity applying the Common Principles shall demonstrate a substantial reduction in relative GHG
+emissions, taking account of material lifecycle sources such as where scope 3 emissions are expected
+to be material.
+
+12.2. Recovery for use or
+utilisation of process waste
+heat
+
+Criteria:
+The entity applying the Common Principles shall demonstrate a substantial reduction in relative GHG
+emissions, carbon intensity (e.g., tCO 2e/unit of output), or energy intensity (e.g., gigajoules/unit of
+output).
+
+Waste heat recovery
+
+Guidance:
+The boundaries for GHG assessment can be limited by excluding stages or activities in the supply
+chain where emissions are expected to remain unchanged by the activity. Any exclusion should be
+justified.
+
+Guidance:
+ Waste heat utilised is a by-product of another activity, the primary output of which is not heat.
+Examples of activities from which waste heat is recovered include industrial processes, metro
+systems, wastewater treatment plants, and data centres.
+ The recovered waste heat may be used by the entity generating such heat; may be combined across
+more than one entity, such as through urban planning or district energy networks; or may be used
+by a third party.
+ Potentially eligible activities include installing new equipment or improving processes to recover
+or use waste heat.
+
+65
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+
+Demand reduction
+
+12.3. An activity aimed at demand- Criteria:
+side management
+The entity applying the Common Principles shall demonstrate a link between the activity and a
+reduction in demand for energy or resources.
+Guidance:
+ The activity may be an investment project, policy, program, or technical assistance.
+ The activity is for demand-side management measures not already covered in the first 10 tables.
+ Potentially eligible activities include:
+- restraints on vehicle movements through parking policies or location- or time-specific charges or
+bans on certain categories of vehicles, and
+- attachment of remote devices by utilities to air conditioning units to turn them off and cycle during
+peak demand.
+
+Energy transition
+
+12.4. Direct financing, policy
+actions, programs, or
+technical assistance to
+support closure of fossil fuel
+plants or other activities
+involving fossil fuel
+extraction, processing or
+transport, including support
+to workers or communities
+affected by such closure
+
+Criteria:
+ Decommissioning of a fossil fuel plant shall take place well before the end of its economic life.
+ Where financing is provided to decommission a fossil fuel plant and demand for the services or
+goods provided by the plant is not falling, the entity applying the Common Principles shall
+demonstrate that the system that includes the replacement for the decommissioned fossil fuel
+plant is on a path to declining fossil fuel intensity.
+ Where financing is provided to terminate fossil fuel extraction, the entity applying the Common
+Principles shall demonstrate that the relevant entity (country, state, province, or company) will
+be producing less of the fossil fuel in question overall.
+ For activities in support of workers or communities affected by closures the activity shall be
+explicitly linked to the closure of a fossil fuel plant or termination of activities devoted to
+extraction, transport, or combustion of fossil fuels.
+ Retraining of workers for comparable jobs in fossil fuel plants or activities involving fossil fuel
+extraction, processing or transport shall not be eligible.
+Guidance:
+ The second criterion is intended to ensure that a decommissioned fossil fuel plant will not be
+replaced by another plant with a comparable or higher GHG-emissions intensity. For example,
+financing provided to help decommission a grid-connected coal-fired power plant well before the
+
+66
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+end if its economic life would be eligible if the fossil fuel intensity of electricity generation in the grid
+is declining.
+ The third criterion is similarly intended to ensure that the overall extraction of a given fossil fuel
+decline. For example, the state government of a major coal-producing state may commit to reducing
+coal production despite having plentiful remaining reserves, resulting in many retrenched workers.
+Support provided to such workers would potentially be eligible.
+ Two examples of emissive activities being terminated are coal mining and railway dedicated to
+transporting fossil fuels.
+
+GHG-emission
+reduction
+
+12.5. Carbon capture, transport,
+storage, or utilisation
+
+Criteria:
+ Carbon capture of emissions from combustion of fossil fuels to generate electricity shall be
+eligible only if there is permanent storage of CO 2 or utilisation that enables long-term storage.
+ Where the activity involves utilisation, the project’s output shall replace raw materials. Further, the
+entity applying the Common Principles shall demonstrate a substantial reduction in relative GHG
+emissions or carbon intensity (e.g., tCO 2e/unit of output), taking account of material lifecycle
+sources such as where scope 3 emissions or scope 1 emissions during construction are expected to
+be material.
+ Where transport or storage is shared between captured CO 2 and other gases, financing shall be
+apportioned according to the share of stored or transported gases that is captured CO 2, provided
+that if its end-use is known, it is also eligible for climate mitigation finance.
+ Single-use utilisation of captured CO2 without further conversion shall not be eligible.
+Guidance:
+ The last bullet refers to such uses of CO 2 as in greenhouses and carbonated drinks.
+ Potentially eligible activities include financing provided specifically to enable separation of oxygen
+from air for oxyfuel with post-combustion capture and storage or eligible utilisation; and precombustion capture.
+
+Policy support and
+technical assistance
+for climate change
+mitigation
+
+12.6. National, subnational or
+territorial cross-sectoral
+policy actions that aim to
+lead to climate change
+mitigation actions or
+
+Criteria:
+Policy actions or technical support shall be for activities that will lead to an increase in carbon sinks
+or a substantial reduction in relative GHG emissions, or if the sector concerned is already low in CO 2e
+emissions, at a minimum not increase the current level of emissions.
+
+67
+
+Category
+
+Eligible activity
+technical support for such
+actions
+
+Screening Criteria and Guidance
+Guidance:
+ Policies that largely support activities not eligible in the Common Principles are not eligible.
+ Policy actions should be excluded if, even if they refer to mitigation of global warming, they are
+unlikely to have mitigation effects in practice.
+ Potentially eligible policy actions include those supporting the Nationally Determined
+Contributions (NDCs), long-term emission-reduction strategies, climate action plans, Nationally
+Appropriate Mitigation Actions (NAMAs), and plans for scaling up zero- or low-emission
+technologies and measures.
+
+Policy support and
+technical assistance
+for energy or
+resource-use
+efficiency
+
+12.7. Policy actions, programs, or
+technical assistance for
+establishing more stringent
+energy or resource-use
+efficiency standards or more
+stringent enforcement of
+efficiency standards
+
+Criteria:
+No specific criteria apply.
+
+Monitoring
+
+12.8. Systems or transparency
+tools for monitoring GHG
+emissions
+
+Criteria:
+Systems or transparency tools shall be expected to lead to an improvement in gathering data and
+information on GHG emissions.
+
+Guidance:
+Potentially eligible activities include setting new or tighter energy efficiency standards, certification
+schemes, and procurement schemes.
+
+Guidance:
+Systems or transparency tools for monitoring GHG emissions can be implemented at the national,
+subnational, sector or entity level.
+Energy efficiency and
+renewable energy
+
+12.9. Energy audits aimed at
+identifying scope for
+increasing energy efficiency
+or on-site renewable energy
+generation
+
+Criteria:
+ The project document shall show that the audit will have a specific focus on reducing energy
+consumption or GHG emissions.
+ Where the audit identifies renewable energy, it shall meet the same criteria for low lifecycle GHG
+emissions as in activity 2.1 or 2.2.
+
+68
+
+Category
+
+Eligible activity
+
+Screening Criteria and Guidance
+Guidance:
+ The energy audit can be either a dedicated energy audit or part of an overall entity audit. For the
+latter, only the portion of the audit dedicated to the energy audit will be eligible. This would also
+apply to auditing potential sources of direct GHG emissions with the objective of reducing them.
+ Potentially eligible audits include identification of:
+- Potential sources of energy savings and implementation of measures for such savings;
+- Potential sources of reductions in direct GHG emissions and implementation of measures for
+such reductions;
+- Potential sources of energy savings or reductions in direct GHG emissions with a view to
+implementing measures to achieve such savings or reductions in follow-up or future activities;
+and
+- Potential use of renewable energy (beyond what is currently dispatched to the local grid).
+
+Policy support and
+technical assistance
+for low-carbon
+development
+
+12.10. Policy actions, programs, or
+technical assistance for
+establishing fiscal incentives
+for scaling up investments
+in or deployment of lowcarbon technologies and
+measures
+
+Criteria:
+Fiscal incentives for promotion of natural gas to replace coal or oil shall not be eligible.
+
+Policy support and
+technical assistance
+for carbon pricing
+
+12.11. Policy actions, programs, or
+technical assistance that
+target carbon prices or
+other payments that have
+the equivalent effects
+
+Criteria:
+The activity shall increase the effective prices paid by end-users for or the costs of producing goods
+and services with high lifecycle GHG emissions.
+
+12.12. Policy actions, programs, or
+technical assistance for
+reducing unplanned lowdensity urban development
+
+Criteria:
+ The entity applying the Common Principles shall demonstrate that the activity is undertaken
+specifically to reduce unplanned low-density urban development compared to a business-as-usual
+scenario.
+
+Policy support and
+technical assistance
+for lower-carbon
+urban development
+
+Guidance:
+Fiscal incentives can be provided at the national, subnational or sector level.
+
+Guidance:
+ Potentially eligible activities include carbon taxes, cap-and-trade systems, fossil fuel subsidy
+reforms, raising excise taxes on fossil fuels, and shadow carbon prices used for sector planning
+purposes.
+
+69
+
+Category
+
+Eligible activity
+or promoting densification,
+leading to avoidance of a
+long-term lock-in of a
+higher-carbon built
+environment
+
+Capacity building and
+information
+dissemination
+
+CO2e-emission
+reduction
+
+Screening Criteria and Guidance
+ The entity applying the Common Principles shall demonstrate that the activity will reduce energy
+needs or increase carbon pools through more efficient urban systems, limit the expansion of
+urban land compared to the baseline, or do both.
+Guidance:
+ Compared to the urban development scenario without the policy, the eligible activity should be
+expected to:
+- reduce overall direct and indirect energy demand through more efficient urban systems and
+land use; or
+- increase carbon pools in surrounding undeveloped natural or agricultural land.
+ Potentially eligible activities include:
+- Promotion of mixed use and high-rise compact development, e.g., permitting higher floor area
+ratios, removing existing development restrictions in core urban areas to allow higher density
+and mixed use, and redevelopment or retrofit of underused urban districts using compact
+growth strategies; and
+- Containment of urban expansion, e.g., integrated urban spatial or zoning plans identifying
+higher development potential for core urban areas, low or no development potential for
+peripheral areas, and demarcated green zones.
+
+12.13. Education, training, capacity
+building or awarenessraising focused on climate
+change mitigation
+
+Criteria:
+No specific criteria apply.
+
+12.14. Programmes or systems
+that provide incentives or
+tools to units or teams
+within entities to manage
+and minimise GHG
+
+Criteria:
+Programme goals shall aim at minimising CO2e emissions and contributing to the goal of achieving
+full decarbonisation.
+
+Guidance:
+ Capacity building and awareness-raising activities can be provided at the national, subnational,
+community, sector or customer level.
+ Potentially eligible activities include consumer awareness campaigns about food waste, energy
+efficiency, recycling, and fossil fuel subsidies.
+
+70
+
+Category
+
+Eligible activity
+emissions and contribute to
+the entity’s decarbonisation
+goals
+
+Information
+dissemination
+
+12.15. Articulation of entity-level
+climate action or
+decarbonisation plans
+
+Screening Criteria and Guidance
+Guidance:
+Potentially eligible activities include green procurement, payment of a premium for products with
+low-carbon footprints, energy performance contracting, internal carbon budgets or prices, and
+targets for reducing CO2e emissions at the entity or unit level.
+Criteria:
+Plans shall pursue the goal of reducing relative CO2e emissions substantially and ultimately achieving
+full decarbonisation.
+Guidance:
+There is no specific guidance.
+
+Support for climate
+change mitigation
+
+12.16. Technical services required
+to develop or implement
+climate change mitigation
+finance projects
+
+Criteria:
+Technical services shall directly support other eligible activities in the Common Principles.
+
+12.17. Carbon trading or financial
+services or instruments
+
+Criteria:
+ Carbon trading services shall directly support other eligible activities in the Common Principles.
+ Carbon trading or financing instruments shall directly support carbon assets from eligible activities
+in the Common Principles.
+
+Guidance:
+There is no specific guidance.
+
+Guidance:
+ Carbon trading services concern establishment of services required to develop or implement
+climate change mitigation finance projects.
+ Carbon trading or financing instruments include carbon funds and are for purchase, sale, trade,
+finance, guarantees or technical assistance for activities related to carbon assets.
+ Carbon assets may be defined under international regulatory framework and standards under
+Article 6 of the Paris Agreement. These may also be defined by mechanisms such as the Carbon
+Offsetting and Reduction Scheme for International Aviation (CORSIA) of the ICAO or by
+international independent standards (such as Climate Action Reserve, Gold Standard, and Verra)
+eligible under CORSIA or the voluntary carbon markets.
+
+71
+
+

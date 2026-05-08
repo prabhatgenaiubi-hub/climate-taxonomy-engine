@@ -1,0 +1,1124 @@
+PRESS COMMUNIQUE
+
+07.05.2025
+
+The Government of India is developing India’s Climate Finance Taxonomy in pursuit of
+the announcement made in the Union Budget 2024-25 Paragraph 104 of the budget
+speech, which reads as follows:
+“We will develop a taxonomy for climate finance for enhancing the availability of capital
+for climate adaptation and mitigation. This will support achievement of the country’s
+climate commitments and green transition”
+2. India's climate finance taxonomy aims to facilitate greater resource flow to climate-friendly
+technologies and activities, enabling the country to achieve the vision of being Net Zero by
+2070 while also ensuring long-term access to reliable and affordable energy. The Climate
+Finance Taxonomy will serve as a tool to identify activities consistent with a country's
+climate action goals and transition pathway.
+3. A Draft Framework of the Climate Finance Taxonomy has been developed as part of this
+exercise. This framework outlines the approach, objectives, and principles that will guide
+the taxonomy. It also details the methodology for classifying activities, projects, and
+measures that contribute to India's climate commitments, while also taking into account
+goals associated with achieving Viksit Bharat by 2047.
+4. The draft framework will be the basis for developing sectoral annexures. The sectoral
+annexes will outline the measures, activities, and projects considered climate-supportive,
+and those identified for promoting the transition.
+5.
+
+The Department of Economic Affairs invites public comments (format below) on the
+Draft framework. Comments may be emailed to aditi.pathak@gov.in by 25th June 2025
+with the Subject “Comments on the Draft Framework for the Taxonomy”. The
+comments received through public consultation will be duly considered and examined,
+following which the Department of Economic Affairs, Ministry of Finance, will release the
+Framework of India’s Climate Finance Taxonomy.
+
+6. Format in which the information/comments may be provided
+Name of organisation/person:
+Contact details:
+Category/Description of person giving comments:
+S. No.
+
+Para / Sub Para no
+
+Government of India
+Ministry of Finance
+Department of Economic Affairs
+
+Comments
+
+Rationale
+
+Framework of India’s Climate Finance Taxonomy | 1
+
+Draft
+
+Framework of
+India’s Climate Finance Taxonomy
+Government of India
+Ministry of Finance
+Department of Economic Affairs
+
+Framework of India’s Climate Finance Taxonomy | 2
+
+Contents
+1.
+
+Introduction and Setting the Context................................................................................. 6
+Historical responsibility and per capita emissions..................................................................... 8
+Present status of India's climate action ...................................................................................... 9
+National Action Plan on Climate Change (NAPCC) - Mission Mode Approach .................. 9
+Advancing a Diversified Energy Mix .................................................................................. 10
+Measures to enhance energy efficiency ............................................................................... 12
+Policy and Investment Support ............................................................................................ 13
+Progress on India’s 2030 NDC Commitments ........................................................................ 15
+
+2.
+
+Objectives of the Climate Finance Taxonomy ................................................................. 16
+
+3.
+
+Designing India’s Climate Finance Taxonomy ............................................................... 17
+
+4.
+
+Principles of the Climate Finance Taxonomy.................................................................. 20
+
+5.
+
+Approach to the classification of activities, projects and measures contributing
+
+towards India’s climate commitments ..................................................................................... 24
+6.
+
+Sectoral coverage................................................................................................................ 26
+Power Sector ............................................................................................................................ 27
+Mobility ................................................................................................................................... 28
+Buildings .................................................................................................................................. 28
+Agriculture, Food & Water Security ....................................................................................... 29
+Hard-to-abate Sector ................................................................................................................ 30
+
+7.
+
+Public consultation and Next steps ................................................................................... 31
+
+Framework of India’s Climate Finance Taxonomy | 3
+
+Abbreviations
+Acronym
+
+Full Form
+
+ACC
+
+Advanced Chemistry Cell
+
+AfDB
+
+African Development Bank
+
+AIDC
+
+Agriculture Infrastructure Development Cess
+
+AIIB
+
+Asian Infrastructure Investment Bank
+
+AMRUT
+
+Atal Mission for Rejuvenation and Urban Transformation
+
+AMS
+
+ASEAN Member States
+
+ANZSIC
+
+Australia and New Zealand Standard Industrial Classification
+
+ASEAN
+
+Association of Southeast Asian Nations
+
+AUSC
+
+Advanced Ultra Supercritical
+
+BEE
+
+Bureau of Energy Efficiency
+
+BRTS
+
+Bus Rapid Transit System
+
+CAFE
+
+Corporate Average Fuel Economy
+
+CBI
+
+Climate Bonds Initiative
+
+CCTS
+
+Carbon Credit Trading Scheme
+
+CO2
+
+Carbon Dioxide
+
+DA-JGUA
+
+Dharti Aabha Janjatiya Gram Utkarsh Abhiyan
+
+DNSH
+
+Do No Significant Harm
+
+EBRD
+
+European Bank for Reconstruction and Development
+
+ECSBC
+
+Energy Conservation Sustainable Building Code
+
+EIB
+
+European Investment Bank
+
+EU
+
+European Union
+
+EV
+
+Electric Vehicle
+
+FAME
+
+Faster Adoption and Manufacturing of Electric Vehicles
+
+GDP
+
+Gross Domestic Product
+
+GEC
+
+Green Energy Corridor
+
+GFT
+
+Green Finance Taxonomy (South Africa)
+
+GHG
+
+Greenhouse Gas
+
+GLP
+
+Green Loan Principles (Egypt)
+
+Framework of India’s Climate Finance Taxonomy | 4
+
+Acronym
+
+Full Form
+
+GNHCP
+
+Green National Highways Corridor Project
+
+GRIHA
+
+Green Rating for Integrated Habitat Assessment
+
+GVA
+
+Gross Value Added
+
+GW
+
+Gigawatt
+
+HDI
+
+Human Development Index
+
+ICMA
+
+International Capital Market Association
+
+IDB Group
+
+Inter-American Development Bank Group
+
+IDFC
+
+International Development Finance Club
+
+IEA
+
+International Energy Agency
+
+IESS
+
+India Energy Security Scenarios
+
+IFC
+
+International Finance Corporation
+
+IGBC
+
+Indian Green Building Council
+
+IPCC
+
+Intergovernmental Panel on Climate Change
+
+IPSF
+
+International Platform on Sustainable Finance
+
+IsDB
+
+Islamic Development Bank
+
+IWG
+
+Industry Working Group
+
+LED
+
+Light Emitting Diode
+
+LIFE
+
+Lifestyle for Environment
+
+LMA
+
+Loan Market Association
+
+MDBs
+
+Multilateral Development Banks
+
+MoEFCC
+
+Ministry of Environment, Forest and Climate Change
+
+MSC
+
+Makes Significant Contribution
+
+MSME
+
+Micro, Small and Medium Enterprises
+
+MSS
+
+Minimum Social Safeguards
+
+MTOE
+
+Million Tonnes of Oil Equivalent
+
+MVA
+
+Megavolt-Amperes
+
+MW
+
+Megawatt
+
+NABARD
+
+National Bank for Agriculture and Rural Development
+
+NAPCC
+
+National Action Plan on Climate Change
+
+NDB
+
+New Development Bank
+
+Framework of India’s Climate Finance Taxonomy | 5
+
+Acronym
+
+Full Form
+
+NDC
+
+Nationally Determined Contribution
+
+NEMMP
+
+National Electric Mobility Mission Plan
+
+NICRA
+
+National Innovations in Climate Resilient Agriculture
+
+PAT
+
+Perform Achieve and Trade
+
+PIB
+
+Press Information Bureau
+
+PLI
+
+Production Linked Incentive
+
+PM E-DRIVE
+
+PM Electric Drive Revolution in Innovative Vehicle Enhancement
+
+PM-KUSUM
+
+Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan
+
+PMP
+
+Phased Manufacturing Programme
+
+PMUY
+
+Pradhan Mantri Ujjwala Yojana
+
+PSM
+
+Payment Security Mechanism
+
+PVTG
+
+Particularly Vulnerable Tribal Group
+
+RIC
+
+Road and Infrastructure Cess
+
+RMT
+
+Remedial Measures to Transition
+
+SAPCC
+
+State Action Plan on Climate Change
+
+SBG
+
+Sustainability Bond Guidelines
+
+SDG
+
+Sustainable Development Goal
+
+SDT
+
+Sector-agnostic Decision Tree
+
+SIDBI
+
+Small Industries Development Bank of India
+
+SLP
+
+Social Loan Principles
+
+SMR
+
+Small Modular Reactor
+
+SPMEPCI
+
+Scheme for Promotion of Manufacturing of Electric Passenger Cars in
+India
+
+SSFA
+
+Singapore Sustainable Finance Association
+
+STC
+
+Sectoral Technical Committee
+
+tCO2e
+
+Tonnes of Carbon Dioxide Equivalent
+
+TSC
+
+Technical Screening Criteria
+
+UJALA
+
+Unnat Jyoti by Affordable LEDs for All
+
+UNFCCC
+
+United Nations Framework Convention on Climate Change
+
+VGF
+
+Viability Gap Funding
+
+Framework of India’s Climate Finance Taxonomy | 6
+
+1.
+
+Introduction and Setting the Context
+
+1.1. India’s climate ambitions are reflected through the Nationally Determined Contributions
+(NDCs) and the announcement of Net Zero emissions by 2070. India requires around USD 2.5
+trillion (at 2014-15 prices) to meet the NDC targets till 2030.1 As per NITI Aayog’s India Energy
+Security Scenarios (IESS) 2047, a scenario-building tool, the total investment required for
+energy transition is estimated at ~USD 250 billion per year till 2047.2 However, this cost does
+not include the cost of EV infrastructure, demand infrastructure such as new iron and steel
+plants, etc.
+1.2. Finance for adaptation action is vital for addressing climate change impacts, building
+resilience and achieving India’s development goals. Preliminary estimates indicated that about
+USD 206 billion (at 2014-15 prices) would be required from 2015 to 2030 to implement
+adaptation actions in agriculture, forestry, fisheries, infrastructure, water resources and
+ecosystems.3 According to the Initial Adaptation Communication4 submitted by the country in
+December 2023, the cumulative expenditure needed for adaptation in a Business as Usual
+(BAU) scenario is estimated to be ₹56.68 trillion (approx. USD 648.5 billion)5 till 2030 at 202324 prices.
+1.3. The country has also announced its vision to be ‘Viksit’ or ‘developed’ by 2047. At
+present, India’s energy consumption per capita is about one-fifth6 of the developed countries
+and would need to appreciate significantly during the Amrit Kaal, a period of rapid economic
+growth. Estimates suggest that the minimum level of per capita final energy requirement for
+India to become a developed country with an HDI of 0.9 must be in the range of 45.7 to 75
+
+gigajoules per year7 when the total final consumption of energy per capita for FY23 was 16.7
+gigajoules8 only.
+1.4. The country has adopted an ambitious strategy to reduce emission intensity and enhance
+non-fossil fuel composition in the installed electricity capacity while expanding forest and tree
+cover to create an additional carbon sink. To champion and cultivate a vibrant, sustainable
+lifestyle grounded in the rich traditions and core values of conservation and moderation, the
+mass movement for ‘LIFE – Lifestyle for Environment’ serves as a vital cornerstone of our
+strategic vision. This initiative aims to inspire individuals and communities to embrace practices
+that nurture both personal well-being and the health of our planet. Given the size of resources
+required for financing India’s ambitious climate action, Union Budget 2024-25 announced that
+the taxonomy for Climate Finance would be developed for “enhancing the availability of capital
+for climate adaptation and mitigation”.9
+1.5. Given the complexity of the exercise and in alignment with international experience, the
+proposed work will be conducted in two distinct phases. The first phase will establish the
+foundational framework and the approach. Following this, the second phase will involve the
+classification of activities, measures, and projects that are climate-supportive, along with those
+facilitating transition in specific sectors and industries. This phased approach aims to enhance
+clarity and transparency for investors while ensuring that the taxonomy remains aligned with
+India’s developmental goals and climate commitments. Acknowledging that taxonomy must
+continually evolve in scope and depth to reflect the dynamic nature of the economy, it will be a
+living document that will be reviewed and updated from time to time. While achieving
+interoperability and ensuring alignment with global taxonomies is essential and will be pursued,
+the unique circumstances of the country will ultimately shape the development of the taxonomy.
+This approach will facilitate both domestic and foreign financial institutions in identifying
+investment opportunities in climate-related activities and will also help mitigate the risk of
+greenwashing.
+
+Historical responsibility and per capita emissions
+1.6. India's per capita GHG emissions stood at approximately 2.9 tCO2e in 2023, significantly
+lower than the World average of 6.7 tCO2e. In comparison, the per capita emissions of the
+European Union stood at 6.9 tCO2e, Japan at 8.3 tCO2e, the United States at 17.2 tCO2e and
+Canada at 20.4 tCO2e for the same year. This stark contrast underscores India's relatively
+minimal contribution to global emissions.11
+1.7. Developed countries have been the predominant contributors to cumulative historical
+emissions and continue to have higher per capita emission levels. Developed nations peaked
+their emissions decades ago, the EU in the 1970s and the US in the early 2000s.12 However,
+most of these countries have set a mid-century (by 2050) target towards net zero, allowing them
+relatively longer timelines for emission reductions than developing countries that are yet to
+reach peak emissions but are already facing increasing pressure to adopt similar trajectories over
+a much shorter timeframe.
+1.8. The pace of transition has significant implications for development trajectories. A steep
+transition pathway relies on access to finance, advanced technologies, and critical mineral
+resources, all of which pose significant challenges related to access and availability of such
+resources at a reasonable cost. Further, a rapid transition may substantially increase costs and
+could divert resources from other developmental priorities.13 A balanced and pragmatic
+approach that considers a country’s unique circumstances, development priorities, and access to
+essential resources will, therefore, be critical for designing sustainable and inclusive low-carbon
+pathways.
+
+Present status of India's climate action
+1.9. India’s Climate Action is circumscribed by the commitments made through the NDC
+submitted to the United Nations Framework Convention on Climate Change (UNFCCC) in 2016
+and its subsequent update in 2022. The NDC is focused on reducing the emission intensity of
+the GDP, enhancing the non-fossil energy installed capacities in electric power generation, and
+creating additional carbon sinks. Further, adaptation is recognised as an essential intervention
+reflected through the focus on enhancing investments in development programmes in sectors
+that are vulnerable to climate change, particularly agriculture, water resources, the Himalayan
+region, coastal regions, and health and disaster management. The approach considers the
+mobilisation of new and additional funds as capacity building and development of domestic
+frameworks vital for research & development and diffusion of cutting-edge climate
+technologies. India has embraced a comprehensive action plan to promote low-carbon
+development and build resilience to the impact of climate change. The efforts below reflect
+India’s multi-pronged strategy to enhance energy security, reduce carbon intensity, and support
+sustainable development while moving towards its Net Zero goals.
+National Action Plan on Climate Change (NAPCC) - Mission Mode Approach
+1.10. The NAPCC charts a course to enhance the sustainability of India’s development pathway,
+integrating high economic growth and building resilience to climate change. It encompasses
+nine national missions, addressing critical areas such as solar energy, water, energy efficiency,
+forests, sustainable habitat, sustainable agriculture, the Himalayan ecosystem, strategic climate
+knowledge, and, more recently, human health. A comprehensive set of climate actions, spanning
+adaptation, mitigation, and demand-side management, is being implemented through these
+missions.
+1.11. In tandem, states and union territories have been encouraged to prepare State Action Plans
+on Climate Change (SAPCCs) aligned with the overarching NAPCC framework and reflect
+local vulnerabilities, priorities, and capacities. As of July 2024, thirty-four SAPCCs have been
+formulated and are under implementation.14 These plans integrate adaptation and mitigation
+strategies into development planning and are supported through financial and technical
+assistance from the central government and development partners. This sub-national climate
+planning framework ensures decentralised action and strengthens India’s climate resilience from
+the ground up.
+Advancing a Diversified Energy Mix
+1.12. India is progressing towards a diversified energy mix, focusing on expanding renewable
+energy, bioenergy, nuclear, and storage solutions. As of February 2025, non-fossil fuel sources
+account for 47.4 per cent of the total installed electricity generation capacity. Within this, solar
+comprises 21.8 per cent, wind 10.3 per cent, hydro 10.0 per cent, and nuclear 1.7 per cent15.
+India is rapidly scaling up solar energy through grid and off-grid initiatives. The Solar Parks
+Scheme and Ultra-Mega Solar Power Projects aim to establish 40,000 MW capacity, with 55
+solar parks already sanctioned across 13 states, totalling 39.9 GW, of which 12.2 GW has been
+commissioned as of December 2024. In wind energy, states such as Tamil Nadu, Gujarat,
+Maharashtra, and Karnataka continue to lead.
+1.13. Decentralised solar deployment is the focus of the PM KUSUM scheme. The Scheme has
+three components targeted to achieve solar power capacity addition of 34.8 GW by 31.3.2026.
+These include setting up of 10,000 MW of decentralised ground/stilt mounted solar power plants
+on barren/fallow/pasture/marshy/ cultivable land of farmers (Component A), installation of 14
+lakh stand-alone solar pumps in off-grid areas (Component B) and solarisation of 35 lakh gridconnected agriculture pumps through individual and feeder level solarisation (Component C).
+By the end of March 2025, over 7.7 lakh stand-alone solar agriculture pumps have been installed
+and over 3.3 lakh grid-connected agriculture pumps have been solarised16.
+1.14. Additionally, PM Surya Ghar Muft Bijli Yojana aims at supplying solar power to one
+crore households by March 2027,17 and the New Solar Power Scheme under PM JANMAN and
+Dharti Aabha Janjatiya Gram Utkarsh Abhiyan (DA-JGUA) is electrifying one lakh unelectrified tribal and Particularly Vulnerable Tribal Group (PVTG) households across over
+63,843 villages, with provisions for off-grid solar lighting in 1,500 Multi-Purpose Centres and
+solarisation of 2,000 public institutions.18
+1.15. To promote offshore wind, the government has introduced a Viability Gap Funding (VGF)
+scheme, featuring a total budget of ₹7,453 crore, with ₹6,853 crore allocated for 1 GW capacity
+off the coasts of Gujarat and Tamil Nadu, and ₹600 crore for port infrastructure upgrades.19 The
+Green Energy Corridor (GEC) initiative is enhancing transmission infrastructure, with GEC-I
+installing 9,136 circuit kilometres of transmission lines and 21,413 megavolt-amperes (MVA)
+substations across eight states20, and GEC-II underway in seven21 more.22
+1.16. At the same time, coal-based power will continue to play a role in ensuring energy
+security, particularly for meeting base-load demand. Efforts are underway to improve the
+efficiency of thermal power generation through the deployment of supercritical (SC), ultrasupercritical (USC), and Advanced Ultra Supercritical (AUSC) technologies. These upgrades
+can significantly increase the efficiency of coal consumption and reduce emissions per unit of
+electricity generated. Cleaner coal technologies form a pragmatic strategy to ensure a stable,
+lower-emission baseload supply, complementing the intermittency of renewable sources and
+enabling a smoother transition to a low-carbon energy system while ensuring a stable power
+supply.
+1.17. The National Bioenergy Programme supports waste-to-energy, biomass cogeneration, and
+biogas plants. As of December 2024, grid-connected biomass capacity reached ~9.8 GW and
+off-grid biogas capacity was around 0.92 GW equivalent. In addition, India is advancing the
+National Green Hydrogen Mission, targeting 5 million metric tonnes per annum of green
+hydrogen by 2030, with awarded capacities of 412,000 tonnes for production and 3,000 MW of
+electrolyser manufacturing.23
+1.18. The Nuclear Energy Mission, announced in Union Budget 2025–26 with a ₹20,000 crore
+outlay, aims to develop Small Modular Reactors (SMRs) indigenously and increase nuclear
+capacity to 100 GW by 2047.
+1.19. The transition to clean cooking fuel has reached near saturation through the Pradhan
+Mantri Ujjwala Yojana (PMUY) in 2023,24 significantly improving energy access for
+households.
+Measures to enhance energy efficiency
+1.20. Enhancing energy efficiency has been at the core of India’s strategy to reduce emission
+intensity. The market-driven initiative of the Perform Achieve and Trade (PAT) Scheme,
+launched in 2012, aims to improve energy efficiency in energy-intensive industries by setting
+reduction targets for Designated Consumers (DCs). As of March 2023, the scheme had saved
+approximately 26 million tonnes of oil equivalent (MTOE) and reduced over 70 million tonnes
+of CO2 emissions.25 Following a 2022 amendment to the Energy Conservation Act, the Carbon
+Credit Trading Scheme (CCTS) was introduced, covering the energy-intensive sectors that were
+earlier covered under PAT. Nine sectors26, including Aluminium, Cement, and Steel, have been
+identified for inclusion under CCTS.
+1.21. Simultaneously, energy efficiency measures are being actively promoted through both
+schemes and regulatory interventions, such as the Prime Minister’s Unnat Jyoti By Affordable
+LEDs for All (UJALA) scheme, which has led to the widespread adoption of LED lighting,
+reducing household electricity consumption. Energy efficiency in the building sector is being
+driven by the Energy Conservation Sustainable Building Code (ECSBC) for commercial
+buildings, Eco Niwas Samhita for residential buildings, star ratings for commercial buildings,
+energy-efficient homes, and net zero energy buildings (Shunya Labelling). Additionally, it has
+become mandatory for all new Government buildings to adhere to the Green Rating for
+Integrated Habitat Assessment (GRIHA) ratings to promote resource-efficient and sustainable
+construction practices, including energy efficiency standards for reduced environmental
+impact.27 The Star Labelling Programme for appliances by the Bureau of Energy Efficiency
+(BEE) encourages the use of energy-efficient electrical appliances across residential and
+commercial sectors.28
+Policy and Investment Support
+1.22. The Production-Linked Incentive (PLI) schemes are designed to promote the
+manufacturing of high-efficiency solar PV modules and enhance the production of electric and
+hydrogen fuel cell vehicles.29 The National Programme on Advanced Chemistry Cell (ACC)
+Battery Storage aims to boost domestic battery production, while the Phased Manufacturing
+Programme (PMP) focuses on localising electric vehicle (EV) components to strengthen India's
+supply chain.
+1.23. The Faster Adoption and Manufacturing of Electric Vehicles (FAME) Scheme has
+encouraged the adoption of electric two-wheelers, three-wheelers, four-wheelers, and buses,
+along with the expansion of charging infrastructure.30 Building on this foundation, the PM
+Electric Drive Revolution in Innovative Vehicle Enhancement (PM E-DRIVE) Scheme was
+launched in September 2024 to accelerate EV adoption across various categories, including
+electric two-wheelers, three-wheelers, trucks, buses, and ambulances.31
+1.24. Additionally, the PM e-Bus Sewa - Payment Security Mechanism (PSM) Scheme ensures
+financial security for deploying 38,000 electric buses.32 The Scheme for Promotion of
+Manufacturing of Electric Passenger Cars in India (SPMEPCI) launched in March 2024,
+encourages domestic value addition to promote localised EV manufacturing.
+1.25. Ongoing initiatives by relevant ministries further reinforce India's transition to clean
+energy.33 For instance, the Ministry of Power issued revised guidelines in September 2024 that
+established uniform standards for EV charging infrastructure and streamlined electricity
+connections. Meanwhile, the Ministry of Road Transport and Highways introduced green
+license plates, exempted battery-operated vehicles from permit requirements, and urged states
+to waive road tax to lower upfront costs. Additionally, the Ministry of Housing and Urban
+Affairs has amended the Model Building Bye-Laws to require the installation of EV charging
+stations in private and commercial buildings, ensuring wider access to charging infrastructure.34
+1.26. The Union Budget 2024-25 envisages action on pumped storage, the development of small
+modular nuclear reactors, and advanced ultra-supercritical (AUSC) thermal power plants,
+strengthening energy security and grid stability while diversifying India's clean energy
+portfolio.35
+1.27. Further, India has taken steps to put an implicit price on carbon. Fiscal instruments such
+as the GST Compensation Cess on coal at ₹400 per tonne, along with specific levies including
+the Central Excise Duty, Additional Excise Duty, Road and Infrastructure Cess (RIC), and
+Agriculture Infrastructure Development Cess (AIDC) on petrol and diesel, have together
+contributed to establishing a comparatively high implicit carbon tax. These measures serve to
+discourage fossil fuel consumption and reflect India’s commitment to integrating climate
+considerations into its fiscal architecture.
+
+Progress on India’s 2030 NDC Commitments
+1.28. India’s proactive measures have yielded positive results, with many targets under its first
+Nationally Determined Contribution (NDC) achieved ahead of schedule. India achieved 40 per
+cent cumulative electrical power installed capacity from non-fossil fuel sources in 2021, well
+before the 2030 target. Similarly, the emission intensity of GDP was reduced by 33 per cent
+from 2005 levels by 2019—nine years ahead of the target year. Recognising the progress, India
+revised its NDC in August 2022, enhancing the target to reduce GDP emission intensity to 45
+per cent (up from 33-35 per cent) by 2030 and increasing the target for non-fossil fuel-based
+cumulative electric power installed capacity to 50 per cent (from the earlier 40 per cent). India
+has successfully established an installed electricity generation capacity of 222.85 GW from nonfossil fuel sources, which account for 47.4 per cent of the total capacity as of 28 February 2025.36
+There has been notable progress in energy generation from non-fossil fuels, including nuclear,
+hydro, and renewable sources. This segment reached 420.8 thousand gigawatt hours in the 202223 provisional data, making up 22.8 per cent of the total gross energy generation. Within this,
+large hydro represents 8.81 per cent, nuclear contributes 2.79 per cent, and renewables account
+for 11.52 per cent.37
+1.29. The extensive cross-sectoral measures adopted across the economy, coupled with schemes
+promoting energy efficiency and influencing consumer and producer behaviour, have
+significantly impacted emissions growth. A report by the International Finance Corporation
+lauds India’s commitment to its climate goals, identifying it as the only G20 nation aligned with
+the 2°C global warming threshold38. Significantly, these achievements have been mainly driven
+by domestic resources, reflecting India’s reliance on internal capabilities for climate action.
+However, meeting its updated NDC targets requires an estimated USD 2.5 trillion (at 2014–15
+prices) by 2030. To bridge this significant financing gap, access to affordable finance and
+advanced technology—particularly from developed countries, as stipulated under the UNFCCC
+and the Paris Agreement—is critical for sustaining and scaling India’s climate efforts.
+
+2.Objectives of the Climate Finance Taxonomy
+
+2.1. The climate finance taxonomy is a tool to identify activities consistent with India’s climate
+action goals and transition pathway. The objective is to facilitate greater resource flow to
+climate-friendly technologies and activities, enabling achievement of the country’s vision to be
+Net Zero by 2070 while also ensuring long-term access to reliable and affordable energy. The
+taxonomy should also prevent "greenwashing"39. The taxonomy shall be consistent with the
+developmental goal of ‘Viksit Bharat’ to be achieved by 2047. Specifically, the taxonomy will
+cover technologies, measures, projects and activities that are aligned to:
+a) Mitigation- which includes improvements in energy efficiency or reduction in emission
+intensity, and avoidance of GHG emissions including through the expansion of non-fossil
+fuel energy, etc.,
+b) Adaptation- action that enhances resilience, including sustainable water management,
+ecosystem protection and restoration, and geography-specific adaptation measures to
+lower the negative impacts of climate change.
+c) Support transition of hard-to-abate sectors- Transition activities in line with the
+specific pathway for hard-to-abate industries, innovation and R&D facilitate low carbon
+pathways considering the available technology, its access and viability.
+
+39
+
+Greenwashing in the context of the Climate Finance Taxonomy refers to misrepresentation of activities as being
+climate-aligned, either intentional or due to gross negligence.
+
+
+3.Designing India’s Climate Finance Taxonomy
+
+3.1. There are broadly two aspects to framing a taxonomy - qualitative and quantitative40. The
+exposition of the objectives and principles that guide the identification of activities and projects
+as being climate-relevant forms the qualitative part, while the quantitative aspect is reflected in
+the form of performance thresholds like the expected extent of GHG savings, best-in-class
+performance41, and improvements in emission intensity. In most cases, the qualitative aspect
+forms the basis for the quantitative aspects of the taxonomy.
+3.2. Qualitative elements can define the core principles guiding green activities and align with
+India’s NDCs and SDGs. Quantitative elements, such as GHG intensity reduction thresholds
+and sustainability performance metrics, can provide measurable targets for transparency and
+accountability. A hybrid approach that combines qualitative principles with quantitative
+metrics ensures that the taxonomy remains inclusive, addressing India's diverse industrial
+structure and responding to new targets, regulatory changes, and policy dynamics while
+promoting a science-based trajectory for climate transition.
+3.3. The formulation of the taxonomies in most jurisdictions has also mainly been an iterative
+process, beginning with the qualitative aspects and moving on to the quantitative aspects. They
+have been periodically reviewed. For instance, ASEAN introduced their 3rd version in 2024
+(versions 1 and 2 were in 2021 and 2023, respectively), while the EU initiated the process in
+2018 with an Action Plan on financing sustainable growth, the taxonomy regulation was brought
+out in 2020 following which, the Technical Screening Criteria (TSC) was finalised during 20212342.
+3.4. Given the considerable amount of climate finance required, the long pathway to Net Zero,
+and the wide and complex nature of sectors and activities to be covered, the taxonomy should
+allow updation, inclusions, and enhancement of scope. India’s taxonomy on climate finance will
+be a living document. It will be periodically reviewed to capture the evolving requirements and
+to progressively cover sectors, projects and activities reflecting the dynamic landscape of
+investments for climate finance.
+3.5. The implementation of the hybrid approach will be in a phased manner, starting with
+qualitative criteria to provide a broad framework that aligns with national priorities, such as
+inclusive growth, Net Zero goal by 2070, and sector-specific low-carbon pathways. Over time,
+quantitative thresholds and benchmarks will be incorporated, as appropriate, for greater
+precision. Where quantitative thresholds are incorporated, relative performance targets (e.g.,
+percentage improvements) rather than absolute benchmarks would be considered. The phased
+development will allow flexibility to address technological challenges and data constraints,
+particularly in sectors like Micro Small and Medium Enterprises (MSMEs)43 and agriculture.
+3.6. Recognising the diversity in capacities within industrial organisations across sectors in
+India, the taxonomy will ensure inclusivity and proportionality. For the MSME sector, the
+taxonomy will follow a staggered approach with simplified criteria and processes to reduce the
+burden of adoption in view of their technological and resource constraints while encouraging
+their participation in climate initiatives. The intervention will duly incorporate these needs
+including through i) specific thresholds and criteria for MSMEs; ii) simplified reporting, and iii)
+capacity-building.
+3.7. Considering the country’s geography and varied agro-climatic zones, which lead to
+vulnerability to climate change, the taxonomy will emphasise adaptation and building resilience
+to ensure that developmental gains are not adversely impacted. The agriculture sector is the
+backbone of the economy, is pivotal for maintaining food security and has a predominant
+presence of small and marginal farmers. The sector, therefore, requires measures to continuously
+adapt to build its resilience to climate change, and this will be the central theme of the taxonomy
+in the context of Agriculture.
+
+4.Principles of the Climate Finance Taxonomy
+
+4.1. The Indian Climate Finance Taxonomy is based on eight principles that set down the wireframe of the classification guiding the identification and delineation of the criteria, activities,
+projects and/or technologies as applicable. It has been formulated on the basis of consultations
+on the concept note and a review of existing taxonomies. Further refinements will be based on
+public consultations on the draft framework. The principles that will form the basis of the
+framework are as follows:
+a) Consistency with stated position on Climate Action and development priorities:
+Nationally Determined Contribution, the announcement of Net Zero carbon emissions by
+2070, country-determined transition pathways and India’s Viksit Bharat@2047 ambitions to
+achieve developed country status by 2047 and energy security for all should be the basis to
+determine the activities recognised as being consistent with the climate finance framework.
+b) Do no significant harm to other objectives of the climate finance taxonomy: Implement
+measures and projects that prevent or minimise adverse effects on other climate objectives,
+ensuring that efforts to address one issue do not disproportionately harm others. This shall
+allow for incorporating safeguards, where necessary to be consistent with the objectives of
+the taxonomy.
+c) Focusing on pathways and trajectories in the country context: The pathways and
+trajectories in line with country circumstances are essential. The taxonomy should contribute
+to a reduction in carbon emission intensity or long-term low carbon pathways recognising that
+immediate compliance with stringent standards may not be feasible in the short run or for all
+sectors.44
+d) Interoperability and consistency: While striving for alignment with international
+frameworks and taxonomies to the extent possible, the Indian taxonomy for Climate Finance
+will reflect and allow flexibility considering the country's context, development priorities and
+national climate goals.
+e) Support Transition Activities: As stated in the ICMA guidelines on taxonomies45, “the real
+challenge is enabling the market to finance the transition rather than unintentionally
+restricting it to what is already considered exemplary.” The taxonomy should facilitate a
+dynamic and inclusive classification system that recognises and supports sectors crucial for
+transition46, facilitating investment in critical sectors during their transition phase.
+f) Promoting the use of Indigenous technologies: The taxonomy should strive to enhance
+investments in Indigenous technologies by incentivising the adoption of such technologies
+and Research and Development (R&D) on a preferred basis.
+g) Be science-based and transparent: The approach should be objective, supported by clearly
+defined and disclosed metrics, and should rely on transparent and robust methodologies to
+identify investment opportunities. Principles for inclusion in climate mitigation projects can
+be based on avoiding GHG, reducing GHG or carbon emission intensity, enhancing GHG
+removals and long-term storage of GHGs. Similarly, adaptation and resilience activities can
+be based on the principle of increasing resilience and reducing the risk and vulnerability to
+climate hazards, reducing or preventing the adverse impact of current and future climate risks
+and hazards on the activity itself or nature, assets and people and improve the adaptive
+capacity and strengthen the resilience of assets, and people.
+h) Proportionality - Support for MSMEs: The taxonomy should incorporate specific
+provisions to ensure that resource flows to MSMEs are not adversely impacted. The taxonomy
+shall include simplified and proportionate criteria for MSMEs to facilitate their inclusion in
+the climate finance framework, addressing their resource constraints and ensuring their
+smooth transition to low-carbon pathways. Proportionality criteria, capacity-building, and
+simplified reporting mechanisms shall be implemented by financial institutions/regulators to
+address the unique challenges of the MSMEs to support their climate transition.
+4.2. The above principle will be central to the sector specific taxonomies to be formulated.
+5.Approach to the classification of activities, projects
+and measures contributing towards India’s climate
+commitments
+
+5.1. The classification will be guided by the principles set down in this framework. The
+taxonomy will classify activities and projects into two baskets - Climate supportive and
+climate transition. The taxonomy will adopt a graded approach, classifying activities at
+various levels47.
+5.2. Climate-supportive activities would include the activities, projects and measures that
+contribute to one or more objectives set out in this framework (Table 1), through at least one
+of the following:
+i.
+
+Avoiding GHG emissions
+
+ii.
+
+Reducing emission intensity
+
+iii.
+
+Deploys adaptation solutions that reduce the risk of adverse impacts of climate change
+
+iv.
+
+R&D to meet one or more objectives of the framework
+
+
+Tier 1
+
+Qualifying Criteria
+a) This includes activities, projects, and measures
+leading to absolute emission avoidance, including
+non-fossil fuel sources.
+b) Includes activities, projects, and measures that
+contribute to a reduction in emission intensity
+(beyond a certain factor), have defined pathways for
+further
+
+improvement,
+
+and
+
+also
+
+adaptation and resilience building.
+
+47
+
+Transition activities in line with the specific pathway for hard to abate industries.
+
+contribute
+
+to
+
+Framework of India’s Climate Finance Taxonomy | 25
+
+Activities/ Projects/
+Measures
+
+Category
+
+Qualifying Criteria
+c) In adaptation and resilience building, this includes all
+activities, projects and measures that enhance climate
+resilience.
+
+Climate
+Supportive
+Tier 2
+
+a) Activities, projects and measures that contribute to a
+reduction in emission intensity and have defined
+pathways for further improvement.
+b) Activities, projects or measures that improve energy
+efficiency and/or reduce emission intensity in sectors
+where absolute emission avoidance is currently not
+viable due to the lack of or non-viable alternative
+technology, and also contribute to adaptation and
+resilience building.
+c) Activities, projects and measures that improve
+adaptation and enhance resilience but may lead to
+unmitigated GHG emissions due to technological
+constraints or other constraints such as access to
+viable technologies.
+
+5.3. Transition activities would include activities, projects and measures for which there is
+no technologically and economically feasible low-emission alternative in India (Table 2).
+Table 2: Transition activities, projects and measures
+Activities/ Projects/
+Measures
+
+Category
+
+Qualifying Criteria
+
+Name of Activities,
+
+Transition
+
+Activities, projects and measures that improve energy
+
+projects and measures
+
+Supportive efficiency and/or reduce emission intensity in sectors where
+
+(including ISIC codes or
+
+absolute emission avoidance is currently not viable or due to
+
+NIC codes where
+
+the lack of alternative technology
+
+available)
+
+
+
+5.4. These activities, projects and measures should not lead to stranded assets where further
+reductions in emissions or emission intensity are not feasible in the short run due to
+technological constraints or other constraints such as access to economically viable
+technologies. Further, as long as the transition is in line with the stated policy of the
+Government, it will be considered to meet the objectives of this framework.
+Figure 6: Approach of the Taxonomy: Constituent Elements
+
+6.
+
+Sectoral coverage
+
+6.1. The framework document sets down the rationale, objectives, principles and approach
+that will govern the classification of activities, projects and measures related to identified
+sectors added in the form of Annexures to the framework document over time. The taxonomy
+is a living document and further additions may be brought in subsequent annexures to the
+framework document.
+6.2. To begin with, the following sectors shall be considered:
+•
+
+Power, Mobility, and Buildings in the context of climate mitigation and adaptation
+co-benefits.
+
+•
+
+Agriculture, food and water security will be in the context of climate adaptation and
+resilience building.
+
+•
+
+Addressing transition, in line with country circumstances, in hard-to-abate sectors.
+Iron and Steel and Cement shall be considered at the outset.
+
+Framework of India’s Climate Finance Taxonomy | 27
+
+The subsequent section discusses the rationale for including the identified sectors and
+industries in the first version.
+
+Power Sector
+6.3. The power sector is a key driver of industrial and commercial activities, and it plays a
+pivotal role in sustaining economic expansion and enabling social development. Access to
+reliable and affordable electricity is essential for powering industries, supporting agriculture,
+and enhancing livelihoods through small and medium enterprises (SMEs). As per India’s
+fourth Biennial Update Report to UNFCCC in 2024, electricity production accounted for 39
+per cent of total GHG emissions in 2020.48
+6.4. The power sector is integral to achieving the government’s vision of Viksit
+Bharat@2047. As India moves toward its Net Zero goals, balancing power generation from
+diverse sources—renewables, thermal, nuclear, and hybrid systems—will be crucial for
+sustaining economic momentum. This mix includes renewables such as solar, wind, and
+bioenergy, alongside advanced technologies like nuclear, green hydrogen, and storage
+solutions.
+6.5. According to estimates, the country needs to scale up investments substantially to
+enhance the installed capacity to 777.14 GW by 2029-3049 from 470.4 GW (as of February
+2025)50. Considering the scale, strategic investments are required in Advanced Ultra Super
+Critical (AUSC) thermal power plants, which reduce emissions through higher efficiency,
+improving plant efficiency to 46 per cent, surpassing subcritical (~38 per cent) and
+supercritical (~41–42 per cent) technologies.51
+6.6. Nuclear energy can also provide reliable baseload power with no carbon footprint. The
+Union Budget 2024-25 identified nuclear energy as a key pillar of the Viksit Bharat.52 The
+Union Budget 2025-26 further introduced the Nuclear Energy Mission with a ₹20,000 crore
+outlay for Small Modular Reactors (SMR) research and development, targeting at least five
+indigenously developed SMRs by 2033. Amendments to the Atomic Energy Act and the Civil
+Liability for Nuclear Damage Act are envisaged, toward achieving 100 GW of nuclear
+capacity by 2047 to support India’s energy transition and security goals.53
+Mobility
+6.7. Transport is a key contributor to the GDP, accounting for 4.5 per cent of India’s Gross
+Value Added (GVA) in 2022-23 (National Account Statistics 202454). In 2020, India’s
+transport sector accounted for 13.28 per cent of the total emissions of the energy sector
+(MoEFCC, 202455). As India progresses towards Viksit Bharat, the mobility sector is likely
+to grow at a substantive pace.
+6.8. There have been several Government initiatives to transition the transport sector to a
+low-carbon pathway. Key amongst these, include, the Emission Standards and Auto Fuel
+Policy of 2003, Corporate Average Fuel Economy (CAFE), Harit Path, Green National
+Highways Corridor Project (GNHCP), National Electric Mobility Mission Plan (NEMMP),
+Faster Adoption and Manufacturing of Hybrid and Electric Vehicles (FAME), Expansion of
+Metro Networks, Bus Rapid Transit System (BRTS), and the Ethanol Blended Petrol
+Programme.56
+6.9. Going forward, while fossil fuels will continue to play an essential role in India’s
+transport sector in the short to medium term, there is a need for promoting the technologies
+and measures that are less carbon-intensive and to facilitate the flow of investment to aid the
+transition.
+Buildings
+6.10. The building sector will be at the core of India’s growth and development in the Amrit
+Kaal. Rapid urbanisation drives demand for housing and infrastructure, and this will be a
+defining feature of India’s development as cities continue to grow. The Government of India
+is focusing on incentivising strategies to minimise energy and material consumption in the
+building sector through design and technology. India's National Mission for Sustainable
+Habitat (NMSH) addresses this through programs like Atal Mission for Rejuvenation and
+Urban Transformation (AMRUT) and Smart Cities Mission. The Energy Conservation
+Building Code (ECBC) 2017 and its residential counterpart, Eco Niwas Samhita (ENS),
+promote energy efficiency. The Star Rating Scheme incentivises energy-efficient commercial
+buildings. The Unnat Jyoti By Affordable LEDs for All (UJALA) scheme promotes efficient
+appliances, and the Standards and Labelling (S&L) program sets appliance efficiency
+standards. Building certifications such as Green Rating for Integrated Habitat Assessment
+(GRIHA) and Indian Green Building Council (IGBC) standards are playing an important role
+in enhancing energy efficiency and sustainability. The Central government has made it
+mandatory for all the new buildings of public sector undertakings and those of the government
+to comply with GRIHA norms.57
+6.11. As India's building sector undergoes transformation, strategic interventions and private
+sector engagement are required to promote sustainable growth. To support India's Net Zero
+ambitions, the climate finance taxonomy will categorise activities, projects and measures
+based on their emissions intensity reduction potential, guiding investments and policies to
+sustainable construction practices, energy-efficient technologies, and climate adaptation
+measures to enhance resilience against extreme weather.
+Agriculture, Food & Water Security
+6.12. Agriculture and climate change are deeply interconnected, with all agricultural sectors
+highly vulnerable to climate-related disruptions. India's agriculture and allied activities sector,
+contributes 16 per cent of GDP (FY24 PE) and employs 46.1 per cent of the population. While
+the sector has maintained 5 per cent annual growth (FY17–FY23), its heavy dependence on
+monsoon variability poses significant risks, especially since only 55 per cent of the net sown
+area is irrigated58. The implications of erratic monsoon patterns are particularly pronounced
+for marginal and small-scale farmers, representing approximately 85 per cent of India's
+agricultural holdings. These farmers typically cultivate on plots less than 2 hectares in size,
+making them highly vulnerable to the impacts of climate variability.
+
+6.13. The adverse effects of climate change on agriculture present a significant risk to
+livelihoods and food security, emphasising the urgent need for resilience-building measures.
+The studies conducted under National Innovations in Climate Resilient Agriculture (NICRA)
+showed that in the absence of adaptation measures, climate change is likely to reduce the
+yield of rainfed and irrigated rice, wheat, kharif maize etc.
+6.14. Despite agriculture being one of the sectors with the highest need for adaptation finance
+to meet national climate goals, climate-related finance to agrifood systems remains limited
+and continues to decrease relative to global climate finance flows59. Investing in agricultural
+adaptation is crucial to ensuring the long-term sustainability of the sector. There is a need for
+greater private sector participation for modernisation, climate resilience, and infrastructure
+development particularly in post-harvest facilities that reduce waste and enhance farmer
+incomes. Further, scaling up investment in R&D on climate-resilient crop varieties, precision
+irrigation, and sustainable farming technologies is critical for enhancing productivity,
+mitigating climate risks, and ensuring India’s food security amid increasing climate
+variability.
+Hard-to-abate Sector
+6.15. For Viksit Bharat by 2047, enhancing physical infrastructure will be of paramount
+importance. Within the spectrum of industries that can bolster infrastructure development, the
+iron and steel, aluminium, and cement industries are of particular importance. The
+development of public infrastructure and industrial growth is anticipated to generate
+considerable demand for these industries, given their critical role in providing essential
+materials.
+6.16. However, at the same time, there is a pressing need to promote low-emission production
+in line with India’s climate ambitions. Emissions from these industries are hard to abate due
+to their reliance on energy, complex processes and technologies that have high emissions, and
+existing gaps in research and development of technologies to reduce their emission intensity.
+While these industries are inherently capital-intensive, their transition to low-emission
+technologies will be even more capital-intensive. An orderly transition of this sector is key to
+India’s development strategy. Investments need to flow not only towards the development of
+low-emission technologies but also to support the modernisation and capacity enhancement
+of existing facilities, avoiding the risks of stranded assets and sunk costs.
+6.17. The climate finance taxonomy aims to direct investment towards the hard-to-abate
+sectors to support the development of indigenous low-emission production technologies,
+large-scale deployment of mature climate technologies, and the building of domestic
+expertise for a gradual transition to low-emission pathways. The focus will initially be on the
+Iron and Steel and Cement industries, with provisions for periodic review to accommodate
+evolving requirements and progressively include other hard-to-abate sectors such as
+fertilisers, aluminium, and more.
+
+7.
+
+Public consultation and Next steps
+
+7.1. The Climate finance taxonomy will consist of two parts - the Framework and the
+sectoral annexures. A Concept note was shared with the identified experts from think tanks,
+academia, international organisations, development finance institutions, line ministries/departments of the Government of India, and industry bodies to gather feedback
+and inputs. This framework has been prepared based on the consultations and inputs received
+on the initial concept note. Existing taxonomies from various countries, regions, and
+organisations have also been reviewed with respect to the objectives, principles and approach.
+7.2. Before finalisation, comments received through public consultation will be duly
+considered. Following this, the Department of Economic Affairs, Ministry of Finance will
+release the Framework of India’s Climate Finance Taxonomy.
+7.3. The framework document sets out the basis on which sectoral annexures will be
+prepared taking into account the objectives, principles, approach and flexibilities to address
+proportionality and sectoral context and pathways. In the second stage of work, the inputs
+from the STCs will be finalised as annexures to the framework document.
+7.4. The framework document will be reviewed periodically.

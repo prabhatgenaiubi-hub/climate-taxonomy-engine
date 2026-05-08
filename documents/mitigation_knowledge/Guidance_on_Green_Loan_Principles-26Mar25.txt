@@ -1,0 +1,534 @@
+Guidance on Green Loan Principles
+
+26 March 2025
+
+Interpretation of terms
+The following definitions provide guidance for understanding and implementing this Guidance on Green Loan Principles:
+•
+"Shall": Indicates a mandatory requirement.
+•
+"Should": Indicates a recommendation.
+•
+"May": Indicates an optional course of action.
+•
+"Can": Indicates possibility or capability, for example, that an organization or individual is able to act.
+For all other terms, a plain English approach is adopted.
+
+1 Introduction
+The Green Loan Principles (GLP) were originally launched in 2018 and provide a framework to articulate the fundamental
+characteristics of a green loan. In order to promote the development of this product, and to underpin and strengthen its integrity, the
+APLMA, LMA and LSTA considered it appropriate to produce Guidance on the GLP, to provide market practitioners with clarity on
+their application and promote a harmonised approach.
+This Guidance should be read alongside the GLP.
+Guidance is also available for the Sustainability-Linked Loan Principles (SLLP) and the Social Loan Principles (SLP). These sets of Guidance
+are intended to highlight the differences between, and suitability of application of the GLP, the SLP and /or the SLLP to any particular deal.
+
+2 Fundamentals
+A.
+
+Is there a definition of green loans?
+
+The GLP define green loans as:“…any type of loan instruments and/or contingent facilities (such as bonding lines, guarantee lines or letters of credit) where the
+proceeds or an equivalent amount shall be exclusively applied to finance, re-finance or guarantee, in whole or in part, new and/or
+existing eligible Green Projects and which are aligned to the four core components of the GLP.”
+Borrowers shall explain the alignment of their green loan with the four core components of the GLP in a green loan
+framework and/or legal documentation, as appropriate.
+The definition of green loans will be reviewed on a regular basis in light of the development and growth of the green loan market.
+Whilst it is recognised that definitions of “green” and “Green Projects” may vary depending on sector and geography 1 , the GLP do
+contain a high-level, non-exhaustive list of potential categories of eligibility for Green Projects (See – 1. Use of Proceeds in the
+GLP).
+B.
+
+What are the advantages of entering a green loan?
+
+Entering into a green offers a range of advantages for borrowers and lenders. Such advantages may include, but not
+limited to, the following:
+• Access to a Broader Investor Pool: Attracting investors who prioritise environmental, social and governance (ESG)
+focused investments.
+• Market Resilience and Risk Reduction: Gaining access to new markets 2 while enhancing portfolio resilience against
+climate change-related disruptions.
+• Scalable Financing Options: Simplifying the process of linking new financing to specific green projects through a clear
+green loan framework.
+• Positive Environmental Impact: Contributing to environmental objectives, including climate change resilience,
+mitigation and adaptation efforts.
+• Supporting the UN Sustainable Development Goals: Advancing global sustainability initiatives.
+• Enhanced Reputation: Strengthening credibility and demonstrating commitment to environmental responsibility.
+• Building Stronger Stakeholder Relationships: Fostering values-driven connections with partners and communities.
+• Regulatory and Policy Alignment: Meeting environmental, strategic, and regulatory commitments and targets.
+
+See ICMA’s Compendium of international policy initiatives at https://www.icmagroup.org/assets/documents/Regulatory/Green-Bonds/ICMA-Sustainable-finance-Compendiumof- international-policy-initiatives-best-market-practice-February-2020-200220.pdf for examples of international and national initiatives taxonomies.
+2
+The potential for green and sustainable finance to mitigate against long term risks associated with climate change has encouraged regulatory authorities in many countries to
+promote policy initiatives which encourage and support green and sustainable finance strategies, of which green loans form a key component.
+1
+
+4
+
+Guidance on Green Loan Principles
+
+C.
+
+26 March 2025
+
+Who can borrow a green loan?
+
+Subject to any applicable law, regulation and credit assessment, any type of borrower can borrow a green loan, provided the
+transaction structure can be aligned with the four core components of the GLP.
+D.
+
+What is the difference between green/social loans and sustainability-linked loans (SLLs)?
+
+The fundamental determinant of a green/social loan is the utilisation of the loan proceeds for green/social projects (loans that
+intentionally mix eligible green and social projects can be referred to as “sustainability loans”). Whilst use of proceeds is the key
+determinant, the other core criteria set out in their respective principles (GLP/SLP) shall also be met, i.e. the criteria for project
+evaluation and selection, management of proceeds and reporting.
+Under the SLLP, use of proceeds is not a determinant in its categorisation and SLLs are typically available without such
+restrictions (for general corporate purposes). The focus is instead on supporting a borrower in improving its sustainability
+performance, via the achievement of predetermined sustainability performance targets. As a result, the proceeds may be
+used to finance any kind of business activities that the borrower is pursuing, which aligns with the overarching objective of
+the SLLP to promote positive environmental and social outcomes, be they project based, acquisition based and so on.
+E.
+
+What is the difference between green loans and blue loans 3?
+
+A number of transactions have been promoted as “Blue Loans” to emphasise the importance of the sustainable use and
+protection of water resources and the promotion of related sustainable economic activities. Such “Blue Loans” are also “Green
+Loans” if aligned with the four core components of the GLP.
+This paragraph E can also be applied to all other thematic green loans, for example, climate loans, energy efficiency loans,
+biodiversity loans, etc.
+F.
+
+Can a loan follow a combination of the GLP, the SLP and/or the SLLP?
+
+Technically, a loan can follow a combination of the GLP, the SLP and/or the SLLP.
+In this instance, there would need to be a rationale to both qualify the proceeds of the loan as green and/or social and to
+support the underlying assets’ green and/or social performance through the additional introduction of key performance
+indicators and sustainability performance targets
+G. How do the GLP incorporate ESG considerations?
+The GLP explicitly recognise several broad categories of eligibility for green loans with the objective of addressing key areas
+of environmental concern such as climate change mitigation, climate change resilience and adaptation, natural resource
+conservation and management, biodiversity restoration, conservation and enhancement, and pollution prevention and
+control. A list of examples of categories of eligible Green Projects is set out in Part 1 (Use of Proceeds) of the GLP.
+Furthermore, the borrower of a green loan shall clearly communicate to its lenders the environmental sustainability objectives
+of the Green Projects, and borrowers should position this information in the context of their overarching objectives, strategy,
+policy and/or processes relating to environmental sustainability.
+A green loan could have related social and governance considerations, but these considerations alone would not qualify the
+loan as green. However, broader ESG considerations should be included in the impact assessment of the projects – either
+from a risk management perspective under project selection and evaluation (i.e., negative impacts) or from a positive
+outcome perspective in the impact reporting.
+H.
+
+How do the GLP fit with their bond counterparts?
+
+The GLP build on and are closely aligned to the Green Bond Principles (GBP) administered by the International Capital Market
+Association (ICMA) with a view to promoting consistency across financial markets. The GBP are internationally recognised
+voluntary issuance guidelines that promote transparency, disclosure and reporting in the green bond market.
+It is envisaged that on some occasions, the GLP will be used together with the GBP. For example, a company may issue green
+bonds using the GBP, and thereafter, when it comes to using the proceeds of the bond issuance, the same company may act as
+a lender and use the GLP to provide green loans to one or more ultimate borrowers. Alternatively, a green bond may be used to
+refinance an existing green loan.
+In a similar way, it is envisaged that the GLP may be used by an original borrower to borrow an initial green loan, and,
+thereafter, the original borrower may act as lender to provide green loans to one or more ultimate borrowers. This is more likely
+to be the case where the original borrower is a government or semi-public institution such as a municipality or a development
+finance institution. Each of the loans need to comply with the four core components of the GLP to be classified as a green loan,
+and care will need to be taken to avoid the double counting of any such green loans.
+
+3
+
+For more information on the Financing the Sustainable Blue Economy, see Horizons Issue 03: https://horizons.lma.eu.com/q3-september2024/blue-economy.
+5
+
+Guidance on Green Loan Principles
+
+I.
+
+26 March 2025
+
+Can a green loan be entered into by a borrower at the start of their transition journey i.e., borrowers not yet able to
+claim alignment with the Paris Agreement, but taking ambitious steps in that direction?
+
+The focus of green loans is on the eligible projects rather than on the borrower itself.
+The GLP require that borrowers clearly communicate to lenders the environmental sustainability objective(s) of the Green
+Projects and the process by which the borrower determines how the project(s) to be funded fits within the eligible Green
+Projects categories. The borrower shall also communicate any complementary information on the processes by which the
+borrower identifies and manages perceived, actual or potential environmental and social risks associated with the relevant
+project(s).
+Many lenders take into consideration the quality of the borrower’s overall profile and performance regarding environmental
+sustainability for green loans. In the presence of controversial sustainability issues, borrowers may be required to provide
+additional transparency to lenders. In particular, additional disclosures may be required around the strategic importance of
+sustainability for the business, demonstration of the borrower’s transition strategy and/or the sustainability benefits of the
+underlying projects that go beyond established sector norms and business as usual.
+Lenders and borrowers may also wish to determine on a case-by-case basis whether to agree any conditions around, e.g.
+marketing/publicity of the loan as green.
+J.
+
+Can ‘pure play’ companies enter into green loans? Are all loans entered into by pure play companies automatically
+green loans?
+
+Pure play companies - those whose business activities are exclusively focused on the green economy, or where 90% or
+more of their revenues/assets are dedicated to green initiatives - can indeed enter into green loans. However, not all loans
+entered into by pure play companies are automatically classified as Green Loans. For a loan to be considered a Green Loan,
+it must explicitly align with the four core components of the GLP, as outlined above.
+
+3 Green Loan Principles
+A.
+
+Green loan definition
+I.
+
+Can a revolving credit facility (RCF) be a green loan?
+
+Green loans include any type of bilateral or syndicated loan instrument which align with the four core components of the
+GLP, including RCFs. Appendix 1 of the GLP specifically relates to the application of the GLP to RCFs.
+II.
+
+Can a revolving loan be recognised as green if the borrower does not have a designated eligible Green Project at the
+time of entering into the loan?
+
+Where the borrower does not have a designated eligible Green Project at the time of entering into the loan, it may be possible
+to designate a RCF as a green loan provided the eligible category (or categories) of Green Projects for which the loan
+proceeds may be utilised is sufficiently identifiable and the loan satisfies all four core components of the GLP. The parties may
+agree a green loan framework for the purposes of identifying what amounts to an eligible Green Project on such transactions.
+It will ultimately be for the parties to agree whether and at which point the revolving loan can be designated and marketed as a
+green loan. Where a RCF is made available for general corporate purposes but also allows for draw down of the RCF for
+eligible Green Project(s), only those proceeds that are allocated for Green Project(s) may be classified as green loans,
+provided they comply with all the core components of the GLP.
+Lenders and borrowers will need to determine on a case-by-case basis how best to document the use of proceeds
+requirement in relation to the relevant RCF agreement and agree whether any additional reporting requirements and/or
+other conditions (e.g. around marketing/publicity) will apply at the point of drawdown under the RCF.
+III.
+
+Refinancing of Projects
+
+a)
+
+How can borrowers be transparent about the age of refinanced assets?
+
+Green loans are often used to refinance assets that have a longer operating lifetime than a loan’s tenor. Eligible projects would
+qualify for refinancing as long as they are in use, follow the relevant eligibility criteria at the time of the refinancing , and are still
+assessed as making a meaningful impact. Note, however, that many lenders differentiate between the refinancing of capital
+projects and operating expenditures and may expect a shorter lookback period for operating expenditures. Lenders may also
+seek additional information on the clear environmental benefits of refinanced projects with longer lookback periods.
+6
+
+Guidance on Green Loan Principles
+
+26 March 2025
+
+The GLP provide that borrowers should, where appropriate, clarify which investments or project portfolios may be
+refinanced and disclose, to the extent relevant, the expected lookback period (i.e. the number of previous years that
+the borrower will look back to) for refinanced eligible Green Projects.
+b)
+
+Can eligible assets be refinanced with the proceeds of a green loan before the original borrowing has matured?
+
+Yes. In addition to providing clarity on the assets to be refinanced, the borrower should make clear when the original
+financing is due to mature. As the proceeds of any green loan shall not be used contemporaneously against the same
+asset more than once, in the overlapping period, the borrower shall ensure that the proceeds raised from the new
+financing will not be used for any purposes that would lead to double counting.
+c)
+
+Can long-dated green assets be (re)financed by (multiple) consecutive green loans?
+
+Long-dated green assets, including their maintenance and/or upgrade costs, may be (re)financed by multiple
+consecutive green loans subject to key disclosures by the borrower. The easiest way to do this may be in a portfoliobased ‘Management of Proceeds’ approach where multiple green loans finance one single pool of assets and
+expenditures. Specifically, the borrower should make explicit: the age and remaining useful life of the asset, as well as
+any (re)financed amounts, their (re)evaluation of the continuing environmental benefits of all eligible projects/assets and,
+where relevant, any (re)evaluation by an external reviewer 4. This information should be communicated to the lenders at
+the time of the origination, extension or refinancing of the loan and it is recommended, where possible, be made publicly
+available on the borrower’s website as part of the overall information on the related green loan.
+d)
+
+Can existing assets that are pledged as collateral against another borrowing be refinanced through a green loan?
+
+Yes, unless the eligible assets are included in the use of proceeds of an outstanding green, social or sustainability loan,
+or equivalent bond instrument. The borrower should make clear that the assets are pledged as collateral, as well as
+conforming to all four core components of the GLP. The refinancing should be done within the usable lifetime of the
+green asset (See 3.A.III.c above).
+B.
+
+Core components
+I.
+
+Use of proceeds
+
+a)
+
+If a tranche of a loan is green, is the whole loan deemed green?
+
+No – only the green tranche shall be classified as green. Where a facility includes a green tranche, the green tranche shall be
+clearly designated, with proceeds of the green tranche credited to a separate account or tracked by the borrower in an
+appropriate manner.
+b)
+
+Is disclosure of use of proceeds mandatory?
+
+Borrowers shall make, and keep readily available, up-to-date information on the use of proceeds to the lenders. This
+information shall be updated at least annually until the loan is fully allocated (or until the loan maturity in the case of an
+RCF), and on a timely basis in the event of material developments.
+This information shall include:• a list of the Green Projects to which the green loan proceeds have been allocated;
+• a brief description of the projects;
+• the amounts allocated; and
+• the expected and, where feasible, achieved impact.
+The borrower and the lender(s) may agree that this information should be reviewed by an external reviewer. The
+borrower and the lender(s) may also agree that additional reporting in relation to use of proceeds be carried out to
+ensure that the use of proceeds criteria continues to be met.
+c)
+
+Are intangible assets or expenditures (such as training, monitoring, research & development and finance cost) also
+eligible for green loan financing?
+
+The proceeds from a green loan may be used to finance or refinance other expenditures related to or in support of
+eligible Green Projects, as long as those intangible assets and expenditures are associated with clear environmental
+benefits.
+
+4
+
+To include a second party opinion provider as relevant.
+7
+
+Guidance on Green Loan Principles
+
+d)
+
+26 March 2025
+
+When a loan finances projects that have both social and environmental benefits, such as sustainable social
+housing, sustainable public transport and access to clean water, can the borrower freely choose the designation of
+the loan as either a green or social loan?
+
+Yes, as long as the loan is aligned with the core components of the GLP and/or SLP. The borrower should determine
+the designation depending on the primacy of the intended objectives of underlying projects. Where the borrower’s prime
+focus is on the intended environmental objectives of the project, they should label the loan a green loan. Where the
+borrower’s prime focus is on the intended social objectives of the project, they should label the loan a social loan.
+Borrowers may also align to both the SLP and GLP as per questions 2.D and 2.F above, in which case the loan may be
+labelled as a ‘sustainability loan’.
+e)
+
+Can a borrower enter into ‘theme’ loans focusing only on one category out of a more general green, social and SLL
+framework?
+
+Yes, a green, social and SLL framework can allow the loan proceeds to be allocated to a project(s) belonging to one or
+several defined categories. A borrower may enter into loans focusing on different ESG “themes” using a single
+framework that encompasses all the relevant themes, or they may highlight thematic differences in their approach to
+any of the core components of the GLP through establishing additional frameworks. Whatever the focus of the loan or
+framework, it is helpful to ensure that all loan communications and documentation state clearly whether the loan is
+aligned with the four core components of the GLP.
+f)
+
+Do all green loans have to be climate-related?
+
+No, the GLP explicitly recognise several broad categories of eligibility for Green Projects, which contribute to
+environmental objectives such as: climate change mitigation, climate change resilience and adaptation, natural resource
+conservation and management, biodiversity restoration, conservation and enhancement, and pollution prevention and
+control. The list of eligible Green Project categories, which is indicative only and not exhaustive, can be found in the
+GLP (See 1. - Use of Proceeds above).
+g)
+
+Is there an eligible Green Project category in the GLP, which would consider carbon offsetting?
+
+Carbon offsetting has not been envisaged within the GLP list of eligible projects.
+II.
+
+Process for project evaluation and selection
+
+Green Projects should be consistent with the sustainability strategy of the borrower and in line with local policies and lenders’
+lending criteria/policies.
+As stated in the GLP, borrowers are encouraged to position the information within the context of their overarching objectives,
+strategy, policy and/or processes relating to environmental sustainability.
+a)
+
+What standards might be referred to in determining whether a loan is green?
+
+It is noteworthy that there are several current national and international initiatives to produce definitions, standards and
+catalogues (sometimes referred to as “taxonomies”), as well as to provide mapping between them to ensure
+comparability/interoperability. These may give further guidance to green loan borrowers as to what may be considered
+green and eligible by lenders and investors. These taxonomies are currently at various stages of development.
+Borrowers and other stakeholders can refer to examples contained in the ICMA’s ‘Compendium of international policy
+initiatives’ 5.
+Examples of eligible categories of Green Projects are found in the GLP (see 1. - Use of Proceeds). Definitions of Green
+Projects may vary depending on sector and geography.
+Where appropriate, an external reviewer may be able to assist the borrower when seeking to confirm alignment to the
+GLP.
+b)
+
+The GLP states that a borrower shall clearly communicate “the processes by which the borrower identifies and
+manages perceived, actual or potential environmental and social risks associated with the relevant project(s)”. What
+is expected of borrowers in this regard
+
+Borrowers shall seek to clarify any related eligibility and exclusion criteria, as well as any other policies or processes by
+which the borrower identifies, and manages perceived, actual or potential environmental and social risks associated with
+the proposed projects. Borrowers are encouraged to seek, through their processes, to identify mitigants to known and
+likely risks of material social and environmental impacts from the project(s), which may include minimum standards,
+governance structures and ongoing monitoring, and clear and relevant trade-off analysis undertaken.
+
+https://www.icmagroup.org/assets/documents/Regulatory/Green-Bonds/ICMA-Sustainable-finance-Compendium-of-internationalpolicy-initiatives-best-market-practiceFebruary-2020-200220.pdf.
+
+5
+
+8
+
+Guidance on Green Loan Principles
+
+c)
+
+26 March 2025
+
+Can a green loan be made to a borrower that has low ESG ratings, exposure to controversial sustainability issues
+or sectors/technologies (such as fossil fuels or nuclear energy)?
+
+The focus of green loans is on the eligible projects rather than on the borrower itself. The GLP require that borrowers
+clearly communicate to its lenders the environmental sustainability objectives of the Green Projects, as well as
+complementary information on the processes by which the borrower identifies and manages perceived, actual or
+potential social and environmental risks associated with the proposed projects.
+In the presence of controversial sustainability issues, borrowers may be required to provide additional transparency to
+lenders, particularly around the strategic importance of sustainability for the business and/or sustainability benefits from
+the underlying projects that go beyond established sector norms and business as usual. Lenders and borrowers may
+also wish to determine on a case-by-case basis whether to agree any conditions around e.g. marketing/publicity of the
+loan as green.
+III.
+a)
+
+Management of Proceeds
+How should you deal with surplus money arising when green loan proceeds exceed green projects?
+
+The GLP state that the net proceeds, or an amount equal to these net proceeds, of the loan will be exclusively applied
+for Green Projects. It nevertheless recognises that there may temporarily be unallocated loan proceeds, and that the
+borrower should make known the intended types and durations of temporary placement of any unallocated loan
+proceeds. Borrowers may consider temporary placements (preferably thematically relevant/ESG placements) pending
+allocation to eligible Green Projects. Borrowers should seek to ensure that, in the selection of such temporary
+investments, they do not damage the integrity of the green loan market.
+IV.
+
+Reporting
+
+a)
+
+How are metrics chosen to report on the environmental impact or efficiency of projects?
+
+The GLP recommend the use of qualitative performance indicators and, where feasible, quantitative performance
+measures (for example, energy capacity, electricity generation, greenhouse gas emissions reduced/avoided, resource
+efficiency etc.) and disclosure of the key underlying methodology and/or assumptions used in the quantitative
+determination.
+For the calculation of indicators, where there is no commonly accepted standard, borrowers may follow their own
+methodologies while making these available to lenders. Reporting data based on a uniform, consistent and published
+methodology remains a challenge as on-going efforts to harmonise accounting methodologies for relevant sectors take
+place. Borrowers should therefore provide full transparency on the applicable accounting methodology and assumptions
+they have applied, which can be referenced.
+Parties may wish to refer to market guidance, such as the ICMA’s ‘Harmonised Framework for Impact Reporting (June
+2024)’ 6 for further guidance on impact reporting and/or any other relevant market guidance.
+b)
+
+How often and for how long should a borrower be expected to report on green loans?
+
+Borrowers shall make and keep readily available up-to-date information on the use of proceeds. This information shall be
+updated at least annually until the loan is fully allocated (or until the loan maturity in the case of a RCF), and on a timely
+basis in the event of material developments. The borrower and the lender(s) may agree that reporting should take place
+more regularly.
+Where the proceeds are used to finance more than one eligible Green Project, the borrower’s report shall clearly set out
+the proceeds being applied to each project and each project’s resulting environmental benefits. Alternatively, where
+portfolio level reporting is agreed between the borrower and lender(s), information on proceeds allocation and aggregated
+impact at the portfolio level should be clearly reported.
+The expected and, where possible, achieved impact of projects should also be communicated to the lenders. The GLP
+recommend the use, where feasible, of quantitative performance measures of expected and achieved impact.
+Borrowers should report throughout the life of the loan and, to the extent possible, should make available the latest report
+either on their website or in another publicly available space or to their lenders, with the date as at which it was prepared.
+c)
+
+Is there a standard methodology for reporting on the impact of the loan proceeds?
+
+Transparency is of particular value in communicating the expected and/or achieved impact of Green Projects, including
+through the use of qualitative performance indicators and, where feasible, quantitative performance measures.
+In the bond market, ICMA has encouraged harmonised impact reporting by providing core principles for reporting the
+6
+
+https://www.icmagroup.org/assets/documents/Sustainable-finance/2024-updates/Handbook-Harmonised-Framework-for-Impact-Reporting-June-2024.pdf
+9
+
+Guidance on Green Loan Principles
+
+26 March 2025
+
+impact of projects, together with suggested metrics and the provision of templates to cover most eligible Projects. ICMA
+has produced a Harmonised Framework for Impact Reporting (updated in June 2024) 7, which highlights recommended
+disclosures of the key underlying methodology and/or assumptions used in the quantitative determination, and which may
+also be useful for loan market participants.
+Additionally see the Form of Green Loan Report incorporated respectively into the APLMA LMA and LSTA’s template
+green loan provisions 8.
+d)
+
+How should a borrower report impact for projects where the borrower has provided only partial financing?
+
+Borrowers should report the impacts of the prorated share of the total project cost that they are financing, and to
+provide the total project cost when available, subject to confidentiality considerations. Borrowers who do so are further
+encouraged to provide confirmation that they have chosen to report using a pro-rata methodology. Where borrowers
+have used estimates to determine their share of financing of the total project cost, they should clearly state so. In
+circumstances where the borrower believes an alternative impact reporting methodology is appropriate, borrowers
+should explain their rationale, and provide transparency regarding the share of the project they financed as well as the
+share of the impacts they are reporting.
+e)
+
+Should a borrower report on actual and/or estimated impact?
+
+It is understood that for certain Green Projects, actual impact cannot be calculated until those assets are operational
+and/or projects completed, which may/may not be at the origination, extension or refinancing of a green loan. In these
+cases, borrowers should report on their estimated impact. With either approach, actual or estimated, borrowers should
+provide detailed insight with clear disclosure on the scope and limitations of data presented.
+C.
+
+Review
+I.
+
+What is an external review and why is it required?
+
+Where appropriate, borrowers should appoint an external review provider(s) to assess through pre-origination external review the
+alignment of their green loan (or green loan programme) and/or green loan/finance framework with the four core components of the
+GLP (i.e. Use of Proceeds, Process for Project Evaluation and Selection, Management of Proceeds and Reporting).
+Post-origination, a borrower’s management of proceeds may be supplemented by the use of an external auditor, or other third party,
+to verify the internal tracking and the allocation of funds from the green loan proceeds.
+Alternatively, given that the loan market is traditionally a relationship-driven market and therefore lenders are likely to have a broad
+working knowledge of the borrower and its activities, self-certification by a borrower, which has demonstrated or developed the
+internal expertise to confirm alignment of the green loan with the key features of the GLP, may be sufficient.
+Borrowers should document thoroughly such expertise, including the related internal processes and expertise of their staff. This
+documentation should be communicated to financial institutions participating in the loan on the basis agreed between the parties in
+the legal documentation. When appropriate, and taking into account confidentiality and competitive considerations, borrowers should
+make publicly available, via their website or otherwise, the parameters on which they assess Green Projects, and the internal
+expertise they have to assess such parameters.
+For more information, see the APLMA, LMA and LSTA ‘Guidance for Green, Social and Sustainability-Linked Loans External
+Reviews’ 9.
+II.
+
+Does a new external review need to be issued on a refinancing?
+
+When refinancing an existing green loan, parties should consider whether it may be appropriate to obtain a new external review.
+This may assist, in particular, where minimum qualitative and/or quantitative thresholds have been set so as to ensure that the
+eligibility criteria are in line with the best practices prevailing at the time of the refinancing. It will also help to ensure that the integrity
+of the product is maintained.
+III.
+
+Do self-certified loans need to be externally reviewed before they are compared/ranked against other loans (e.g. league
+tables)?
+
+None of the APLMA, LMA or LSTA can determine which loans can be included in green loan league tables, nor whether they need
+be externally reviewed. We are aware that the GLP are often used as screening criteria by data providers.
+
+
+Guidance on Green Loan Principles
+
+D.
+
+26 March 2025
+
+Documentation
+I.
+
+Are there any examples of drafting of green loan clauses?
+See APLMA’s Model Provisions for Green Loans (June 2024) 10, the LMA’s Draft Provisions for Green Loans (November
+2024) 11 and the LSTA’s Drafting Guidance for Green Loans (March 2025) 12 (together the “Provisions”).
+These Provisions are intended to provide a starting point for green loans based on market practice at the time of publication;
+they are not intended to be a comprehensive analysis of green loan transactions and intentionally omit several features
+which are commonly negotiated between parties from time to time and/or may be relevant for a particular sector or asset
+class. These Provisions should therefore be subject to case-specific and sector-specific customisation and subsequent
+negotiation.
+
+

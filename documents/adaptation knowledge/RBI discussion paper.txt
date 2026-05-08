@@ -1,0 +1,1019 @@
+Discussion Paper
+on
+Climate Risk and Sustainable Finance
+
+Reserve Bank of India
+
+Department of Regulation
+
+Discussion Paper on Climate Risk and Sustainable Finance
+
+TABLE OF CONTENTS
+Sr.
+
+Particulars
+
+Page No.
+
+1.
+
+Introduction
+
+2
+
+2.
+
+Strategy on Climate Change
+
+4
+
+A.
+
+Overview of climate related risk and its unique characteristics as applicable
+to REs
+
+5
+
+B.
+
+Broad guidance for all REs to have (i) appropriate governance (ii) strategy to
+address climate change risks and (iii) risk management structure to
+effectively manage them from a micro-prudential perspective
+
+8
+
+C.
+
+Exploring how forward-looking tools like stress testing and climate scenario
+analysis can be used to identify and assess vulnerabilities in REs
+
+14
+
+D.
+
+Climate risk related financial disclosures and reporting for REs
+
+15
+
+E.
+
+Capacity Building
+
+20
+
+F.
+
+Voluntary Initiatives
+
+20
+
+[1]
+
+Discussion Paper on Climate Risk and Sustainable Finance
+
+1. Introduction
+1.1 Mr. Kofi Annan, the erstwhile Secretary-General of the UN, remarked at the Paris Climate
+Agreement, “The world is reaching the tipping point beyond which climate change may become
+irreversible. If this happens, we risk denying present and future generations the right to a
+healthy and sustainable planet - the whole of humanity stands to lose”. These words ring truer
+today than ever before. There is no denying the fact that the climate of Earth has varied
+throughout its history given the vagaries of the forces of nature. However, multiple independent
+lines of investigation 1 have provided increasingly compelling evidence that anthropogenic
+activities 2 have significantly exacerbated the process of climate change since the industrial
+revolution.
+1.2 As per the report of the UN's Intergovernmental Panel on Climate Change dated August 9,
+2021 3, the emissions of greenhouse gases (GHGs) from human activities are responsible for
+~1.1°C of warming since pre-industrial times. While this change is seemingly small, the current
+temperatures are unprecedented in comparison to the levels over the past 12,000 years
+affecting living conditions in many parts of the world. Further, limiting global warming to close to
+1.5°C or even 2°C over pre-industrial levels will be "beyond reach" without "immediate, rapid
+and large-scale reductions" in greenhouse gas emissions. This may have a profound adverse
+impact on the ecosystem, health, infrastructure and the economy. As per a recent study 4 by
+CarbonBrief, a 1.5°C - 2°C temperature increase will shave nearly 8-13 per cent off the global
+GDP by 2100. The Global Risks Report 5 2022 published by the World Economic Forum
+presents the results of the latest Global Risks Perception Survey (GRPS) and an analysis of key
+risks emanating from the current economic, societal, environmental and technological events.
+According to the Survey, over the next five years, respondents signal societal and
+environmental risks to be of foremost concern. Over a 10-year horizon, environmental risks are
+perceived to be the five most critical long-term threats to the world as well as the most
+potentially damaging to people and planet, with “climate action failure”, “extreme weather”, and
+“biodiversity loss” ranking as the top three most severe risks.
+
+1Multiple studies published in peer-reviewed scientific journals show that 97 per cent or more of actively publishing
+
+climate scientists agree. Source: https://climate.nasa.gov/scientific-consensus/
+
+2Anthropogenic activities, inter alia, include the burning of fossil fuels, deforestation, land use and land use changes,
+
+livestock production, waste management and industrial processes.
+3This refers to the August 2021 IPCC Working Group I report, “Climate Change 2021: The Physical Science Basis”,
+available at: https://www.ipcc.ch/2021/08/09/ar6-wg1-20210809-pr/
+4CarbonBrief has extracted data from around 70 peer-reviewed climate studies to show how global warming is
+projected to affect the world and its regions. Available at: https://interactive.carbonbrief.org/impacts-climate-changeone-point-five-degrees-two-degrees/?utm_source=web&utm_campaign=Redirect
+5The report and an interactive data platform are available at www.wef.ch/risks22
+[2]
+
+Discussion Paper on Climate Risk and Sustainable Finance
+
+1.3 Closer home, the latest annual report 6 by the India Meteorological Department (IMD) on the
+country’s climate stated that 2021 was not only the fifth warmest year since 1901, but in the last
+decade, 2012-2021, was also the warmest on record. Moreover, 11 of the 15 warmest years on
+record were between 2007 and 2021. The rise in average temperatures could have a cascading
+effect on extreme weather events, crop patterns and urban disaster management. India
+recorded 756 instances of natural disasters 7 (landslides, storms, earthquakes, floods, droughts,
+etc.) since 1900, with a total of 402 and 354 events recorded during 1900-2000 and 2001-2021
+respectively, indicating the preponderance of tail events of late.
+1.4 A report of the Ministry of Earth Sciences 8, Government of India has concluded that since
+the middle of the twentieth century, India has witnessed a rise in average temperature; a
+decrease in monsoon precipitation; a rise in extreme temperature, droughts, and sea levels; as
+well as increase in the frequency and intensity of severe cyclones. There is compelling scientific
+evidence that human activities have influenced these changes in regional climate. These
+developments pose challenges for humanity and warrant an immediate, large-scale and rapid
+reduction in GHGs.
+1.5 Concurrently, climate change is increasingly being recognized 9 globally as a source of
+financial risk for banks. The uncertainty about the timing and severity of climate-related and
+environmental risk certainly threatens the safety, soundness and resilience of individual
+Regulated Entities (REs) and, in turn, the stability of the overall financial system. It is therefore
+recognized that the REs should steadily manage the risks and opportunities that may arise from
+climate change and environmental degradation. Further, with the increasing threat of climate
+change and the associated physical damage, change in market perception and shift in
+preferences towards more environmental-friendly products and services, the financial,
+reputational and strategic risk implications are becoming increasingly prominent.
+1.6 Furthermore, recognizing climate-related financial risk may pose risks to global financial
+stability, Financial Stability Board (FSB) has chalked out a roadmap to ensure that climate risks
+are properly reflected in all financial decisions. The roadmap 10 supports international
+6https://mausam.imd.gov.in/imd_latest/contents/ar2020.pdf.
+
+7SBI Ecowrap Issue No. 46, FY 22 dated November 26, 2021.
+8This
+
+refers to June 2020 report titled, ‘’Assessment of Climate Change Over the Indian Region’’, available at
+https://reliefweb.int/report/india/assessment-climate-change-over-indian-region-report-ministry-earth-sciences-moes
+9In a recent international survey (How resiliency in risk management is the new top priority for banks | EY - Global),
+climate change topped the list of long-term risks for banks for the first time since its inception over a decade back.
+More than nine in ten (91%) of the surveyed bank chief risk officers (CROs) viewed climate change as the top
+emerging risk over the next five years.
+10FSB Chair's letter to G20 FMCBG February 2022
+[3]
+
+Discussion Paper on Climate Risk and Sustainable Finance
+
+coordination by bringing together the work of international organisations and national authorities
+on the various initiatives in this area. The FSB will focus on four pillars namely, disclosures,
+data, vulnerabilities analysis, and regulatory and supervisory approaches. More specifically, it
+would be monitoring and helping to support progress in the achievement of consistent climaterelated financial disclosures.
+2. Strategy on Climate Change
+Globally the efforts to address climate change have been growing across jurisdictions and an
+increasing number of central banks are either contemplating or are in the process of taking
+action on this aspect as part of their mandates 11. Further, climate change risk is also ascending
+the hierarchy of threats to financial stability across advanced and emerging economies alike and
+consequently, the need for an appropriate framework to identify, assess and manage climaterelated risk has become imperative 12. Notwithstanding the need to mitigate the risks arising out
+of extreme climate events, there is an increasing need for the financial system to move towards
+green financing, keeping in mind the social and developmental objectives of the country.
+Therefore, keeping in view our national commitments and priorities, the Reserve Bank intends
+to prepare a strategy based on global best practices on mitigating the adverse impacts of
+climate change, learnings from participation in standard-setting bodies and other international
+fora13. The broad thrust of the strategy is presented under the following heads:
+A. Overview of climate related risk and its unique characteristics as applicable to REs
+B. Broad guidance for all REs to have (i) appropriate governance (ii) strategy to address
+climate change risks and (iii) risk management structure to effectively manage them from
+a micro-prudential perspective
+C. Exploring how forward-looking tools like stress testing and climate scenario analysis can
+be used to identify and assess vulnerabilities in REs
+D. Climate risk related financial disclosure and reporting for REs
+E. Capacity Building
+F. Voluntary Initiatives
+
+11www.bis.org/bcbs/publ/d502.pdf - BCBS - Climate related financial risks: a survey on current initiatives - April 2020.
+12https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=1174
+
+13Reserve Bank of India is a member of the Task Force on Climate Risk set up by the Basel Committee on Banking
+
+Supervision, NGFS, Financial Stability Board’s Working Group on Climate Risk and Workstream on Climate
+Disclosures and the International Platform on Sustainable Finance.
+[4]
+
+Discussion Paper on Climate Risk and Sustainable Finance
+
+Discussion Question 1: What should be the immediate priorities in shaping the policy
+discourse on climate risk in India? What actions would help foster a more sustainable and
+resilient financial system?
+The Discussion Paper (DP) starts with an overview of climate related risk, followed by
+suggestions regarding the strategies outlined above. The objective of outlining these measures
+is to evoke discussion and solicit feedback from REs / stakeholders on the proposals contained
+in the DP.
+A. Overview of climate related risk and its unique characteristics as applicable to REs
+A.1 An overview of climate-related issues
+Climate-related risks refer to the potential risks that may arise from climate change or from
+efforts to mitigate climate change, their related impact and the economic and financial
+consequences. It can impact the financial sector through two broad channels i.e., physical risks
+and transition risks.
+(i) Physical Risks
+It refers to the economic costs and financial losses resulting from the increasing frequency and
+severity of:
+•
+
+extreme climate change-related weather events (or extreme weather events) such as
+floods, heatwaves, landslides, storms and wildfires (i.e., acute physical risks);
+
+•
+
+longer-term gradual shifts of the climate such as changes in precipitation, extreme
+weather variability, ocean acidification, and rising sea levels and average temperatures
+(i.e., chronic physical risks); and
+
+•
+
+indirect effects of climate change such as loss of ecosystem services (e.g., water
+shortage, degradation of soil quality, or marine ecology)
+
+Physical risk impact depends on geographical locations, as different regions display varied
+climate patterns. For example,
+•
+
+Expected cash flows to the REs from an exposure may be stressed on the occurrence of
+a local / regional weather event
+
+•
+
+Chronic flooding or landslides may present a risk to the value of the collateral that REs
+have taken as security against loans
+
+[5]
+
+Discussion Paper on Climate Risk and Sustainable Finance
+
+•
+
+Severe weather events may damage a RE’s owned or leased physical property and data
+centers, thereby, affecting its ability to provide financial services to its customers
+
+(ii) Transition Risks
+It refers to the risks arising from the process of adjustment towards a low-carbon economy. A
+range of factors influences this adjustment, including changes in climate-related policies and
+regulations, the emergence of newer technologies, shifting sentiments and behaviour of
+customers. The process of transition i.e., reducing carbon emissions may have a significant
+impact on the economy. Transition risk drivers can be categorized as:
+•
+
+Climate related mitigation policies could include reduction in financial valuation or
+downgrade in credit ratings of businesses adversely affecting the climate or introduction
+of subsidies to encourage the use of energy efficient goods/processes.
+
+•
+
+Technological advances can contribute to energy transition, increase the use of nonfossil fuels that reduce GHG emissions.
+
+•
+
+Shifts in public sentiment including that of consumers and investors can affect the
+economy and financial system.
+
+For example,
+•
+
+Technological innovations such as production, storage, and transport of cleaner energy
+may decrease the value of assets dependent on the older technologies, i.e., the
+stranded assets 14, causing mark-to-market losses on investment portfolios or reduction
+in cash flow of certain borrowers.
+
+•
+
+Customers may request REs that their savings or investments be directed towards
+businesses
+
+with
+
+more
+
+climate-friendly
+
+policies
+
+or
+
+projects having a
+
+positive
+
+environmental impact.
+Climate change may also give rise to liability risks 15 arising from parties who have suffered
+losses from physical or transition risk, seeking to recover losses from those they hold
+responsible.
+
+14The International Energy Agency defines stranded assets as “those investments which have already been made but
+which, at some time prior to the end of their economic life (as assumed at the investment decision point), are no
+longer able to earn an economic return as a result of changes in the market and regulatory environment brought
+about by climate policy” (IEA, 2013, p. 98).
+15Liability risks are often categorised as operational risks.
+
+[6]
+
+Discussion Paper on Climate Risk and Sustainable Finance
+
+A.2 Unique characteristics of climate change and the implications
+A.2.1 Climate change has the following distinctive characteristics requiring focused attention
+and has to be managed differently from other conventional financial risks.
+i. Its impact is far-reaching in terms of its breadth and its magnitude is relevant to multiple
+lines of businesses, sectors, and geographies.
+ii. Although there is a high degree of certainty that some combination of physical and
+transition risks will materialise in the future, the exact timing, outcome and future pathways
+remain uncertain, and the impacts are unevenly distributed both among and within
+countries. Accordingly, historical data and traditional backward-looking risk assessment
+methods are unlikely to adequately capture future impact.
+iii. Climate change on account of the concentration of GHG emissions in the atmosphere
+above a certain threshold will have irreversible consequences on our planet. Thus, the
+magnitude and nature of future impact will be determined by the actions taken today.
+Consequently, collective actions by central banks, financial market participants, firms and
+households, governments, sectoral regulators, are crucial.
+A.2.2 The materialisation of physical and transition risks depends on multiple non-linear
+dynamics that interact with each other in complex ways and are therefore subject to deep
+uncertainty. Despite the limitations of the use of climate-economic models in characterizing
+these interactions, forward-looking methodologies 16 may play an important role in exploring the
+potential vulnerabilities. Further, as tackling climate change requires collective efforts by all
+stakeholders, there would be an increasing expectation on the financial sector, whose core
+function is to allocate capital resources and to channel finance, to support the transition.
+A.2.3 It is, therefore, important for the REs to understand the interaction between climaterelated and environmental risks and their business activities and identify the potential effect of
+such risks through various prudential risk categories including:
+•
+
+Credit risk: Rising frequency and severity of extreme weather events can impair the
+value of assets held by the banks’ customers, or impact supply chains affecting
+customers’ operations and profitability, and their viability.
+
+•
+
+Market risk: Exposed to decline in valuation and increased volatility in their investments
+because of shifts in investor preferences or climate induced adverse effects on the
+underlying economic activity.
+
+16Source: BCBS, Climate-related financial risks - measurement methodologies, April 2021.
+
+[7]
+
+Discussion Paper on Climate Risk and Sustainable Finance
+
+•
+
+Liquidity risk: Increased demand for liquidity to respond to extreme weather events or
+the difficulties that may be faced in liquidating assets given their negative impact.
+
+•
+
+Operational risk: Disruption in business continuity due to the impact on the bank’s
+infrastructure, processes, staff and systems. In addition, exposure to claims from
+stakeholders who have suffered climate related losses and who then seek to recover
+those losses.
+
+Apart from aforesaid risks, REs may also need to incorporate climate related risks in their
+processes for other risk- types including credit concentration risk, underwriting risk, reputational
+risk, strategic risk, etc. Banks also need to take into account these risks while preparing their
+Internal Capital Adequacy Assessment Process (ICAAP) document under Pillar 2 as prescribed
+under the Master Circular 17 - Basel III Capital Regulations dated July 01, 2015, as updated from
+time to time. It is recognised that climate-related financial risks will probably have to be
+incorporated into ICAAPs iteratively and progressively, as the methodologies and data used to
+analyse these risks mature over time and analytical gaps are addressed. Brief guidance on
+overarching aspects related to the management of climate-related and environmental risks, viz.
+Governance, Strategy, Risk Management, Stress Testing, Scenario Analysis and Disclosure
+has been covered in the subsequent sections.
+Discussion Question 2: What should be the way forward for the regulatory policy framework
+for climate risk in an emerging market like India keeping in view its aspects such as
+demography, geography, etc.? Is there any plan / contemplation in the REs to integrate
+climate and environmental considerations in their core activities of lending and investment?
+B. Broad guidance for all REs to have (i) appropriate governance (ii) strategy to address
+climate change risks and (iii) risk management structure to effectively manage them from
+a micro-prudential perspective
+Governance
+B.1 The Board of Directors would have to play a critical role in identifying climate-related and
+environmental risks and opportunities and assessing the actual and potential impact of these
+risks on REs’ strategies and plans. They may also need to understand and regularly assess the
+current and future financial risks arising from climate change and environmental degradation
+that may affect the RE.
+
+17The Circular is accessible at: https://www.rbi.org.in/Scripts/BS_ViewMasCirculardetails.aspx?id=9859
+
+[8]
+
+Discussion Paper on Climate Risk and Sustainable Finance
+
+B.2 The Board of Directors would have to oversee the development and implementation of the
+environment and climate-related risk strategy of the RE by ensuring that the strategic goals are
+in line with their vision; systems and controls are in place to support implementation of the
+strategy; foster a risk culture that includes climate related and environmental considerations into
+decision-making process and both the business and the assurance functions dealing with it are
+adequately staffed. As the ‘tone at the top’ plays a key role in shaping the risk culture, there may
+be need to clearly define the roles and responsibilities of senior management as regards the
+management of climate-related and environmental risk.
+B.3 The Board of Directors would also have to exercise effective oversight on risk management
+and controls and ensure that sufficient internal / external expertise is available for managing the
+financial risks arising from climate change and environmental degradation. To facilitate effective
+oversight, the Board of Directors and Senior Management may regularly seek relevant
+management information, as well as updates on major policy initiatives and developments
+concerning climate-related and environmental issues.
+Good Practices
+REs may have a committee / sub-committee at the Board level comprising experts from sustainability
+and risk domain with the following responsibilities:
+• Guiding climate-related policy, strategy, objective-setting, and performance monitoring
+• Mandating processes to identify and manage climate-related and environmental risks and
+opportunities
+• Monitoring timely and regular updation of the internal risk reports, the mitigation measures and
+their effectiveness thereof
+• Monitoring and overseeing the progress on relevant goals and targets
+•
+Guiding external disclosures.
+
+Strategy
+B.4 The effectiveness and resilience of REs in navigating climate-related and environment risk
+needs to be supported through proper formulation, planning and implementation of climate and
+environment strategy, and embedding climate and environment considerations within the
+organization. REs may determine impact of climate-related and environmental risk on their
+business strategy in the short, medium and long-term.
+B.5 The financial risk emanating from climate and environmental degradation would have to be
+assessed and addressed within the overall business strategy and risk appetite. The risk appetite
+framework of REs could include the risk exposure limits and thresholds 18 of financial risks that
+18Risk exposure limits/thresholds refer to limits on credit exposures and collaterals on sectors and geographical areas
+exposed to climate risks.
+
+[9]
+
+Discussion Paper on Climate Risk and Sustainable Finance
+
+the RE is willing to take. While formulating the risk appetite framework, the Board would need to
+ensure that it considers the factors like the long-term financial interest of the RE, results of
+stress testing and scenario analysis.
+B.6 Senior Management may ensure that adequate resources with appropriate expertise are
+allocated through capacity building and training, to implement climate strategy. REs may also
+need to ensure that the organizational structure and business processes are reviewed to
+support effective communication and co-ordination among different businesses and operation
+units.
+Good Practices
+REs may clearly assign responsibilities of management of climate-related financial risks to suitable
+Committees. It may also be ensured that material climate-related financial risks are considered as a
+part of the RE’s business strategy and risk management framework.
+REs may ensure that the Board and Senior Management have a sufficient understanding of climaterelated financial risks and senior management is equipped with the suitable capabilities and experience
+to deal with these risks. REs may like to take steps for capacity building and upskilling of the Board and
+Senior Management on climate-related issues through internal workshops and training, or external
+collaboration.
+
+Risk Management
+B.7 REs should address financial risks arising from climate change and environmental
+degradation, through its risk management framework, in line with Board-approved risk appetite
+statement, risk management strategy and business plan. REs could also identify, measure,
+monitor, manage, and report the exposure related to climate-related and environmental risk in a
+manner proportionate to the size, complexity of its business operations and risk profile. Some
+climate-related risks may also materialise beyond a bank’s traditional two-to-three-year capital
+planning horizon but within the maturities of longer-dated exposures. Other climate-related risks
+may materialise over a much longer time horizon. The high degree of uncertainty around the
+timing of these risks suggests that REs may take a prudent and dynamic approach towards
+developing their risk management capacities.
+Good Practices
+REs may integrate climate-related risk indicators in their risk appetite framework. These climate-related
+risk indicators shall consist of objective and measurable metrics. The limits may cascade down to the
+sector and portfolio level contingent on the type of indicator. It may comprise both qualitative and
+quantitative elements. To illustrate, the climate-related risk indicators are:
+• Concentration in CO2 / GHG-intensive assets
+•
+
+Carbon emission footprint of portfolio
+
+[10]
+
+Discussion Paper on Climate Risk and Sustainable Finance
+REs may integrate a climate-risk assessment as part of their due diligence process. This climate-risk
+assessment not only includes physical and transitional risks the customer is exposed to but also how
+these risks may materialise into any reputational risks for the RE. The assessment may result in a
+climate-risk rating for customers having material exposure to such risks. High risk ratings may be
+periodically monitored to assess the climate-related risks for the RE.
+
+Policies and Procedures
+B.8 REs should integrate climate-related and environmental risk in their risk management
+framework in a consistent and systematic manner. They may need to put in place robust
+policies and processes which would include a clear articulation of roles and responsibilities of
+business lines and risk functions in accordance with the three lines of defence model. The first
+line of defence is provided by business line staff, who may assess climate and environmental
+risk before accepting new business and throughout the ongoing management of business
+relationships, particularly for sectors with higher climate-related and environmental risk. The
+second line of defence provided by the risk management function may monitor the
+implementation of the bank’s climate risk management policies by business lines. The third line
+of defence provided by the internal audit function may conduct independent review and evaluate
+the robustness of the bank’s risk management framework in managing climate-related and
+environmental risk.
+Good Practices
+REs may frame a climate-related policy by taking into consideration material physical and transition
+risks. It should have a clear definition and assignment of responsibilities and reporting lines across the
+three lines of defence.
+• First line should have sufficient awareness and understanding to identify potential climate-related
+financial risks
+• Second line should undertake independent climate-related risk assessment and monitoring,
+including reassessment of the initial assessment conducted by the frontline staff. The compliance
+function should ensure adherence to applicable rules and regulations and adopt formal escalation
+procedures to report material risks to the Board.
+• Third line should carry out regular reviews of the overall internal control framework and systems,
+including the quality of underlying data.
+
+Risk Identification and Assessment
+B.9 REs may develop a comprehensive methodology to identify risks arising from environmental
+and climate change and its effect on their business models. The identification and assessment
+of climate-related and environmental risk may be done at a customer, sector and portfolio level.
+They may also incorporate the customer’s exposures to transition risk in its assessment. The
+
+[11]
+
+Discussion Paper on Climate Risk and Sustainable Finance
+
+scope and extent of this assessment may be attuned to factors including the sector, customer’s
+operations, and nature and size of the transaction.
+Good Practices
+REs may develop a model / framework, for example, a heat map to identify which of its activities are
+exposed to climate-related physical and transition risks. This mapping may be segmented
+across sectors depending on the nature of the risks. This model / framework may form the basis of a
+more granular analysis by assessing climate-related concentrations the RE is exposed to, which may
+be based on the following metrics, among others:
+• CO2-intensive assets (or other GHGs)
+• Energy label distribution of Residential Real Estate (RRE) and Commercial Real Estate (CRE)
+portfolios and their green energy ratings
+• Collateral positioned in higher-risk flood prone areas, coastal areas, etc.
+• Exposures to businesses that will be impacted by the melting glaciers of Himalayas due to climate
+change.
+
+B.10 Given its forward-looking nature, REs may use stress testing and scenario analysis with a
+short, medium and long-term horizon for the risk identification process. This is further detailed in
+Section C.
+Risk Monitoring
+B.11 REs may consider a range of quantitative / qualitative metrics and tools to monitor their
+exposure to financial risks arising from climate change, proportionate to the entity’s size,
+business activities and complexity of business operations. In determining the climate-related
+and environment risk metrics, the REs may consider the materiality of the climate-related and
+environment risk factors, and risks of greater materiality may be prioritised and monitored more
+closely.
+Good Practices
+REs may develop a method to assess the correlation between the carbon footprint of their customers
+and the associated climate-related risks for them. This method maybe evolved for unique CO2 / GHG
+intensive sectors. REs may assess such exposure to climate-risk on multiple dimensions, such as
+• Extent to which the customers may be subjected to current and potential climate-related
+regulations
+• Extent to which the customers that may not be directly impacted by the climate-related regulations
+but are impacted through shifting customer demands and technological advances.
+• Extent to which customer’s climate risk is transferred to the RE through its financing (e.g., whether
+impact materializes within tenor of financing). The assessment may be made on a periodic basis
+and its outcomes may be used to update policies and procedures of the entity.
+
+[12]
+
+Discussion Paper on Climate Risk and Sustainable Finance
+
+B.12 In case the necessary information to assess the impact of climate-related and environment
+risk is not available, REs may engage with their customers to form an understanding of the
+extent to which the impact may be material. REs may encourage their customers to provide
+relevant climate-related disclosures to foster greater awareness of climate risk and engender
+responsible behaviour. They may further monitor the impact that climate risks may have on
+outsourced arrangements, supply chains and business continuity planning.
+Risk Management and Mitigation
+B.13 Once the potential impact of the financial risks arising from climate change are assessed
+to be material, REs may establish and implement plans to manage its exposures and mitigate
+these risks, as well as regularly review and assess the effectiveness of those plans.
+Good Practices
+REs may carry out substantial measures to mitigate or refrain from climate-related risks that are not in
+accordance with their risk appetite. These measures can be developed in response to the RE’s own
+assessment of the climate-related risk concentrations. These mitigation measures may include:
+• Customers in sectors which are highly vulnerable to emerging climate risk may be subject to tenor
+limitations.
+• Customers with real estate collateral that do not meet minimum sustainability criteria may be
+subject to a lower loan-to-value limit.
+• Customers for which production is directly dependent on weather conditions may require taking out
+insurance against extreme weather events (e.g., seasonal droughts, floods).
+• Customers in CO2 / GHG intensive industries may require having a sustainable energy transition
+strategy
+
+B.14 REs may also consider taking adequate measures to safeguard business continuity in
+case of extreme climate change causing disruptions to their own facilities, operations and major
+outsourced arrangements.
+Good Practices
+RE may geographically scatter / locate their critical functions (e.g., centralised processing centres, data
+centres, servers, etc.) across various regions keeping in view flood, earthquake and other climaterelated and environmental dangers identified with its own operations. This may be a part of the REs’
+Business Continuity Plan.
+
+Risk Reporting
+B.15 Timely and regular reports on climate-related risk exposures including adherence to risk
+appetite, progress of strategic and business plans, information on implementation of control and
+mitigation should be provided to the Board of Directors. The frequency of reporting may be
+tailored to the nature and magnitude of the risks to which the RE is exposed to.
+
+[13]
+
+Discussion Paper on Climate Risk and Sustainable Finance
+
+B.16 Where reliable or comparable climate-related data is not available, REs may consider
+using reasonable proxies and assumptions as alternatives in their internal reporting as an
+intermediate step. Limitations that prevent full climate risk data assessment may be made
+explicit to stakeholders where relevant.
+Discussion Question 3: What are the main challenges in integrating the climate risk
+framework in Governance, Strategy and Risk Management? What is needed to overcome
+these? Are there plans in place / being contemplated regarding the same by the REs?
+C. Exploring how forward-looking tools like stress testing and climate scenario analysis
+can be used to identify and assess vulnerabilities in REs
+C.1 REs may need to incorporate an assessment of both physical and transition risks across a
+range of climate-related scenarios 19. They may identify and simulate plausible and relevant
+scenarios, factor in the inter-linkages between climate-related risk and other risks and explore
+resilience to financial losses under a variety of scenarios. The scenario analysis may include a
+range of relevant time horizons (taking into consideration the future temperature rise, economic
+transition pathway, etc.) of the REs’ exposure to financial risk arising from climate change in line
+with its business strategy for strategic planning and risk management purposes. The scenarios
+may include forward looking information in addition to historical data in view of the uncertainties
+and longer time horizon associated with changes in the climate.
+C.2 Scenario analysis may also be used to explore the sensitivities in longer-term business
+plans. As part of capital planning, REs would have to assess their capital adequacy based on
+scenario analysis.
+C.3 REs which lacks the data or expertise to conduct climate risk stress testing with quantitative
+assessments, may use narrative-driven scenario analysis, and assess potential risk exposures.
+Banks may need to conduct a review of their vulnerabilities through stress testing, as part of the
+ICAAP.
+C.4 Where the climate-related and environment risk is found material, the results may be
+communicated to the Board of Directors and senior management and should be used for
+business planning and strategy setting. REs may ensure that the mitigation measures proposed
+19REs may explore the work of Network for Greening the Financial System (NGFS) on Climate Scenarios, available at
+
+https://www.ngfs.net/ngfs-scenarios-portal which explores a range of plausible climate scenarios for forward looking
+climate risks assessment. Launched at the Paris One Planet Summit on December 12, 2017, the NGFS is a group of
+central banks and supervisors willing to share best practices and contribute to the development of environment and
+climate risk management in the financial sector while mobilising mainstream finance to support the transition towards
+a sustainable economy.
+[14]
+
+Discussion Paper on Climate Risk and Sustainable Finance
+
+based on the scenario analysis are not only achievable but realistic, credible, consistent with
+regulatory environment. The results of stress testing and scenario analysis may also be used
+when reviewing the climate risk management policies and practices.
+C.5 The field of climate scenario analysis is highly dynamic, and practices are expected to
+evolve rapidly, especially as climate science advances. Climate scenario models, frameworks
+and results may be subject to challenge and regular review by a range of internal and/or
+external experts as well as by independent assurance functions.
+
+Good Practices
+REs should develop climate scenarios to identify emerging risks in the short, medium and long term.
+These scenarios can cover the conventional business planning cycle (3-5 years) as well as longer term
+horizons (5+ years). The results of these scenario analyses may be used in the strategic decisionmaking.
+•
+•
+•
+•
+•
+•
+
+An example of such a scenario may include impacts of India’s NDCs in the Paris Agreement 20
+as updated during COP26 21:
+Reduce carbon intensity by 45% by 2030;
+An electric power capacity target of 50% installed capacity from non-fossil-based energy
+resources by 2030, to be achieved with international support; and
+A carbon sink expansion target of creating an additional (cumulative) carbon sink of 2.5–3
+GtCO2e through additional forest and tree cover by 2030.
+Another scenario may be based on the projected increase in the global average temperature to
+2°C above pre-industrial levels. This scenario may include assumptions such as:
+The impact of climate-related policy and technology shocks.
+
+Discussion Question 4: What are the potential challenges in developing climate risk stress
+testing and a scenario analysis framework for REs? How do you think the potential effects
+arising out of such exercise should be analysed?
+D. Climate risk related financial disclosure and reporting for REs
+D.1 Consistent and comparable disclosure of climate‑related information by REs has several
+important benefits for stakeholders. It enables them to understand better the financial system’s
+exposures to climate-related risk and the concentration of carbon-related assets in the financial
+20Paris Agreement was adopted in 2015, when for the first time ever, in a momentous decision, every country agreed
+
+to work together to limit global warming to well below 2 degrees and aim for 1.5 degrees, to adapt to the impacts of a
+changing climate and to make funds available to deliver on these aims.
+21UN Climate Change Conference of the Parties (COP26) was held at Glasgow during 31 October - 13 November
+2021 and the Conference brought parties together to accelerate action towards the goals of the Paris Agreement and
+the United Nations Framework Convention on Climate Change (UNFCCC).
+[15]
+
+Discussion Paper on Climate Risk and Sustainable Finance
+
+sector. For investors and other market participants, robust disclosures can improve the pricing
+mechanisms for climate-related risks. It may also facilitate them to identify and capitalize on
+climate-related opportunities, thereby contributing to the scaling up of green finance. Further,
+disclosures may require REs to establish the necessary procedures, and build the necessary
+skills, to better identify and manage climate-related risks and improve risk pricing. Accordingly,
+preparation of climate disclosures may serve as a mechanism for internal due diligence and
+impose discipline that may ultimately lead to better risk management.
+D.2 Among the various disclosure frameworks concerning climate and sustainability, the most
+prominent one is Task Force on Climate-related Financial Disclosures (TCFD) set up by the
+FSB which has published a set of recommendations in 2017 to help businesses disclose risks
+and opportunities arising from climate change 22. The TCFD recommendations have gone
+through extensive consultations and gained broader support among preparers and users
+internationally 23. These are also widely recognized, adopted or referenced by regulators and
+authorities.
+D.3 TCFD recommendations, as such, may therefore be considered as a desirable framework
+by the REs to rely upon, at least at the initial stage 24. Referencing a common framework may
+also facilitate consistency and comparability among the REs. In this backdrop, a climate-related
+disclosure framework has been proposed in the next section.
+D.4 Climate-related disclosure framework
+D.4.1 Approach to disclosure
+Climate-related disclosure is an important source of information for different stakeholders (e.g.,
+customers, depositors, investors and regulators) of REs to understand relevant risks faced by it
+and its approach to addressing such issues. REs have an existing requirement to disclose
+
+22In December 2015, the FSB established the industry-led TCFD to design a set of recommendations for consistent
+“disclosures that will help financial market participants understand their climate-related risks”. The TCFD released its
+final recommendations in June 2017.
+23Source - TCFD October 2021 status report. The report further notes that, as support from the private sector has
+grown, governments around the world have begun to codify aspects of the TCFD recommendations into policy and
+regulation, using the TCFD’s work as a foundation for climate-related reporting requirements. In addition to the
+support of dozens of regulators and supervisors, Brazil, the European Union, Hong Kong, Japan, New Zealand,
+Singapore, Switzerland, and the United Kingdom have announced requirements for domestic organizations to report
+in alignment with the TCFD recommendations. The IFRS Foundation has established an International Sustainability
+Standards Board (ISSB) to develop a baseline global sustainability reporting standard, built from the TCFD
+framework and the work of an alliance of sustainability standard setters.
+24SEBI has replaced the erstwhile Business Responsibility Reporting framework with a detailed Business
+Responsibility and Sustainability Reporting (BRSR) framework in May 2021 under which filing of BRSR has been
+made mandatory for the top 1000 listed companies (by market capitalization) with effect from the financial year 202223. The BRSR framework covers some of the disclosures recommended by TCFD.
+
+[16]
+
+Discussion Paper on Climate Risk and Sustainable Finance
+
+information on material risks under their Pillar 3 disclosures 25. REs may develop an appropriate
+approach to disclosing climate-related information to enhance transparency. At a minimum, REs
+may make climate-related disclosures aligned with TCFD recommendations.
+D.4.2 Disclosure Framework
+The TCFD’s 11 recommendations on four thematic areas (i.e., governance, strategy, risk
+management, and metrics and targets) address the financial risks and opportunities posed by
+climate change. The recommended TCFD disclosures are presented below. REs may strive to
+work along these recommendations factoring in their unique circumstances.
+(i) Governance - Disclose the organisation’s governance around climate-related risks and
+opportunities.
+Recommended Disclosure
+Illustrative Examples
+a)
+Describe
+the
+Board’s REs may disclose:
+oversight of climate–related risks
+• Governance structure responsible for setting,
+and opportunities.
+implementing and monitoring specific policies on
+b) Describe management’s role
+climate-related matters
+in assessing and managing
+• Role and responsibilities of the Board regarding
+climate
+related
+risks
+and
+climate related policies
+opportunities.
+• Roles and responsibilities assigned to Senior
+Management related to climate risk management
+• Processes and frequency by which the Board or
+dedicated Committees on climate risk are informed
+of climate related issues
+• How the Board monitors and oversees progress
+against goals and targets for addressing climaterelated issues
+• Committee or key personnel in charge of overseeing
+the climate-related issues within the RE and / or
+setting RE’s climate strategy
+• Key aspects and issues of climate-related risks and
+opportunities as discussed and reviewed by the
+Board and Senior Management during the reporting
+period
+(ii) Strategy - Disclose the actual and potential impacts of climate-related risks and
+opportunities on the organisation’s businesses, strategy, and financial planning where
+such information is material.
+Recommended Disclosure
+Illustrative Examples
+a) Describe the climate-related REs may disclose:
+risks and opportunities the
+• Relevant short, medium and long-term time horizons,
+organisation has identified over
+as considered and determined by it, regarding the
+25Reserve Bank of India - Master Circulars (rbi.org.in)
+
+[17]
+
+Discussion Paper on Climate Risk and Sustainable Finance
+
+the short, medium, and long
+term.
+b) Describe the impact of
+climate-related
+risks
+and
+opportunities
+on
+the
+organisation’s
+businesses,
+strategy and financial planning.
+c) Describe the resilience of the
+organisation’s strategy, taking
+into
+consideration
+different
+climate-related
+scenarios,
+including a 2°C or lower
+scenario.
+
+useful life of assets
+• Specific climate-related issues identified for each
+time horizon (short, medium, and long term) that can
+have a material financial impact (in terms of business
+lines, revenue, costs, balance sheet assets)
+• The materiality assessment process undertaken by
+it, e.g., process and methodology used to identify the
+impacts of climate-related risks and opportunities
+• Any scenario analysis conducted, such as the
+scenario, assumptions, methodology, coverage of
+business lines and portfolios
+• Results of scenario analysis conducted and any
+implications on its strategy
+(iii) Risk management - Disclose how the organisation identifies, assesses and manages
+climate-related risks.
+Recommended Disclosure
+Illustrative Examples
+a) Describe the organisation’s REs may disclose:
+processes for identifying and
+• Key processes for identifying and assessing climate
+assessing climate-related risks.
+risks
+b) Describe the organisation’s
+• Methods or techniques in measuring, monitoring and
+processes for managing climate
+mitigating climate risks (e.g., relevant models)
+related risks.
+• Identification of significant concentration of credit
+c) Describe how processes for
+exposure to carbon-related assets
+identifying,
+assessing,
+and
+• Description of significant climate-related risks
+managing climate-related risks
+(physical and transition) in business activities
+are
+integrated
+into
+the
+• Definitions of risk terminology used or references to
+organisation’s
+overall
+risk
+existing risk classification framework
+management.
+• REs may consider characterizing their climaterelated risks in the context of traditional risk
+categories such as credit risk, market risk, liquidity
+risk, and operational risk
+• Progress being made in enhancing risk management
+capabilities and incorporation of climate risk into
+existing risk management framework
+(iv) Metrics and Targets - Disclose the metrics and targets used to assess and manage
+relevant climate-related risks and opportunities where such information is material.
+Recommended Disclosure
+Illustrative Examples
+a) Disclose the metrics used by REs may disclose:
+the organisation to assess and
+• Risk and alignment metrics and targets used to
+manage relevant climate-related
+assess the impact of (physical and transition)
+risks and opportunities where
+climate-related risks and opportunities on their
+such information is material.
+business activities in the short, medium, and long
+[18]
+
+Discussion Paper on Climate Risk and Sustainable Finance
+
+b) Disclose Scope 1, Scope 2
+and, if appropriate and feasible,
+Scope 3 GHGs emission 26, and
+the relevant risks.
+c) Describe the targets used by
+the organisation to manage
+climate-related
+risks
+and
+opportunities and performance
+against targets.
+
+•
+•
+•
+
+•
+
+•
+•
+•
+
+term
+Breakdown of metrics and targets by industry,
+geography, credit quality and average tenor
+Scope 1 and 2 emissions of RE’s own operation
+Scope 3 emissions for their lending, investing and
+other financial intermediary business activities where
+data and methodologies may allow
+Amount and percentage of carbon-related assets
+relative to total assets as well as the amount of
+lending and other financing connected with climaterelated opportunities
+Methodology used in relation to such metrics and
+targets (e.g., calculation, standard adopted)
+Any verification and assurance of the disclosed
+metrics (e.g., emission)
+The extent to which their lending and other financial
+intermediary business activities, where relevant, are
+aligned with a well below 2°C scenario, using
+whichever approach or metrics best suited to their
+organizational context or capabilities
+
+D.4.3 Operating Guidelines
+a. REs may explore aligning their Climate-related Financial Disclosures on the lines of the
+FSB’s TCFD framework, which has increasingly been recognised as a suitable basis for
+climate-related financial disclosures. Adapting the same would also help improve the
+consistency and comparability of the Climate-related Financial Disclosures of the REs with
+their counterparts globally.
+b. REs may make such disclosures annually, to begin with. They may use their sustainability
+reports, annual reports, website, or a combination of them to facilitate public access.
+c. In view of the evolving developments in climate-related disclosures, a “comply-or-explain”
+approach may be adopted by the REs, considering:
+•
+
+the significance of an RE’s operation, including the nature and size of its business, and,
+
+•
+
+the materiality of climate-related risks RE is exposed to.
+
+26Scope 1 GHGs emissions are direct emissions from owned or controlled sources. Scope 2 GHGs emissions are
+indirect emissions from the generation of purchased energy. Scope 3 GHGs emissions are all indirect emissions (not
+included in Scope 2) that occur in the value chain of the reporting company, including both upstream and downstream
+emissions. For guidance on reporting Scope 3 GHG emissions, REs may refer to GHG Protocol’s The Corporate
+Value Chain Accounting and Reporting Standard, accessible at
+https://ghgprotocol.org/sites/default/files/standards/Corporate-Value-Chain-Accounting-ReporingStandard_041613_2.pdf.
+
+[19]
+
+Discussion Paper on Climate Risk and Sustainable Finance
+
+D.4.4 Considering the evolving disclosure landscape, REs may keep themselves updated on
+the global and domestic developments 27 in this regard and should plan to progressively
+enhance their disclosures. For instance, while most REs may be less ready at this stage to
+report Scope 3 emissions or concentrations of credit exposure to carbon-related assets, they
+should start chalking out a plan to obtain relevant information such as by collecting emission
+data from their customers.
+Discussion Question 5: What could be the overall timeline for implementation of disclosure /
+TCFD framework, and which recommendations should be prioritized? Should it begin with
+disclosure around the qualitative aspects first, followed by disclosure around quantitative
+aspects or both together?
+E. Capacity Building
+There is a growing need to sensitise India's financial sector to the importance and benefits of
+green finance with special emphasis on capacity building and creating awareness of climate risk
+and sustainable finance to tackle the challenges posed by climate change. Therefore, to give
+impetus to the same, a series of training programmes, capacity building programmes, webinars,
+conferences, seminars, etc. may be organised by the REs for their employees through their own
+training establishments as also through the training establishments associated with RBI. To
+address the capacity building requirements, it is suggested that the Indian Banks’ Association
+(IBA) may set up a working group on capacity building in the area of climate risk and
+sustainable finance to assess the training requirements for bankers and ways and means to
+meet the same through the available training establishments, certification programmes, online
+courses, etc. Tie-ups with multilateral institutions like the IFC, etc. which have vast experience
+in this area may also be suitably considered for this purpose.
+F. Voluntary Initiatives
+The REs on their own volition could lead by taking the following initiatives:
+F.1 Voluntary Target for Green Finance
+As a part of their commitment to scale up lending for green finance, the Reserve Bank would
+seek to encourage REs to set a voluntary funding target to increase green funding with the
+27For example, the IFRS Foundation's initiative to establish a new International Sustainability Standards Board, TCFD
+publications, etc.
+
+[20]
+
+Discussion Paper on Climate Risk and Sustainable Finance
+
+approval of their Board. In other words, they may set an incremental target for green finance
+over short, medium and longer term towards certain identified sectors. The achievement of
+these targets may be reviewed annually to assess the positive environmental outcomes.
+F.2 Green Branches and Green Data Centres
+In order to green the banking processes by making them more environment-friendly, REs could
+consider converting their branches to green branches by eliminating the use of paper in their
+operations, introducing option of e-receipts (i.e., providing the receipt, if required, as a link on
+the registered mobile number) at their ATMs, etc. REs may look at ways and means to
+incentivise adoption of e-receipts. Likewise, the REs may also like to convert all their data
+centres 28 to green data centres by switching over to renewable energy for sourcing power for
+the data centres, etc. and implement guidance provided by established frameworks like the
+Green Data Centre Rating Systems 29.
+Discussion Question 6: What measures would you suggest that the Reserve Bank of India
+could consider with respect to climate risk and sustainable finance?
+
+***
+
+28According to Para 107 of the Budget for the year 2022-23, Data Centers and Energy Storage Systems including
+
+dense charging infrastructure and grid-scale battery systems will be included in the harmonized list of infrastructure.
+This will facilitate credit availability for digital infrastructure and clean energy storage.
+29Indian Green Building Council (IGBC) Green Data Centre (DC) Rating System was released during the Green
+Building Congress 2016 in Mumbai. It is a first of its kind standard for DCs. It primarily addresses energy efficiency in
+DCs, while introducing many other green concepts.
+[21]
+
+

@@ -1,0 +1,491 @@
+EXTRACT OF 2021 CLIMATE FINANCE JOINT REPORT ON MULTILATERAL DEVELOPMENT BANKS’ JOINT METHODOLOGY FOR TRACKING CLIMATE CHANGE ADAPTATION FINANCE
+
+I.
+
+BACKGROUND AND GUIDING PRINCIPLES
+
+1. Climate resilience and adaptation are intrinsically linked to development. This makes it
+challenging to accurately estimate adaptation finance in development operations. In response
+to this challenge, the joint MDB Working Group on Climate Finance Tracking developed a
+common adaptation finance tracking methodology in 2012.1 This common methodology
+has been applied to assessing and reporting multilateral development bank (MDB) finance
+directed to specific adaptation activities2 that are carried out in response to experienced and
+anticipated climate change impacts.
+2. The methodology takes a context-specific, granular and conservative approach to reduce
+the scope for over-reporting of adaptation finance. The MDB adaptation finance tracking
+methodology requires project activities that contribute to adaptation to be disaggregated from
+activities that do not.
+3. The joint MDB methodology seeks to identify the links between adaptation activities and the
+project’s explicit intent to reduce vulnerability to climate change. Only activities that directly
+address climate change vulnerability are considered when estimating the adaptation finance.
+This means that the volume of MDB-reported adaptation finance is an estimate of the finance
+associated with specific project activities that contribute to adapting to climate change.
+4. Multilateral development banks and members of the International Development Finance
+Club (IDFC) have been working together to improve the harmonisation, comparability
+and transparency of the climate finance they report. As a result of these joint efforts, the
+multilateral development banks and members of the IDFC agreed on the Common Principles
+for Climate Change Adaptation Finance Tracking in July 2015. The principles establish the
+parameters with which to identify and estimate the volume of adaptation finance in MDB and
+IDFC operations. They also form the basis for further joint work to increase the comparability
+of reported figures on climate adaptation finance and to harmonise key concepts related to
+reporting guidelines and processes.
+5. Between 2021 and 2022, the MDBs carried out a review of the joint MDB methodology for
+tracking adaptation finance, while continuing to apply both the methodology and the joint
+MDB-IDFC principles. The review built on collective experiences of applying the methodology
+over the preceding decade.3 It aimed to better characterise adaptation activities for the
+purpose of tracking adaptation finance, and to provide guidance on the application of the joint
+methodology in a broader range of financing instruments.
+6. The outcome was an update to the methodology that reflected the evolving understanding
+of adaptation and climate resilience and advances made in the fields of adaptation finance.
+These developments include the following:
+a. Adaptation is no longer viewed purely as an add-on to development investments, but
+rather as an imperative for putting development on the path to resilience. As a result,
+adaptation support has expanded from traditional infrastructure sectors to a wider range
+of sectors, such as education, health, social protection, financial services, and research
+and innovation for adaptation solutions.
+b. Financing modalities supporting adaptation have broadened from the typical investment
+loans and programmes to other financial instruments, including policy-based loans,
+working capital and credit lines (see Figure 1).
+1	 See Section 2.3 of the Joint MDB report on climate finance 2013 and subsequent joint MDB reports for details of the common MDB
+methodology.
+2
+
+Under this methodology, “activities” should be understood as projects, project components, or elements or proportions of projects.
+
+3
+
+Lessons learned from the implementation of the common principles are available at a joint MDB-IDFC report.
+
+Background and guiding principles | 1
+
+c.
+
+Relevant advances concerning green and sustainable finance have emerged in recent
+years, notably the EU taxonomy for sustainable finance and impact reporting for green
+bonds, introducing new concepts and approaches for better defining, reporting and
+monitoring adaptation activities, including private investment in adaptation.
+
+Figure 1: MDB adaptation finance by instrument (2012-2020)
+
+Note: Other instruments include advisory services and bonds. Some MDBs report eligible bonds under the category of investment loans.
+
+In addition to these developments, multilateral development banks are committed to making their
+operations consistent with a pathway towards low-carbon and climate-resilient development,
+in line with the goals of the Paris Agreement.4 Assessing the alignment to the Paris Agreement
+and tracking adaptation finance are clearly linked, while serving different purposes. Multilateral
+development banks have developed a joint methodology to assess the alignment of their operation
+to the Paris Agreement. This assessment is applied at the project level and provides an effective
+filter to ensure that MDB financing causes no significant harm to the abilities of communities,
+economic activities and the environment to cope with physical climate risks. The adaptation
+finance tracking methodology provides guidance for estimating the finance associated with the
+filtered projects supporting communities, economic activities and the environment to adapt to a
+changing climate.
+7.
+
+The multilateral development banks will continue to work together to enhance approaches to
+tracking adaptation finance and support advances in this area. They will also continue to work
+on the development of metrics that can adequately capture the effectiveness of the adaptation
+activities financed through their operations, building on experience and jointly developed initial
+frameworks.5
+
+8. This annex describes the updated MDB methodology for tracking adaptation finance, clarifying
+the types of activities that can contribute to adaptation. As before, the methodology is based
+on a three-step process required to identify adaptation activities. The annex also clarifies how
+this process can be applied to a broader range of financial instruments and provides a few
+project examples.
+
+2
+
+4
+
+As specified in Article 2.1(c) of the Paris Agreement.
+
+5
+
+A Framework and Principles for Climate Resilience Metrics in Financing Operations.
+
+| JOINT METHODOLOGY FOR TRACKING CLIMATE CHANGE ADAPTATION FINANCE
+
+II. ACTIVITIES CONSIDERED FOR ADAPTATION FINANCE
+9. The multilateral development banks have a wide variety of operations across different
+geographical regions, economies and financing instruments. As a result, adaptation finance
+tracking may take place across a range of activities categorised as follows (see Table 1):
+a. T  ype 1/Activities that are adapted: Activities that integrate measures to manage physical
+climate risks and ensure that the project’s intended objectives are realised despite these
+risks. These activities include adjustments or improvements required to ensure that the
+project performs well against experienced and anticipated impacts of climate change.
+Adaptation is not the primary objective of the activity.
+b.  Type 2/Activities that have shared objectives of adaptation and development: Activities
+that directly reduce physical climate risk and build the adaptive capacity of the system
+within which the activity takes place.6 These activities are typically identified based on
+a robust understanding of physical climate risks faced by the system within which the
+project takes place. These activities are themselves adjusted to cope with experienced
+and anticipated impacts of climate change. Adaptation is one of the objectives of the
+activity.
+c.  Type 3/Activities that enable adaptation: Activities that contribute to reducing the
+underlying causes of vulnerability to climate change at the systemic level and/or removing
+knowledge, capacity, technological and other barriers to adaptation. This type of activity
+supports adaptation beyond its immediate scope by creating enabling conditions for policy
+and regulatory environment developments, physical or natural asset enhancements,
+capacity strengthening, technology developments or knowledge enhancements. These
+activities are themselves adjusted to cope with the experienced and anticipated impacts
+of climate change. Adaptation is the primary objective of the activity.
+Table 1. A summary and illustrative examples of the three types of adaptation activities
+ADAPTATION ACTIVITIES
+Type 1
+
+Type 2
+
+Type 3
+
+Description
+
+Activities that integrate
+measures to manage physical
+climate risks and ensure
+that the project’s intended
+objectives are realised despite
+these risks
+
+Activities that directly reduce
+physical climate risk and
+build the adaptive capacity of
+the system within which the
+activity takes place
+
+Activities that contribute
+to reducing the underlying
+causes of vulnerability
+to climate change at the
+systemic level and/or
+removing knowledge, capacity,
+technological and other
+barriers to adaptation
+
+Objective
+
+Activities that integrate
+measures to manage physical
+climate risks and ensure
+that the project’s intended
+objectives are realised despite
+these risks
+
+Activities that directly reduce
+physical climate risk and
+build the adaptive capacity of
+the system within which the
+activity takes place
+
+Activities that contribute
+to reducing the underlying
+causes of vulnerability
+to climate change at the
+systemic level and/or
+removing knowledge, capacity,
+technological and other
+barriers to adaptation
+
+Adaptation finance
+
+Less than 100% of MDB
+finance on the activity
+
+Less than 100% of MDB
+finance on the activity
+
+100% of MDB finance on the
+activity
+
+6	 The system within which the activity takes place can include the project or programme it is part of, surrounding geographic areas and
+landscape, and/ or the socioeconomic entities and groups benefiting from the project.
+
+Activities considered for adaptation finance | 3
+
+ADAPTATION ACTIVITIES
+
+Illustrative
+examples
+
+Type 1
+
+Type 2
+
+Type 3
+
+•A
+  djusted design of culverts
+required in a road project
+to cope with the increased
+risk of extreme rainfall and
+flooding
+
+•  Cash transfer activities for
+underserved and vulnerable
+communities to strengthen
+social protection and
+improve preparedness for
+and recovery from climate
+shocks
+
+•  Research and development
+of crop breeds more resilient
+to drought
+
+•U
+  se of conductors with
+operating limits at higher
+temperature thresholds in a
+transmission line vulnerable
+to increased extreme
+temperatures
+
+• Diversification of water
+sources needed in a city’s
+water supply system to meet
+the increased demand of a
+growing population and to
+reduce risks to the water
+supply system resulting from
+droughts
+
+•  Fund providing financing
+to small and medium
+enterprises (SMEs) to
+accelerate the development,
+application and transfer of
+adaptation solutions
+•  Levee system to protect
+a region including towns,
+businesses, infrastructure
+and agricultural land from
+the increased risk of flooding
+•  Introduction of crop breeds
+to increase small farmers’
+resilience to drought in a
+region with a high risk of
+precipitation, as part of
+an integrated agriculture
+project
+
+10. The MDB adaptation finance tracking methodology centres on the understanding that
+adaptation is context- and location-specific. Adapting to climate change requires the use of
+a process-based approach to assess climate change vulnerabilities and identify the activities
+required to reduce such vulnerabilities. The following sections describe how this process based approach is applied to different financial instruments to identify adaptation activities
+and estimate adaptation finance. Illustrative project examples of how the updated MDB
+adaptation finance tracking methodology is applied to different financial instruments are
+provided in Table A.B.1 of the full joint MDB climate finance report.
+III.	 E STIMATING ADAPTATION FINANCE IN INVESTMENT AND PROGRAMME LOANS
+AND GRANTS WITH KNOWN USE OF PROCEEDS
+11. Investment loans and grants with known use of proceeds are financial instruments where the
+project’s sectoral and geographical scope is typically known in advance.
+12. In such financial instruments, the MDB methodology on adaptation finance tracking requires
+the following three key steps to identify adaptation activities:
+1. Setting out the project’s context of vulnerability to climate change.
+2. Making an explicit statement of intent of the project to reduce the climate change
+vulnerabilities identified.
+3. Articulating a clear and direct link between specific project activities and the climate
+change vulnerability identified in Step 1.
+13. Once adaptation activities are identified in a project, adaptation finance can be estimated
+using either an incremental or proportional approach. Figure 2 illustrates the process for
+applying the updated MDB adaptation finance tracking methodology to investment and
+programme loans and grants. The process is discussed in further detail below.
+
+4
+
+| JOINT METHODOLOGY FOR TRACKING CLIMATE CHANGE ADAPTATION FINANCE
+
+Figure 2: The multilateral development banks’ adaptation finance tracking process
+
+Step 1: Has the context of climate change vulnerability been set out?
+No
+Yes
+Step 2: Is there an explicit statement of intent to reduce the identified
+climate change vulnerability?
+No
+Yes
+Step 3: Is there a direct link between the project activities and the
+identified climate change vulnerabilities?
+No
+Yes
+To assess adaptation finance, the project activities that directly address identified
+climate change vulnerabilities are disaggregated from other project activities
+
+Type 1
+
+Type 2
+
+Type 3
+
+Adaptation finance
+less than 100%
+
+Adaptation finance
+less than 100%
+
+Adaptation finance
+100%
+
+Activities not relevant for
+climate adaptation
+Adaptation finance = 0%
+
+Step 1. Context of vulnerability to climate change
+14. For an activity to be considered an adaptation activity, the context of climate change
+vulnerability to experienced and anticipated impacts of climate change must first be set out
+clearly using a robust evidence base. Project documents may refer to existing analyses and
+reports or to original, bespoke assessments of climate change vulnerability.
+15. Good practice in conducting original, bespoke analysis entails the use of information from
+trusted sources, which document the vulnerability of communities, physical assets and/
+or ecosystems to climate change, as well as the use of recent climate trends including any
+departures from historic means. These may be combined with climate change projections
+drawn from a range of climate model simulations, with high and low greenhouse gas emission
+scenarios, to explore the full range of projected impacts and uncertainties. Climate projection
+uncertainties should be presented and interpreted transparently. The timescale of projected
+climate change impacts should match the intended lifespan of the activities being financed
+through the project. For activities without clear lifespans (for example certain types of
+nature-based solutions or investments in operational expenses), an appropriate timescale of
+projected climate change impacts should be considered.
+Step 2. Statement of intent
+16. Once a project’s context of vulnerability to climate change has been established, the project
+documents should set out the explicit intention to address the identified climate change
+vulnerabilities. This is an important step to ensuring experienced and anticipated impacts of
+climate change are considered in a project.
+
+Estimating adaptation finance in investment and programme loans and grants with known use of proceeds | 5
+
+17. The methodology is flexible about the way in which this intent is demonstrated, as long as the
+project does not exacerbate vulnerabilities beyond the project boundary or is not inconsistent
+with relevant adaptation strategies and plans such as national adaptation plans, nationally
+determined contributions and long-term strategies or other relevant policy documents. For
+example, the statement of intent could be reported in final technical documents, documents
+for MDB board approval, internal memos or other associated project documents.
+Step 3. Clear and direct link between climate change vulnerability and project activities
+18. In line with the principles of the overall MDB climate finance tracking, adaptation finance
+estimations consider only the finance allocated to specific project activities that are clearly
+linked to the context of climate change vulnerability identified in Step 1. Therefore, where
+possible, projects are disaggregated into discrete activities. Adaptation finance is attributed
+only to the activities that clearly respond to the context of climate change vulnerability. Each
+project activity can then be assessed as an adaptation activity or not relevant for adaptation.
+When it is not possible to break a project down into activities, the project should instead be
+treated as a whole.
+19. Adaptation finance can be estimated using one of the following two approaches:
+a.  The incremental approach estimates the additional costs associated with the activities
+required to adapt the project to climate change against a hypothetical baseline where the
+project would aim to deliver expected results without addressing physical climate risks.
+b.  The proportional approach refers to adaptation finance estimated as a proportion of
+the MDB finance that corresponds to the adaptation activities included in a project. This
+may be informed by a range of credible sources including assessments of the cost of
+adaptation in similar operations or expert knowledge on the relevant sectoral practice,
+together with information on the assumptions and calculations used. The multilateral
+development banks will continue to share and exchange knowledge on the criteria that
+may be used to inform the use of the proportional approach.
+20. For type 1 and type 2 activities, adaptation finance is less than 100% of the activity cost.
+Adaptation finance is estimated using an incremental approach or a proportional approach.
+21. For type 3 activities, adaptation finance is 100% of the activity cost because such activities
+are motivated by the need to address experienced and anticipated impacts of climate change.
+IV. ESTIMATING ADAPTATION FINANCE IN OTHER FINANCIAL INSTRUMENTS
+22. Since 2012, the multilateral development banks have diversified and grown their offering of
+financial products in order to serve the needs of their clients and as a result of advances in
+the field of sustainable finance. In addition to financial instruments such as investment and
+programme loans and grants, multilateral development banks have also increasingly provided
+adaptation finance through other financing instruments such as lines of credit, guarantees,
+equity, policy-based financing and results-based financing
+23. This section provides an initial framework to track adaptation finance in policy-based
+financing, working capital and intermediated financing. Adaptation finance attribution for
+these instruments is still based on the three-step approach, which has been further clarified to
+reflect the nature of these financial instruments.
+24. The multilateral development banks will continue to work together and with other financial
+institutions to further develop approaches for tracking adaptation finance in other financial
+instruments, such as guarantees, equity and results-based financing.
+
+6
+
+| JOINT METHODOLOGY FOR TRACKING CLIMATE CHANGE ADAPTATION FINANCE
+
+Policy-based financing
+25. Policy-based financing supports national and subnational programmes of policy reforms and
+institutional actions that promote growth, poverty reduction and sustainable development.
+Financing is made available as non-earmarked general budget financing upon satisfactory
+implementation of the overall policy and institutional reform programme, which includes a set
+of critical policy actions.
+26. The policy actions supported through policy-based financing are defined and agreed upon
+between the MDB and the recipient government in advance and are outlined in the project
+documents. Policy actions may be fully dedicated to addressing climate change vulnerabilities
+and contributing to climate change adaptation or may be designed to simultaneously support
+other development objectives.
+27. The MDB methodology on tracking adaptation finance in policy-based financing identifies
+adaptation activities using the following three steps:
+a.   Context of vulnerability: The operation clearly sets out the context of climate change
+vulnerability using a robust evidence base, and adaptation activities that are required to
+strengthen the recipient’s policy and institutional framework.
+b.  Intent: The operation supports the recipient to identify policy actions that can contribute
+to adaptation and sets out the explicit intention to develop such policy actions consistent
+with the context of vulnerability and in line with relevant adaptation strategies and plans.
+c.  Clear and direct link between climate change vulnerability context and policy actions:
+The policy actions included in the MDB operation directly contribute to addressing the
+identified climate change vulnerabilities and/or enabling adaptation.
+28. If these three criteria are met, climate adaptation finance is estimated at the policy action level
+and using a proportional approach. Adaptation finance is allocated to each policy action that
+articulates a clear and direct link between the climate change vulnerability context and the
+specific policy action.
+Working capital
+29. Working capital is finance provided by a multilateral development bank to an entity for
+operational expenditures. Working capital is considered to contribute to adaptation if it leads
+to, enables or supports the implementation and operation of adaptation activities.
+30. The MDB methodology on tracking adaptation finance in working capital identifies adaptation
+activities using the following three steps:
+a. Context of vulnerability: The context of climate change vulnerability has been clearly set
+out for the recipient’s business model or stakeholders of influence.
+b.  Statement of intent: The recipient conducts adaptation activities, has sustainability
+certifications that require practices associated with reducing climate change vulnerability,
+and/or produces products or provides services that enable adaptation.
+c.  Capacity of the recipient: The recipient has the institutional capacity to report on related
+adaptation activities, sustainability certifications that include adaptation practices, and/or
+information related to products or services that enable adaptation, or otherwise commits
+to strengthen that capacity.
+31. If these three criteria are met, then the adaptation finance is estimated as the finance
+associated with the adaptation activities included in the business model of the recipient using
+a proportional approach or incremental approach. The estimate is based on the operational
+expenditures associated with the adaptation activities.
+
+Intermediated financing
+32. Intermediated financing is financing that multilateral development banks provide through
+banks, non-banking financial institutions, funds or other financial intermediaries.
+33. For intermediated operations, there is often high level of uncertainty on the use of proceeds
+in advance. In this case, estimating adaptation finance relies on a robust understanding of
+the activities that can contribute to adaptation within the geographical and sectoral scope
+of the MDB transaction, and the capacity of the recipient to utilise this information to scope,
+implement and monitor these activities.
+34. When the use of proceeds is defined, the MDB methodology on tracking adaptation finance in
+intermediated financing identifies adaptation activities using the following three criteria:
+a. Context of vulnerability: The recipient has an understanding of climate change
+vulnerabilities and adaptation activities within the geographical and sectoral scope of
+the MDB transaction, based on existing national/regional/local adaptation plans, other
+relevant information sources or an assessment developed by the multilateral development
+bank.
+b.  Statement of intent: The recipient has a preliminary project pipeline or an initial list of
+activities covering the scope of the MDB transaction. In the event such a pipeline does
+not exist, the intermediary undertakes to develop and deliver such a pipeline. In both
+cases, such a pipeline contributes to reducing climate change vulnerabilities and does not
+undermine relevant adaptation strategies and plans. This commitment is reflected in the
+financing agreement and is realised by the time the MDB finance is fully utilised.
+c.  Capacity of the recipient: The recipient has the institutional capacity to identify and report
+on adaptation activities, or otherwise commits to strengthen that capacity. Evidence of
+this capacity could include dedicated responsibility for climate change adaptation, a
+climate risk management system, the disclosure of physical climate risk, or other evidence
+of processes that can support the identification of physical climate risk and adaptation
+activities.
+35. If these three criteria are met, the multilateral development bank may determine the
+adaptation finance as follows:
+a. When the use of proceeds is known, adaptation finance is estimated as the percentage of
+finance associated with adaptation activities included in the initial project pipeline.
+b. When the use of proceeds is undefined — for example if a project pipeline is still being
+developed at the time of project approval or in the case of a general credit line — the
+multilateral development bank may estimate adaptation finance using a projected
+allocation to activities that contribute to adaptation, as committed in the financing
+agreement. The projected allocation can be based on the percentage of the recipient’s
+existing investment portfolio financing adaptation activities at the moment of the MDB’s
+transaction, a client survey or a market assessment. The multilateral development bank
+will periodically verify actual disbursements to inform future similar operations.
+

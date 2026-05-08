@@ -1,0 +1,3 @@
+filename,bsr_code,decision,label,weights
+bhel-training.txt,,unknown,Proceed,"{'mitigation': 2, 'adaptation': 2, 'not_cf': 2}"
+Arhyama solar final note NEW 2024.txt,40105,Needs Further Analysis,Proceed,"{'mitigation': 3, 'adaptation': 2, 'not_cf': 0}"

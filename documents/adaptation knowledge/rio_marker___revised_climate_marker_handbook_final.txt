@@ -1,0 +1,1944 @@
+OECD DAC Rio Markers for Climate
+Handbook
+
+OECD DAC RIO MARKERS FOR CLIMATE: HANDBOOK
+
+1
+
+BACKGROUND
+
+The OECD Development Assistance Committee (DAC) gathers on an annual basis statistics on official
+development assistance (ODA) and other resource flows to developing countries from bilateral and
+multilateral development co-operation providers. The data are publicly available in the Creditor
+Reporting System (CRS) database.
+Since 1998, the DAC has monitored development finance flows targeting the objectives of the Rio
+Conventions on biodiversity, climate change and desertification through the CRS using the so-called “Rio
+markers”. The Rio markers were originally designed to help members with the preparation of their
+National Communications or National Reports to the Rio Conventions, by identifying activities that
+mainstream the Conventions’ objectives into development co-operation. DAC members are requested to
+indicate for each development finance activity if the activity targets environmental objectives. The Rio
+markers on biodiversity, climate change mitigation and desertification were introduced in 1998, with a
+fourth marker on climate change adaptation being applied to 2010 flows onwards.
+Rio markers should be applied to all bilateral ODA and non-export credit other official flows (OOF)1,
+excluding general budget support, imputed student costs, debt relief except debt swaps, administrative
+costs, development awareness and refugees in donor countries. Multilateral contributions should not be
+marked by members individually; instead international organisations report on the actual allocation of
+their funds (“multilateral outflows”) and the climate-related share of their portfolio is determined on that
+basis.2 This document sets out the agreed definitions and reporting instructions for the providers of
+finance.
+Further details on the methodology, background information, training materials and related
+resources are all available online. Additional information on the Rio markers on climate change mitigation
+and adaptation includes activity level project data, webinars on how to use and access the climate
+markers as well as a link to a visualization portal.
+
+1.
+
+Applying the Rio markers to OOF is voluntary. The DAC statistical system is introducing the collection on amounts
+mobilised from the private sector by official interventions. Once in place (2017 reporting on 2016 data), the Rio
+markers will also apply to the private amounts mobilised.
+
+2.
+
+To ensure consistency in reporting, members do not individually mark their multilateral contributions. Instead the
+international organisations apply the Rio markers to their outflows, or in the case of Multilateral Development Banks
+(MDBs), report on components, elements or proportions of climate finance based on the Joint MDB reporting
+approach. This information is subsequently used to estimate members’ contributions to climate through multilateral
+organisations (“imputed multilateral contributions”).
+
+OECD DAC RIO MARKERS FOR CLIMATE: HANDBOOK
+
+2
+
+DEFINITION OF THE CLIMATE CHANGE MITIGATION AND ADAPTATION MARKERS
+
+Climate change mitigation marker
+AID TARGETING THE OBJECTIVES OF THE FRAMEWORK CONVENTION ON CLIMATE CHANGE
+Climate Change Mitigation
+DEFINITION
+An activity should be classified as
+climate-change-mitigation
+related (score Principal or
+Significant) if:
+
+It contributes to the objective of stabilisation of greenhouse gas (GHG)
+concentrations in the atmosphere at a level that would prevent dangerous
+anthropogenic interference with the climate system by promoting efforts to
+reduce or limit GHG emissions or to enhance GHG sequestration.
+
+CRITERIA
+FOR ELIGIBILITY
+
+The activity contributes to
+a) the mitigation of climate change by limiting anthropogenic emissions of
+GHGs, including gases regulated by the Montreal Protocol; or
+b) the protection and/or enhancement of GHG sinks and reservoirs; or
+c) the integration of climate change concerns with the recipient countries’
+development objectives through institution building, capacity development,
+strengthening the regulatory and policy framework, or research; or
+d) developing countries’ efforts to meet their obligations under the
+Convention.
+The activity will score “principal objective” if it directly and explicitly aims to
+achieve one or more of the above four criteria.
+
+See the indicative table for guidance on Rio marking by sector/subsector and examples of qualifying
+activities.
+
+OECD DAC RIO MARKERS FOR CLIMATE: HANDBOOK
+
+3
+
+Climate change adaptation marker
+AID TARGETING THE OBJECTIVES OF THE FRAMEWORK CONVENTION ON CLIMATE CHANGE
+Climate Change Adaptation
+DEFINITION
+An activity should be classified
+as adaptation-related (score
+Principal or Significant) if:
+
+It intends to reduce the vulnerability of human or natural systems to the
+current and expected impacts of climate change, including climate variability,
+by maintaining or increasing resilience, through increased ability to adapt to,
+or absorb, climate change stresses, shocks and variability and/or by helping
+reduce exposure to them.
+This encompasses a range of activities from information and knowledge
+generation, to capacity development, planning and the implementation of
+climate change adaptation actions.
+
+CRITERIA
+FOR ELIGIBILITY
+An activity is eligible for the
+climate change adaptation
+marker if:
+
+a)
+b)
+
+the climate change adaptation objective is explicitly indicated in the
+activity documentation; and
+the activity contains specific measures targeting the definition above.
+
+Carrying out an assessment of vulnerability to climate variability and change,
+either separately or as an integral part of agencies’ standard procedures,
+facilitates this approach.
+To guide scoring, a three-step approach is recommended as a “best practice”,
+in particular to justify for a principal score:
+ Setting out the context of risks, vulnerabilities and impacts related to
+climate variability and climate change: for a project to be considered as
+one that contributes to adaptation to climate change, the context of
+climate vulnerability should be set out clearly using a robust evidence
+base. This could take a variety of forms, including use of material from
+existing analyses and reports, or original, bespoke climate vulnerability
+assessment analysis carried out as part of the preparation of a project.
+ Stating the intent to address the identified risks, vulnerabilities and
+impacts in project documentation: The project should set out how it
+intends to address the context- and location- specific climate change
+vulnerabilities, as set out in existing analyses, reports or the project’s
+climate vulnerability assessment.
+ Demonstrating a clear and direct link between the identified risks,
+vulnerabilities and impacts and the specific project activities: the project
+should explicitly address risk and vulnerabilities under current and future
+climate change as identified in the project documentation.
+
+See the indicative table for guidance on Rio marking by sector/subsector and examples of qualifying
+activities.
+
+OECD DAC RIO MARKERS FOR CLIMATE: HANDBOOK
+
+4
+
+SCORING SYSTEM FOR CLIMATE MARKERS
+
+A scoring system of three values is used, in which official development finance activities reported to
+the DAC CRS are screened and “marked” as either (i) targeting the United Nations Framework Convention
+on Climate Change (UNFCCC) as a principal objective (score “2”); (ii) as a significant objective (score “1”);
+or (iii) not targeting the Convention (score “0”). These marks indicate the policy objectives of members’
+development finance activities:
+
+
+An activity can be marked as principal when the objective (climate change mitigation or
+adaptation) is explicitly stated as fundamental in the design of, or the motivation for, the
+activity. Promoting the objective will thus be stated in the activity documentation as one of the
+principal reasons for undertaking it. In other words, the activity would not have been funded (or
+designed that way) but for that objective.
+
+
+
+An activity can be marked as significant when the objective (climate change mitigation or
+adaptation) is explicitly stated but it is not the fundamental driver or motivation for undertaking
+it. Instead, the activity has other prime objectives but it has been formulated or adjusted to help
+meet the relevant climate concerns.
+
+
+
+The score “0” means that the activity was examined but found not to target the objective
+(climate change mitigation or adaptation) in any significant way. For activities that have not
+been assessed, the marker field should be left empty. This ensures that there is no confusion
+between activities that do not target the objective (score = “0”), and activities for which the
+answer is not known (score = “null”). This important distinction has implications for statistical
+presentations of Rio marker data.
+
+The emphasis of the markers is on the objective pursued in providing support for the activity in
+question, as described in the activity documentation i.e. primarily the written material which forms the
+basis for the agreement to provide funding. This may be the actual project or programme document, or a
+proposal for funding an action which is outlined in a partner country document such as a national
+development strategy, a sectoral strategy or climate change strategy.
+To facilitate transparency, it is important that in the description of activities reported to the CRS, the
+relationship between the activity and the objective (e.g. climate change mitigation/adaptation) is clearly
+communicated and made explicit. This is particularly important for activities with a principal objective
+score and for very large activities (recognising the administrative constraint this implies when numerous
+small activities are concerned).
+The following decision tree helps identify for which score a given activity qualifies.
+
+OECD DAC RIO MARKERS FOR CLIMATE: HANDBOOK
+
+5
+
+Decision tree for scoring an activity against a Rio marker
+
+*Assigning a double principal score (e.g. to both mitigation and adaptation) to the same activity should be
+considered only upon explicit justification.
+
+Qualitative methodology allowing an approximate quantification of finance flows
+By identifying activities targeting climate change as a principal or significant objective, the markers
+provide an indication of the degree of mainstreaming of environmental considerations into development
+co-operation portfolios. The Rio markers apply to activities as a whole, and, in marking the full value of
+the activities the markers are considered descriptive rather than strictly quantitative. Instead, they allow
+for an approximate quantification of development finance flows that target the Rio Convention
+objectives. In OECD presentations of the Rio markers, figures illustrating flows targeting objectives as
+principal or significant are shown separately; the sum of the two scores is referred to as the “total” or
+“upper bound” of environmental-related development finance.
+Mainstreaming and the integration of environmental concerns into development co-operation
+If mainstreaming is systematically practiced, the UNFCCC objectives will be integrated into projects
+across a wide range of sectors, represented by a significant objective score. However, mainstreaming can
+in some cases transform the activity to the point that climate change mitigation and/or adaptation
+become the principal objective. For example, if the process of mainstreaming climate change into a
+traditional power project results in the project being redesigned so that it instead relies on renewable
+energy and energy savings, the entire activity can be considered as having climate change mitigation as
+
+OECD DAC RIO MARKERS FOR CLIMATE: HANDBOOK
+
+6
+
+its principal objective. If the mainstreaming of the UNFCCC objectives is extremely limited (with regard to
+the overall scope of the activity), and/or so superficial (vague declaration of intent), it should be marked
+as “not targeted”.
+Activities that facilitate mainstreaming can also qualify for a principal score. For example, an activity
+that is primarily designed to build capacity and develop tools to integrate climate change into national
+and sub-national policies, planning and investment frameworks, should obtain the principal objective
+score.
+Activities arising from a national action plan linked to the Rio Convention
+The Rio Conventions call upon Parties to formulate action plans or strategies to implement the
+objectives of the Conventions. A climate change mitigation and/or adaptation activity arising from such
+an action plan or strategy (e.g., NAPAs, NAPs, NAMAs or NDCs3 under the UNFCCC) automatically qualifies
+as principal objective score, as the Convention provides the motivation for the design of the activity.
+Targeting multiple environmental objectives and overlaps between Rio markers
+The causes and solutions to global environmental issues under the Rio Conventions and other local
+environmental concerns are intertwined. The Rio Conventions often complement and reinforce each
+other, and consequently it is possible that the same activity, policy or measure simultaneously addresses
+climate change, biodiversity and/or desertification objectives. An activity may target multiple objectives
+and qualify for more than one Rio marker.
+For example, a sustainable forest management project can contribute to biodiversity conservation,
+to capturing carbon (climate change mitigation) and to reducing climate risk (climate change adaptation).
+In drylands such a project can also help to combat desertification. However, not all score combinations
+are equally meaningful and assigning a double principal score (e.g. to both mitigation and adaptation) to
+the same activity should therefore be considered only upon explicit justification.
+Noting that activities may qualify for more than one Rio marker, this needs to be taken into account
+when aggregating data across the markers. To avoid double or triple-counting the same activity,
+aggregate figures for biodiversity, climate change mitigation, climate change adaptation and
+desertification-related development finance should not be added up. Statistical presentations should
+either be prepared for one marker at a time (without adding up the resulting totals) or the overlap should
+be presented and treated to avoid double counting4.
+
+3.
+
+National Adaptation Programmes of Action (NAPAs); National Adaptation Plans (NAPs); Nationally Appropriate
+Mitigation Actions (NAMAs); Nationally Determined Contributions (NDCs).
+
+4.
+
+Detailed information on how to treat overlap can be found in the Rio marker webpage oe.cd/RioMarkers.
+
+OECD DAC RIO MARKERS FOR CLIMATE: HANDBOOK
+
+7
+
+USE OF CLIMATE MARKERS FOR REPORTING TO THE UNITED NATIONS FRAMEWORK CONVENTION FOR
+CLIMATE CHANGE (UNFCCC)
+
+The majority of OECD DAC members draw on the Rio markers when reporting internationally on
+environment-related development finance. However, the figures that can be derived from the Rio
+markers are not always identical to those reported to the Conventions. This reflects the fact that the Rio
+markers were originally intended to track the mainstreaming of environmental considerations into
+development co-operation rather than quantify finance flows. For example, when reporting to the
+UNFCCC on finance provided in National Communications, National Reports or Biennial Reports, some
+members use the Rio marker data as a basis to which they apply additional quantitative methodologies,
+for example in the form of coefficients. Whilst the majority of DAC members report 100% of finance
+marked principal, many only account for a certain share of finance targeting climate change as a
+significant objective. These shares vary (from 0-100%), and there is currently no common reporting
+standard. In some cases there is also limited transparency on the evidence base supporting the approach
+chosen. Other differences in reporting to the Rio conventions may also arise. For example, whether the
+commitment or disbursement data is reported, or differences in geographical scope.
+
+OECD DAC RIO MARKERS FOR CLIMATE: HANDBOOK
+
+8
+
+REPORTING FORMS AND EXAMPLES
+
+Reporting form
+Reporting on the Rio markers takes place at activity level, through a common format: the CRS reporting
+form. Each variable of the CRS is defined in the DAC Statistical Reporting Directives, which also provides
+for standardised classifications of sectors, types of finance, recipients, channels of delivery etc. The form
+is partly illustrated below.
+43b.
+43c.
+Policy objectives
+20.
+Gender equality………………...........
+21.
+Aid to environment………………….
+22
+PD/GG………………………………
+23.
+Trade development………………….
+
+_
+_
+_
+_
+
+Type-of-aid related fields
+24.
+Free-standing technical co-operation
+25.
+Programme-based approach………...
+26.
+Investment…………………………...
+27.
+Associated financing………………...
+
+_
+_
+_
+_
+
+Rio markers
+28.
+Biodiversity………………………….
+29.
+Climate change – mitigation………...
+30.
+Climate change – adaptation………...
+31.
+Desertification……………………….
+
+_
+_
+_
+_
+
+Amount mobilised**…………………….
+Origin of the fund mobilised**………….
+
+____
+_
+
+E. For loans only
+Terms of repayment
+44.
+Type of repayment………………………
+45.
+Number of repayments per annum………
+46.
+Interest rate………………………………
+47.
+Second interest rate……………………...
+48.
+First repayment date……………………..
+49
+Final repayment date…………………….
+
+_
+__
+____
+____
+_______
+_______
+
+Other fields on debt
+50.
+Interest received…………………………
+51.
+Princial disbursed and still outstanding…
+52.
+Arrears of principal (included in field 51)
+53.
+Arrears of interest……………………….
+
+____
+____
+____
+____
+
+F. Trial data collection
+54.
+
+RMNCH…………………………………
+
+_
+
+Example of scoring (not including all fields)
+Provider
+country
+
+Recipient
+country
+
+Germany
+
+Morocco
+
+Sweden
+
+Mali
+
+Finance
+Instrument
+
+USD
+amount
+‘000
+
+Solar power plant
+
+ODA loan
+
+Climate change
+adaptation of forests
+prone communities and
+sustainable conservation
+and management of
+forests
+
+ODA grant
+
+Project Title
+
+OECD DAC RIO MARKERS FOR CLIMATE: HANDBOOK
+
+Sector
+
+Mitigation
+
+Adaptation
+
+437 840
+
+Energy generation
+and supply
+
+2
+
+0
+
+7 158
+
+Forestry policy &
+administrative
+management
+
+1
+
+1
+
+9
+
+INDICATIVE TABLE TO GUIDE RIO MARKING BY SECTOR/SUB-SECTOR
+
+This table provides guidance to support activity-level screening and marking against the Rio markers
+on climate change mitigation and adaptation by sector. For each sector category, it indicates the most
+appropriate scores to assign to activities, with the most likely score indicated first. For example, the
+indication “0 or 1” means that activities in the sector concerned generally do not qualify against the
+objective (score “0”) but there are circumstances where they do qualify as significant objective (score
+“1”). For each sector, the table also explains the rationale for scoring activities and provides examples.
+The table emerged from an exchange with members and international organisations and is based on
+knowledge as of March 2016. It is not an exhaustive or prescriptive list, nor does it contain binding rules
+on scores for each sector. Instead, it is intended to facilitate the application of markers to activities in
+different sectors. Members may still apply scores different from the suggestions indicated in the table,
+provided the activities concerned meet the definition and eligibility criteria of the markers. The guidance
+provided in the table is also not intended to replace activity level screening. Instead, it seeks to support it.
+In general, for climate change adaptation, the three-step approach described in the eligibility criteria is
+recommended as a “best practice” prior to any adaptation scoring.
+
+OECD DAC RIO MARKERS FOR CLIMATE: HANDBOOK
+
+10
+
+INDICATIVE TABLE TO GUIDE RIO MARKING BY SECTOR/SUB-SECTOR
+Climate change adaptation and climate change mitigation
+
+Adaptation
+
+Sector/CRS purpose codes
+
+Mitigation
+
+This table has benefitted from numerous members’ comments, examples from real projects included in the DAC CRS database and examples from the
+MDB methodology to track climate finance projects. The table seeks to guide the scoring and provide useful examples for members’ scoring process. It is
+important to clarify that the spirit of the markers is to promote mainstreaming of climate considerations in all sectors. The suggestions on scoring
+(significant and principal) reflect the likelihood that the objective of the programme (mitigation, adaptation) is fundamental to its design (principal) or that
+the programme has other prime objectives but has been formulated or adjusted to help meet the relevant environmental concerns (significant). They are
+not intended to limit but rather to guide marking. Many examples now in the table could score either 2 or 1 as the methodology is based on the purpose of
+the activity and not the type of activity. For example, a project aimed at developing or enhancing systems for monitoring drinking water in areas affected by
+higher temperatures, floods and rising sea level, is likely to be scored 1 for adaptation, but could be also scored 2 if adaptation to climate change was the
+main objective.
+
+Examples of qualifying activities
+Rationale for scoring
+
+Scoring in
+descending order of
+likelihood
+
+The list is not exhaustive. The activities may be scored
+against the objective only if the eligibility criteria are
+fulfilled.
+
+EDUCATION – 110
+All purpose codes in category 0, 1 or 2 0, 1 or 2 With careful environmental and climate assessment (e.g.
+110
+analysis of potential climate impacts and benefits), measures
+in this sector may be climate-related, and score 2 may even be
+appropriate for special mitigation- or adaptation-oriented
+5
+education programmes .
+Article 4.1(i) and Article 6 of the Convention address the issues
+of education, training and public awareness. Article 4.1(i)
+provides that all Parties “promote and cooperate in education,
+training and public awareness and encourage the widest
+participation … including that of non-governmental
+organisations”.
+5.
+
+Mitigation
+ Strengthening of quality of higher education on science
+and technology with a focus on renewable energy
+(mitigation score 1).
+ Off grid energy access for schools; sustainable school
+buildings (i.e. natural cooling etc.) (mitigation score 2 or 1).
+Mitigation and adaptation
+ Integration of environmental/climate education into
+school curricula (mitigation and/or adaptation score 2).
+
+Note that in CRS, sector specific education activities are to be included in the respective sectors, either in a specific education code such as agricultural education (31181) or in a
+general code such as communications policy/administrative management (22010).
+
+11
+
+Sector/CRS purpose codes
+
+Mitigation
+
+Adaptation
+
+Rationale for scoring
+
+Examples of qualifying activities
+
+HEALTH – 120
+POPULATION POLICIES/PROGRAMMES AND REPRODUCTIVE HEALTH – 130
+All purpose codes in categories
+120 & 130
+
+0 or 1
+
+0, 1 or 2 Mitigation
+Activities in the health sector that reduce greenhouse gas
+emissions can score 1.
+
+Mitigation
+ Activities in the health sector that use renewable energy
+to support improved air quality, such as solar panels to heat
+water in hospitals (mitigation score 1).
+ Energy efficient hospital infrastructure that leads to
+significant savings in energy consumption (mitigation score
+1).
+
+Adaptation
+Health activities can be scored against the adaptation marker
+if they aim or help to address the consequences of climate
+change in the health of the population. Score 2 may even be
+appropriate for special adaptation-oriented programmes.
+Adaptation
+ Health programmes to adapt to climate change, such as
+the implementation of measures to control heat stress or
+malaria in areas threatened by increased incidence of
+diseases due to climate change (adaptation score 1).
+ Strengthening food safety regulations, notably in terms
+of microbiological quality, avoidance of contact with pest
+species, in areas affected by higher temperatures
+(adaptation score 1).
+
+WATER AND SANITATION – 140
+Water sector policy and 0, 1 or 2 1, 2 or 0
+administrative management –
+14010
+Water supply and sanitation:
+large systems – 14020
+Water supply: large systems –
+14021
+Basic drinking water supply and
+basic sanitation – 14030
+Basic drinking water supply –
+14031
+Education and training in water
+supply and sanitation – 14081
+
+Mitigation
+Mitigation
+Activities in this sector can be scored against the mitigation  Energy-efficient water pumping systems, and/or
+marker if the provision of water and/or sanitation, for pumping systems powered by renewable energies
+example through the installation of new piping or pumping (mitigation score 1).
+equipment, aims or helps to achieve significant energy
+savings, as these processes are often associated to high Adaptation
+energy use.
+ Promoting water conservation in areas subject to
+increased water stress due to climate change (adaptation
+Adaptation
+score 2). Otherwise it can score 1 if the project is designed
+Activities can be scored against this marker if they aim or help to take into account climate change impacts.
+to address the expected changes or fluctuations in water  Improving the climate resilience of the water supply and
+supply as a consequence of climate change. Drinking water increasing storage to ensure access where climate change
+and sanitation infrastructure can be vulnerable to disruption adaptation is a main objective (adaptation score 2), or is
+
+12
+
+Sector/CRS purpose codes
+
+Sanitation-large systems
+14022
+Basic sanitation – 14032
+
+Mitigation
+
+Adaptation
+
+Rationale for scoring
+
+Examples of qualifying activities
+
+or destruction caused by flooding.
+In regions that face or are projected to face
+impacts/fluctuations in water availability and sanitation
+services due to climate change (e.g. water shortages due to
+drought or flooding, suboptimal functioning of sanitation
+facilities during floods), the following types of investments can
+score against adaptation:
+ investments in improving the climate resilience of the
+water supply and sanitation services,
+ investments in increasing storage to ensure access
+where climate change is expected to increase water
+stress and shortages.
+If the causal relationship is weak (e.g., a climate risk
+assessment shows that water supply is not affected by climate
+change in a region), the adaptation marker should not be
+assigned.
+
+part of broader initiatives to supply clean drinking water,
+which will also increase the resilience of the population to
+the effects of climate change (adaptation score 1).
+ Measures to design and deliver water and sanitation
+services which reduce vulnerability to floods of affected
+water and sanitation infrastructure (adaptation score 1 or
+2).
+
+Mitigation and adaptation
+Installation of systems that enable significant energy savings
+compared to older systems may qualify against both
+mitigation and adaptation markers as resource-efficient
+systems reduce emissions while building resilience.
+– 0, 1 or 2 1, 2 or 0 Mitigation
+Mitigation
+Activities that are designed to save a significant amount of  Introduction of energy-efficient pumps in the sewage
+energy (e.g., if energy efficient pumps are employed) and/or system of a city (mitigation score 1).
+to avoid methane gas emissions may justify a mitigation score
+1. If energy use/energy efficiency is the central focus of the Adaptation
+activity, mitigation score 2 may be justified.
+ Treatment of water resources with the introduction of
+recycled water (adaptation score 2)
+Adaptation
+ Wastewater management systems, or systems designed
+Wastewater management systems protect existing water to protect the quality and quantity of existing water
+resources and human health in the face of climate change. In resources in the face of climate change, e.g. through the
+regions at risk of increased water scarcity due to climate recycling of wastewater:
+change, such measures, if they provide significant positive
+o If the design explicitly takes into account climate
+effects for ground and/or surface water protection, can also
+change risk (adaptation score 2);
+
+13
+
+Sector/CRS purpose codes
+
+Mitigation
+
+Adaptation
+
+Rationale for scoring
+
+Examples of qualifying activities
+
+be considered having a climate change adaptation objective
+o If it does not, but builds additional resilience, in the
+(adaptation score 1 or 2), particularly if treated waste water is
+face of multiple hazards including climate change
+recycled.
+(adaptation score 1).
+Waste management /disposal – 2, 1 or 0 1 or 0 Mitigation
+Mitigation
+14050
+Activities that promote modern waste-to-energy with waste  Biogas production and reuse of energy produced by
+collection/recycling (especially separation of biogenic waste) wastewater facilities (mitigation score 2).
+and recovery/use of methane gas can result in significant GHG
+reductions and therefore justify the application of the Adaptation
+mitigation marker (mitigation score 2).
+ Project to reduce risks of urban flooding of water
+If the methane gas is only flared the activity would score 1 and systems due to climate change and causing contamination
+0 if not captured, as there are no emissions reductions though sewage overflow (adaptation score 1).
+involved.
+ Protect lagoons, which are highly vulnerable to climate
+change, from salt-water intrusion and contamination
+Adaptation
+(adaptation score 1).
+Effective waste management systems that protect water
+resources or fragile ecosystems and strengthen their resilience
+to the impacts of climate change can score against adaptation.
+Water resources conservation 1, 0 or 2 1, 2 or 0 Mitigation
+Mitigation
+(incl. data collection) –14015
+Water resources conservation involving the efficient use of  Protection and/or rehabilitation of water bodies,
+River basin’s development –
+energy or including forest preservation or other activities that swamps and wetlands as CO2 storage (mitigation score 1 or
+14040
+provide terrestrial carbon uptake benefits contribute to even 2 possible), related studies or research, e.g. limnology.
+mitigation and can therefore score 1. However, when the
+activity’s main purpose is mitigation, it is recommended to Adaptation
+reclassify it to the environment protection sector (category  Developing or enhancing systems for monitoring
+410).
+drinking water, in areas affected by higher temperatures,
+floods and rising sea level as a consequence of climate
+Adaptation
+change (adaptation score 1 or 2).
+Water resources conservation is particularly important for
+climate-resilience, especially if an assessment of climate Mitigation and adaptation
+change risks include water shortages or high fluctuations in  Water basin management involving forest protection /
+available water resources. In this specific case, adaptation reforestation for the purpose of reducing the severity of
+score 2 may be appropriate, otherwise adaptation is floods while increasing carbon uptake (mitigation score 1,
+considered as a secondary objective (adaptation score 1).
+adaptation score 2 if main objective).
+
+14
+
+Sector/CRS purpose codes
+
+Mitigation
+
+Rationale for scoring
+
+Adaptation
+
+Examples of qualifying activities
+
+Data collection measures that are carried out with the aim of
+contributing to the monitoring and detecting the
+meteorological and hydrological impacts of climate change
+and providing an evidence base for climate change risk
+assessment can be scored as 1 with the adaptation marker or
+even 2 if main objective.
+
+GOVERNMENT AND CIVIL SOCIETY – 150
+All purpose codes in category 0, 1 or 2 0, 1 or 2 Development programmes that integrate climate change
+150
+considerations or promote climate change action can score for
+mitigation and/or adaptation, if properly justified (score 1
+6
+most likely) .
+
+Mitigation
+ Development/preparation of low-carbon development
+strategies (mitigation score 2).
+Adaptation
+ Programme to build leadership and entrepreneurship
+for effective local action in health, agriculture and nutrition
+in a changing climate and environment (adaptation
+score 1).
+
+OTHER SOCIAL INFRASTRUCTURE AND SERVICES – 160
+All purpose codes in category 0,1 or 2
+160
+
+0, 1 or 2 Specific activities in the social infrastructure sector can include
+mitigation and adaptation measures. Activities can score
+against the mitigation marker if designed to reduce
+greenhouse gas emissions. For the adaptation marker,
+activities dedicated to climate proofing social infrastructure
+and services can be considered. Examples can be found more
+frequently in the health and education sectors.
+
+Mitigation
+ Implementation of Nationally Appropriated Mitigation
+Actions (NAMA) in low-carbon housing (mitigation score 2).
+Adaptation
+ Support of vulnerable people including women and
+children in areas vulnerable to the effects of climate change
+through promotion of climate resilient agriculture, food
+security and basic services (adaptation score 1 or 2).
+
+TRANSPORT AND STORAGE – 210
+Transport
+policy
+and 2, 1 or 0 0, 1 or 2
+administrative management –
+21010
+Storage – 21061
+Education and training in
+6.
+
+Mitigation
+Mitigation
+Activities targeted to supporting the development of transport  Non-motorised transportation planning to reduce GHG
+sector policy and planning can incorporate measures to emissions (cycling and walking) from transport (mitigation
+promote GHG emission reductions that are focused exclusively score 2).
+on traffic reduction through the development and/or  New infrastructure, capacity building and/or
+
+Development of climate change strategies should be coded under Environmental Policy and administrative management – 41010.
+
+15
+
+Sector/CRS purpose codes
+
+Mitigation
+
+Adaptation
+
+transport and storage – 21081
+
+Road transport –21020
+Rail transport –21030
+Water transport –21040
+Air transport- 21050
+
+Rationale for scoring
+
+Examples of qualifying activities
+
+integration of public transport and non-motorised improvements to existing systems (integrated traffic
+transportation pursues (mitigation score 2 or 1).
+management systems, driver training, etc.) that lead to
+significant reductions in GHG emissions (mitigation score 2).
+Adaptation
+ A transit-oriented development (TOD), a mixed-use
+Climate-proofing transport infrastructure as a requirement in residential and commercial area designed to maximize
+transport policies and strategies can be scored against the access to public transport, can contribute significantly to
+adaptation marker if properly justified.
+GHG reduction (mitigation score 1).
+
+1, 2 or 0
+
+0 or 1
+
+Adaptation
+ Inclusion of climate change considerations in transport
+planning (e.g. climate proofing of road construction to
+account for climate change impacts and variability)
+(adaptation score 1 or 2).
+Mitigation
+Mitigation
+An activity in the transport sector that aims at reducing GHG  Public transport with an objective to reduce GHG
+emissions will score 1 or 2 on the mitigation marker emissions (subway, light rail, bus rapid transit, trams, etc.)
+depending on the purpose of the project and the expected (mitigation score 1 or even 2 if the main objective is to
+reduction of GHG emissions. If the project does not intend to reduce GHG emissions).
+reduce GHG emissions the activity will score 0.
+ A measure to shift from road to rail or water
+transportation
+can
+significantly
+reduce
+GHGs
+Adaptation
+(mitigation score 1 or 2).
+If the measure significantly improves the resilience of  Optimisation of conventional and conversion to
+transportation routes to extreme weather events or gradual alternative engine technologies: energy efficiency and fuel
+changes in climate (e.g., sea level rise, rising temperatures), it switching has expected reduction of GHG emissions as
+is justified to score 1 against the adaptation marker.
+some of the main objectives (mitigation score 2).
+ Road building itself, however, does not entail relevant
+reduction of GHG emissions, even if the new road shortens
+transport routes, as new roads generate increased traffic
+(mitigation score 0) unless the road also promotes the use
+of climate-friendly transport (e.g., the construction of
+bicycle and bus lanes) (mitigation score 1).
+ Switching to electric mobility, hydrogen power, liquefied
+natural gas, and hybrid engines (mitigation score 2).
+
+16
+
+Sector/CRS purpose codes
+
+Mitigation
+
+Rationale for scoring
+
+Adaptation
+
+Examples of qualifying activities
+Adaptation
+ Improved access to roads all year round for population
+vulnerable to climate change impact (adaptation score 1).
+
+COMMUNICATIONS – 220
+All purpose codes in category 0, 1 or 2
+220
+
+0, 1 or2 Mitigation
+For a communications project to score mitigation 1 or 2, it
+would need to establish a link between the communications
+technology and mitigation.
+Adaptation
+A communications project could be scored 1 or 2 in adaptation
+if it consists in strengthening resilience of communication
+equipment.
+
+Mitigation
+ Promoting research in satellite information for climate
+modelling purposes (mitigation score 1).
+Adaptation
+ Identification of key national data centres at greatest
+risk of suffering damage from storms or floods, and
+enhancement of climate resilience of those sites
+(adaptation score 2).
+Mitigation and adaptation
+ Improvement of the meteorological radar system in
+order to improve the information on changes to land-use,
+land cover, forestry, water, etc. (adaptation and mitigation
+score 1, possibly score 2 for one marker).
+
+ENERGY GENERATION, DISTRIBUTION AND EFFICIENCY – 230
+Energy
+policy
+and 2, 1 or 0 0, 1 or 2
+administrative management –
+23110
+Energy education/training –
+23181
+Energy research – 23182
+
+Mitigation
+Mitigation
+Activities that develop/foster appropriate regulatory efforts to  Regulatory policy reform in the energy sector to take
+promote energy efficiency and renewable energy, including into account climate change mitigation efforts (mitigation
+climate change considerations, score against mitigation. score 2).
+However, activities in the energy sector, as for other sectors,
+do not score against mitigation “by default”, and in the event Adaptation
+that climate change is not taken into account, the scoring  Enhancing the capacity and regulatory capabilities of the
+would be 0.
+Regulatory Authority to deal with climate change impacts
+(adaptation score 2).
+ Supporting local authorities to improve security of their
+energy supply by designing resilient energy infrastructure
+(adaptation score 1).
+
+17
+
+Sector/CRS purpose codes
+
+Mitigation
+
+Energy
+conservation
+and
+demand-side efficiency – 23183
+
+2 or 1
+
+Adaptation
+
+Rationale for scoring
+
+Examples of qualifying activities
+
+0, 1 or 2 Mitigation
+Mitigation
+7
+The primary objective of energy efficiency measures is  Retrofit efficiency improvement in the energy sector
+normally to reduce greenhouse gas emissions, even if (mitigation score 2).
+simultaneous objectives also exist (e.g., security of supply,  Cogeneration (mitigation score 2 if substantially more
+reduced energy bills, productivity benefits and reduced efficient than separate generation).
+foreign exchange outflows and volatility linked to fossil fuel  Clean cook stoves (mitigation score 2).
+imports.).
+ Renewable energy power plant retrofits, improvements
+in energy efficiency in existing thermal plants (mitigation
+The following principles help determining whether an energy score 1).
+efficiency project qualifies for mitigation:
+ Fuel switching from one fuel to a different, less GHGintensive fuel type qualifies as mitigation (score 1 or 2) if a
+ The general principle for brownfield energy efficiency 8 net emission reduction can be demonstrated taking
+activities involving retrofitting or the substitution of extensions of capacity and lifetime of the facility into
+technologies or processes is that (i) the old technologies are account.
+substituted well before the end of their lifetime and the new  Combined heat and power plants: heat generation can
+technologies are more efficient, or (ii) new technologies or also be associated with energy efficiency if combined with
+processes are more efficient than those normally used in power generation.
+greenfield projects.
+Mitigation and adaptation
+ The general principle for greenfield energy efficiency
+ Clean cooking solutions that are less dependent on
+activities is that they prevent a long-term lock-in in GHGtraditional biomass are both relevant for mitigation and
+intensive infrastructure (urban, transport and power sector
+adaptation (making cooking food less dependent on climate
+infrastructure).
+vulnerable biomass resources) (mitigation score 2and
+adaptation score 1).
+Adaptation
+In some cases, energy efficiency measures in construction and  Efficiency in new construction (exceeding available
+retrofitting can also have climate change adaptation standards) and retrofitting of existing buildings, e.g.,
+objectives, e.g. to build resilience in the energy system in the improving the efficiency of air conditioning of hospitals in
+hot regions (mitigation score 1 and adaptation score 1).
+case of disaster event (adaptation score 1).
+
+7.
+
+Energy efficiency can be a relevant part of projects not only in the energy sector but in the industry, transport, construction, education sectors.
+
+8.
+
+“Brownfield” energy efficiency activities include those in already built environments (including industrial processes, energy generation facilities, water treatment plants, etc.).
+“Greenfield” energy efficiency activities imply the construction of new equipment/infrastructure.
+
+18
+
+Sector/CRS purpose codes
+
+Mitigation
+
+Adaptation
+
+Energy generation, renewable
+sources – 232
+
+2 or 1
+
+0 or 1
+
+Energy
+generation,
+renewable sources – 233
+
+non-
+
+0 or 1
+
+0
+
+Hybrid energy electric power
+plants – 23410
+
+1 or 0
+
+Heating, cooling and energy 2, 1 or 0
+distribution – 236
+
+Rationale for scoring
+
+Examples of qualifying activities
+
+Mitigation
+Mitigation
+The main objective of renewable energy production is typically  Wind energy, photovoltaic and concentrated solar
+to reduce GHG emissions through project development or the power (CSP), geothermal, biomass and biogas, ocean tide
+creation of enabling environments for the development and power score for mitigation (mitigation score 1 or 2 if main
+dissemination of the skills and technologies necessary to objective).
+expand renewable generation.
+ Hydropower (storage or run-of-the-river) only if net
+emission reductions can be demonstrated. (mitigation score
+The rationale for projects to qualify as mitigation is that, in the 1 or 2).
+absence of the renewable energy construction/rehabilitation,  Support to institutional framework in biofuels
+high GHG emitting energy sources would be used. Not only are (mitigation score 1).
+direct effects (e.g., observed emission reductions) taken into  Training in renewable energy (mitigation score 2).
+account, but also projected impacts on future emissions, i.e.,
+changes in future GHG emission trajectories compared to Adaptation
+reference case ("business as usual") scenarios.
+ New hydro-power activity that takes into account the
+impact of climate change on water resources and uses
+Adaptation
+modern engineering techniques (adaptation score 1).
+If specific measures take into account climate change impacts  Optimizing hydropower generation and dam safety in
+(and therefore aim at improving the resilience to climate), the the context of climate change vulnerability (adaptation
+activity can be scored against the adaptation marker.
+score 1).
+
+Mitigation
+Generally, thermal power plants’ objective is not to limit
+emissions of GHGs and they will therefore not comply with the
+eligibility criteria of the climate mitigation marker. However,
+there may be cases where energy efficiency aspects make
+projects eligible to be scored as climate change mitigation,
+where they involve reducing GHG emissions of an energy
+generation process.
+0
+Mitigation
+Hybrid power plants (i.e. blending a renewable source with a
+fossil fuel to reduce the emissions compared with a fossil fuelonly baseline) may score mitigation 1.
+0, 1 or 2 Mitigation
+In order for electric power transmission and distribution
+activities to qualify for the mitigation marker it is important to
+
+19
+
+Mitigation
+ Activities in which existing power plants switch to lower
+emitting fuels (e.g., switching from coal to natural gas)
+(mitigation score 1).
+
+Mitigation
+ Integration of renewable sources into local or national
+grid, or energy efficiency measures in grid retrofitting:
+
+Sector/CRS purpose codes
+
+Mitigation
+
+Adaptation
+
+Rationale for scoring
+
+Examples of qualifying activities
+
+ensure that the investment is not in energy-intensive
+technologies. The scoring is directly linked to the purpose of
+the activity, which will be different if designed to reduce GHG
+emissions and mitigate climate change as main objective, or if
+the measures are complementary to the primary objective of
+the activity. Note that:
+ Investments in network infrastructure can minimise
+power losses; therefore a mitigation score 1 can be assigned.
+ In countries/regions where network expansion also allows
+for the extension/connection of renewable energy, a
+mitigation marker score 2 can be applied. Investment in
+innovative/smart grid technologies pursues reduction of GHG
+as the main target since they create the infrastructure for the
+use of renewable energies or allow for efficiency gains/loss
+reduction; therefore a marker 2 can be applied.
+
+construction of new transmission/distribution lines,
+transformers, and substations, grid rehabilitation,
+deployment of innovative network technologies (mitigation
+score 1 or 2).
+ New ‘off-grid’ systems (typically integrating energy
+storage, management and appliances) - allowing delivery of
+renewable energy directly to houses, businesses and/or
+community services without integration with the grid (e.g.
+mini-grids, home systems) (mitigation score 1 or 2).
+ Rural electrification measures designed so that energyefficient technologies are employed or distributed
+(mitigation score 1). The reference scenario "use of diesel
+generators" could also be taken into account when
+considering the expected GHG impacts of the activity, and
+to inform the mitigation score.
+
+In the context of heat generation, heat-only plants that use
+renewable energy sources (including solar, geothermal,
+biomass, etc.) can score 2 for mitigation.
+
+Adaptation
+ Strengthening of energy transmission and distribution
+infrastructure if the main objective is to cope with the
+impacts of climate change (adaptation score 2).
+ Energy access through rural electrification which
+enables early warning systems to be heard/received,
+information to be attained/communicated; electrical power
+increases ability to store harvests, to refrigerate medicines,
+study at night, more efficient irrigation technology – etc.
+(adaptation score 1).
+
+Adaptation
+If the design of modern networks is expected to increase the
+security of supply in case of extreme weather events caused
+by climate change and based on a context/vulnerability
+assessment, then the adaptation score 1 can be justified.
+
+BANKING AND FINANCIAL SERVICES – 240
+All purpose codes in category 0,1 or 2
+240
+
+9.
+
+9
+
+0,1 or 2 Credit lines (or other financial products in support of the Mitigation
+finance sector) specifically designed for the development of  Dedicated credit lines to finance renewable energy
+renewable energy, the support of low-carbon investments, investments (mitigation score 2).
+energy efficiency or climate adaptation qualify for the climate  Promotion of Micro, Small and Medium Enterprises’
+
+In the CRS, depending on main focus, credit lines in support of the finance sector specifically designed for the development of renewable energy or for energy savings may be
+recorded under the energy sector (230).
+
+20
+
+Sector/CRS purpose codes
+
+Mitigation
+
+Adaptation
+
+Rationale for scoring
+
+Examples of qualifying activities
+
+markers (the marking and score dependent on the
+prominence of mitigation and/or adaptation in investment
+criteria for the credit lines).
+
+energy saving efforts through providing medium-term and
+long-term funds for energy conservation measures and
+raising awareness of energy saving via local development
+financial institutions (mitigation score 1 or 2).
+Adaptation
+ Climate insurance fund to facilitate the adaptation to
+climate change for businesses and households through
+better access to adequate insurance solutions (adaptation
+score 2).
+ Creation of infrastructure and hubs that would support
+improved business continuity during and after extreme
+weather events (adaptation score 1).
+
+BUSINESS AND OTHER SERVICES – 250
+All purpose codes in category 1, 0 or 2
+250
+
+1, 2 or 0 Support to the mainstreaming of climate change Mitigation
+considerations in businesses and services can be scored  Finance measures in the field of climate protection for
+against adaptation or mitigation marker.
+preparing and supporting private investment on a publicprivate partnership basis (PPP). (mitigation score 2).
+Mitigation
+Activities including the provision of advice to business in Adaptation
+greening their practices or incentives for private sector to  Tools to strengthen the capacity of the private sector for
+include climate change concepts in their strategies or guide climate change (adaptation score 1 or 2).
+their investment can score mitigation 1.
+ Linking initiatives, stakeholders and knowledge for
+If the main objective is to implement projects to reduce GHG climate resilient livelihood security including vulnerability to
+emissions, then it can be scored against mitigation 2.
+climate change (adaptation score 1).
+Adaptation
+Business and services can contribute to climate change
+adaptation in a number of ways e.g. by diversifying income
+opportunities for communities that cannot continue their
+traditional way of life as a result of climate change but also by
+supporting the development, distribution or adoption of new
+technologies to better deal with climate change.
+
+21
+
+Sector/CRS purpose codes
+
+Mitigation
+
+Adaptation
+
+Rationale for scoring
+
+Examples of qualifying activities
+
+AGRICULTURE - 311
+All purpose codes in category 0, 1 or 2 1, 2 or 0 Mitigation
+311
+Scoring against mitigation may be justified when farming
+methods decrease GHG emissions or increase carbon
+sequestration.
+Adaptation
+Agricultural development measures can, in many ways,
+increase resilience to the impacts of climate change, through
+the use of climate-resilient crops or diversifying production to
+be able to better cope with the impacts of climate change.
+
+Mitigation:
+ Livestock projects that reduce methane or other GHG
+emissions (manure management with biodigestors, etc.)
+(mitigation score 1).
+ Increase and maintenance of the CO2-binding capacity
+of soil and vegetation (mitigation score 1).
+ Use of energy saving machineries, design of ecoefficient, carbon neutral systems etc. (mitigation score 2).
+Adaptation
+ Sustainable
+climate-resilient
+farming
+methods
+(adaptation score 2).
+ Promoting diversified agricultural production to reduce
+climate risk (e.g. growing a mix of different crops and
+different varieties of each crop) (adaptation score 1 or 2).
+ Promoting heat and drought resistant crops and water
+saving irrigation methods to withstand climate change
+(adaptation score 2).
+ Cultivate and distribute climate-resilient seeds
+(adaptation score 2).
+ Set up/use of early warning communications system for
+agricultural purposes (e.g. communications/IT solutions for
+monitoring crops, precipitation, temperature etc. to avoid
+crop loss through climate-related stress or disaster)
+(adaptation score 1 or 2).
+
+FORESTRY – 312
+All purpose codes in category 2, 1 or 0 0, 1 or 2 Mitigation
+312
+In the case of a monocrop forest plantation with important
+economic and social benefits, scoring against mitigation will
+depend on how the trees grown are utilised after they are cut.
+If they are used for energy production (i.e. turned into
+charcoal for fuel) there are no net carbon sequestration
+benefits (mitigation score 0), unless cleared areas are
+
+22
+
+Mitigation
+ Protection and enhancement of sinks and reservoirs of
+GHGs
+through
+sustainable
+forest
+management,
+afforestation and reforestation (mitigation score 2),
+rehabilitation of areas affected by drought and
+desertification. (mitigation score 1 or 2 if main objective).
+
+Sector/CRS purpose codes
+
+Mitigation
+
+Adaptation
+
+Rationale for scoring
+
+Examples of qualifying activities
+
+systematically replanted (mitigation score 1 for sustainable
+biomass production, or even 2 if sustainably managed wood
+fuel plantations demonstrably reduce pressure on natural
+forests).
+
+Adaptation
+ Restoration of former forest areas utilising natural seed
+banks and existing plants, in order to reduce vulnerability of
+forest ecosystems to the impacts of climate change
+(adaptation score 2).
+ Promoting sustainable forest management and adopting
+harvesting techniques that reduce soil erosion and
+exposure to wildfires, and promote the conservation of
+biodiversity in order to safeguard forest ecosystems from
+the impacts of climate change (adaptation score 2).
+ Afforestation in a river basin can contribute to a more
+stable hydrologic regime and to reduce floods (adaptation
+score 2 or 1).
+
+Adaptation
+Improved forest management and reforestation/afforestation
+can enhance adaptation capacities. Specific activities that fulfil
+the eligibility requirements can score against the adaptation
+markers.
+Mitigation and adaptation
+There are various mitigation and adaptation effects for
+forestry/afforestation measures which usually result in a
+combination of both climate markers (but scoring both
+mitigation and adaptation as a principal objective should
+remain exceptional).
+Since forest has a particularly important role in CO2 storage,
+there is usually more emphasis on GHG reduction for these
+activities, but they can support adaptation (e.g. resilient
+forest-based livelihoods, reduced soil erosion).
+
+FISHING - 313
+All purpose codes in category
+313
+
+0 or 1
+
+0,1 or 2 Mitigation
+A score of 1 can be justified if the activity scored has a clear
+mitigation objective to reduce GHG emissions.
+Adaptation
+Fishing is a critical sector for many economies, including small
+island states. If the objective is to improve the conditions of
+the sector by increasing its resilience to climate change it can
+be marked as adaptation 1 or 2, if properly justified and the
+information regarding the context of vulnerability is available.
+
+23
+
+Mitigation
+ A project that supports the use of more fuel-efficient
+boats, made with innovative material and hull shape, and
+equipped with more efficient engines and storage capacity
+to reduce the consumption of fuel can score 1 in mitigation.
+Adaptation
+ Promoting changes in fishing practices to adapt to
+changes in stocks and target species. Introducing flexibility
+in the gear that is used, the species that are fished, the
+fishing areas to be managed, and the allocations that are
+
+Sector/CRS purpose codes
+
+Mitigation
+
+Adaptation
+
+Rationale for scoring
+
+Examples of qualifying activities
+harvested (adaptation score 1).
+ Mapping changes in the range of fish species and
+strengthening the monitoring of fish stocks to determine
+the impacts of climate change (adaptation score 2).
+Mitigation and adaptation
+ Activities that aim at reducing overfishing and excess
+capacity, including adjusting fleet composition, by
+supporting small-scale fisheries and discouraging industrial
+fisheries, especially in countries where fish stocks have
+been fully or partially overexploited, can score both for
+adaptation and mitigation marker. Such measures would
+reduce fuel use as a result of the reduction in the number
+of vessels at sea and increase the catch per unit effort
+(CPUE) (mitigation score 1).
+
+INDUSTRY – 321
+All purpose codes in category 0, 1 or 2 0, 1 or 2 Inclusive and sustainable industries can be marked as
+321
+mitigation or adaptation.
+Mitigation
+For mitigation, changes in the demand patterns influence the
+resource chain and have impacts on GHG emissions.
+Improvements in processes and cleaner production (e.g.
+cement, chemicals) can bring mitigation benefits. A mitigation
+marker score 1 can be applied to relevant improvements in
+the production methods to reduce emission of GHG emissions.
+Adaptation
+Activities designed to include considerations of climate change
+impacts, like design of climate-resilient equipment, can be
+scored against the adaptation marker with score 1, or even 2
+depending on the purpose of the activity.
+
+24
+
+Mitigation
+ Promotion of adoption of energy-efficiency standards
+and other environmental standards expected to reduce
+GHG emissions as part of trade-related assistance
+(mitigation score 1 if a sufficiently prominent objective).
+Adaptation
+ Retrofitting of industrial facilities to enhance resilience
+to climate-related risks (adaptation score 1).
+ Switching to less water consuming production
+technologies reduces vulnerability against water shortage
+(adaptation score 1).
+
+Sector/CRS purpose codes
+
+Mitigation
+
+Adaptation
+
+Rationale for scoring
+
+Examples of qualifying activities
+
+Mitigation
+Improvements in energy efficiency of mining industry and the
+use of renewable energy as power source could be scored
+against the mitigation marker if properly justified.
+
+Mitigation
+ Improvement of energy efficiency measures in mining
+process (mitigation score 1).
+
+MINERAL RESOURCES AND MINING – 322
+All purpose codes in category 0 or 1
+322
+
+0 or 1
+
+Adaptation
+Climate change considerations in the improved design of
+mining activities could be scored against the adaptation
+marker if properly justified.
+
+Adaptation
+ Analytical studies or capacity building to improve
+climate resilience of mining industries (adaptation score 1).
+ Changes in the design of open pit mines to adapt to
+flooding due to increased precipitation can be scored
+against adaptation (adaptation score 1).
+
+CONSTRUCTION – 323
+All purpose codes in category 0, 1 or 2 0, 1 or 2 Construction sector policy and planning. If the activity is in a
+323
+specific sector it should be assigned to the sector (e.g.
+hospitals in health or schools in education).
+Mitigation
+Improvements in regulation and professional practice to
+include energy efficiency measures, passive design and choice
+of low carbon materials (such as sustainably sourced timber
+and low carbon cement) in buildings could qualify as
+mitigation activities.
+Adaptation
+Inclusion of resilience concepts in the construction process
+could be marked as adaptation.
+
+Mitigation
+ Promotion of energy-efficient building techniques,
+development and enforcement of related standards and
+certification schemes (mitigation score 2).
+ Programme of activities (PoA) in energy efficiency in the
+construction sector (mitigation score 2).
+Adaptation
+ More robust building regulations and improved
+enforcement practices when there is a shift in zones
+affected by typhoons/ hurricanes/storm surges (adaptation
+score 2).
+
+TRADE – 331
+All purpose codes in category 0 or 1
+331
+
+0, 1 or 2 Trade can be disrupted by climate-related disasters and
+therefore can be subject to activities that are focused on
+mitigating the causes of climate change or adapting to the
+effects of it.
+
+25
+
+Mitigation
+ Development of carbon market mechanisms for
+developing countries in the context of climate conventions
+(mitigation score 1).
+
+Sector/CRS purpose codes
+
+Mitigation
+
+Adaptation
+
+Rationale for scoring
+
+Examples of qualifying activities
+Adaptation
+ Assessment of climate change impacts and damages on
+trade and economic growth (adaptation score 2).
+
+TOURISM – 332
+All purpose codes in category 0, 1 or 2 0, 1 or 2 Tourism activities that foster sustainable development Mitigation
+332
+practices that incorporate mitigation and/or adaptation  Sustainable tourism development by introducing zeroconcepts qualify as mitigation or adaptation. The objective carbon business solutions, e.g. zero-carbon resorts, touristic
+should clearly state the impacts of climate change in the products etc. (mitigation score 2).
+modified activity.
+ Contributing to conservation of tourist attractions that
+reduce GHG emissions, e.g. forests, national parks
+(mitigation score 1).
+Adaptation
+ Diversification of tourist attractions to encompass areas
+less prone to the risks and impacts of climate change
+(adaptation score 2).
+ Promotion of eco-tourism as part of a strategy to
+maintain the resilience of natural ecosystems while
+diversifying rural livelihoods (adaptation score 1 or 2).
+
+GENERAL ENVIRONMENTAL PROTECTION – 410
+Environmental
+Policy
+and 2, 1 or 0 2, 1 or 0 Institutional reforms and strengthening to include climate Mitigation:
+administrative management –
+aspects in policies and regulations (such as national and  Preparation of national inventories of greenhouse gases
+41010
+subnational climate change strategies and planning) can score (emissions by sources and removals by sinks) (mitigation
+against mitigation or adaptation.
+score 2).
+ Elaboration of climate change-related policy and
+economic analysis and instruments, including national plans
+to mitigate climate change (mitigation score 2).
+ Climate technology needs’ surveys and assessments;
+institutional capacity building (mitigation score 1 or 2).
+Adaptation:
+ Development and implementation of adaptation
+strategies at national level or in the context of decentralisation programmes (adaptation score 2).
+
+26
+
+Sector/CRS purpose codes
+
+Biosphere protection – 41020
+Biodiversity – 41030
+
+Flood
+41050
+
+prevention/control
+
+Mitigation
+
+Adaptation
+
+Rationale for scoring
+
+Examples of qualifying activities
+
+ Supporting the integration of climate change adaptation
+into national and international policy, plans and
+programmes (adaptation score 2).
+ Improving regulations and legislation to provide
+incentives to adapt (adaptation score 1 or 2).
+ Dedicated budget support to a national or local
+authorities for climate change adaptation policy
+implementation (adaptation score 2)
+1, 2 or 0 1, 2 or 0 There are various mitigation and adaptation effects for this Mitigation:
+topic which usually result in a combination of both climate  Preservation of the CO2 storage capacity of vegetation
+markers (but scoring both mitigation and adaptation as a cover (especially forests) and soil (especially wetlands)
+principal objective should remain exceptional).
+(mitigation score 1 or 2).
+ Protection and enhancement of sinks and reservoirs
+through sustainable management and conservation of
+oceans and other marine and coastal ecosystems, wetlands,
+wilderness areas and other ecosystems (mitigation score 1
+or 2).
+
+– 0 or 1
+
+2 or 1
+
+Adaptation:
+ Contribution to the preservation of water resources or
+erosion prevention to adapt to the effects of climate
+change (adaptation score 1).
+ Climate resilient conservation measures allowing
+species to adapt to climate change (e.g., protected ecocorridors for migration) (adaptation score 2).
+ Ecosystem based adaptation, i.e. the use of ecosystems
+or ecosystem services to help people to adapt to climate
+change (e.g. wetland restoration and management to
+enhance continuity of drinking water supply in drought
+prone areas) (adaptation score 2).
+Mitigation
+Mitigation
+In specific cases where flood prevention and control measures  Flood protection measures that reduce the
+include GHG emission reductions, the activity could score 1 for consumption of energy and reduce GHG emissions
+mitigation if properly justified.
+(mitigation score 1).
+
+27
+
+Sector/CRS purpose codes
+
+Environmental
+education/training – 41081
+Environmental
+research
+41082
+
+Mitigation
+
+Adaptation
+
+Rationale for scoring
+
+Examples of qualifying activities
+
+Adaptation
+Flood and coastal protection, as well as drainage measures
+often directly relate to the impacts of climate change
+(adaptation score 2). For measures not primarily employed for
+adaptation to the impacts of climate change, or measures that
+are only part of larger measures, adaptation score 1 is
+appropriate.
+
+Adaptation
+ Flood protection measures in areas which are becoming
+increasingly flood-sensitive (e.g. closing of estuaries,
+building of dikes and sea defences, restoration of wetlands)
+– with due consideration for the potential environmental
+impacts of such measures (adaptation score 2 or 1).
+ Restoring the function of floodplains in combination
+with sound land-use planning of watersheds and wetlands
+thereby reducing the exposure to floods and improving
+water availability in areas affected by increasing water
+scarcity and/or more variable rainfall patterns (including
+higher amounts of rain) (adaptation score 2).
+
+2, 1 or 0 2, 1 or 0 Mitigation and adaptation
+Mitigation:
+Activities that are focused on providing training for climate  Climate-change-mitigation related research and
+–
+change adaptation and mitigation can score 1 or 2 against monitoring. Oceanographic and atmospheric research and
+adaptation and mitigation markers.
+monitoring (mitigation score 2).
+Adaptation:
+ Adaptation-related
+climate
+research
+including
+meteorological and hydrological observation and
+forecasting, impact and vulnerability assessments, etc.
+(adaptation score 2).
+Mitigation and adaptation
+ Education, training and public awareness related to
+climate change, the causes and impacts of climate change
+and the role of adaptation (mitigation and adaptation
+score 2).
+
+OTHER MULTISECTOR – 430
+Urban
+development
+management – 43030
+
+and 1, 2 or 0 1, 2 or 0 Urban development activities often address environmental Mitigation:
+and climate issues.
+ Energy efficiency planning in cities (mitigation score 2).
+
+28
+
+Sector/CRS purpose codes
+
+Mitigation
+
+Adaptation
+
+Rationale for scoring
+
+Examples of qualifying activities
+
+Mitigation
+If reduction aspects are at the centre of a measure (e.g., public
+transport development and more efficient service delivery
+through compact town planning), mitigation gets scored 2
+while adaptation is likely to score 0.
+
+Adaptation:
+ Support to development of climate action plans with
+vulnerability assessments in cities (adaptation score 2).
+
+Adaptation
+If the issue of adaptation to climate change is central to a
+measure's purpose (e.g., ecological measures counteracting
+overheating in urban areas) adaptation gets scored 2 and
+mitigation is likely to score 0.
+
+Rural development – 43040
+
+1 or 0
+
+Mitigation and adaptation
+In many cases, sustainable urban development is equally
+beneficial to both strands (mitigation score 1 and adaptation
+score 1).
+When urban development activities do not address climate
+aspects as a priority (e.g., activities that are dedicated
+primarily to improving the lives of slum dwellers), the content
+of the activity determines whether climate is a secondary
+objective.
+1, 0 or 2 Mitigation
+Mitigation:
+A rural development project can score 1 against the mitigation  Securing land and use rights in order to avoid changes in
+marker if there are measures put into place to reduce the land use that could lead to increased emissions of GHG,
+emissions of GHG.
+contribution to sustainable long-term land-use planning,
+reducing emissions from land use and changes in land use
+Adaptation
+(mitigation score 1).
+Activities that include measures to increase resilience of
+population or ecosystems in rural areas to climate change can Adaptation:
+score 1 if properly justified, taking into account the context of  Sustainable agriculture for adaptation to climate change
+vulnerability.
+in vulnerable regions, sustainable regional development in
+rural drought areas (adaptation score 2).
+Mitigation and adaptation
+Regional development planning, land use issues, land
+management, and many additional aspects of rural
+
+29
+
+Sector/CRS purpose codes
+
+Research
+and
+institutions – 43082
+
+Mitigation
+
+Rationale for scoring
+
+Adaptation
+
+Examples of qualifying activities
+
+development offer a variety of approaches to integrate GHG
+mitigation and climate change adaptation.
+For land use and land management measures, especially
+protection of forest or wetlands, mitigation may be of primary
+significance (mitigation score 1 or 2 while adaptation may
+score 0).
+scientific
+Scoring depends on the thematic focus of the funded
+0, 1 or 2 0, 1 or 2
+organisations and all scoring combinations are thus possible.
+
+GENERAL BUDGET SUPPORT – 510
+General budget support (GBS) is by definition un-earmarked and is excluded from marking (see paragraph 5). Sector budget support can be marked. However,
+possible options for qualifying GBS flows in terms of their degree of focus on the Rio conventions could be pursued: a number of partner countries are developing
+climate-specific budget codes/tagging; as a result monitoring the recipient country’s domestic expenditure on climate activities and possibly other environmental
+aspects could be possible.10
+DEVELOPMENTAL FOOD AID/FOOD SECURITY ASSISTANCE – 520
+Food aid/food security
+programmes – 52010
+
+0
+
+0, 1 or 2 Adaptation
+Activities in the area of food security can be scored against the
+adaptation marker if the objectives of the project explicitly
+include the building of climate resilience in food production.
+
+Adaptation
+ A programme addressing food insecurity which also
+builds capacity to cope with the impacts of climate change
+on food production could be marked as significant
+(adaptation score 1).
+
+DEBT – 600
+Excluded from marking (see paragraph 5) except for debt swaps which can be specifically targeted to environmental purposes.
+
+HUMANITARIAN AID – 700
+Emergency response – 720
+
+10.
+
+0 or 1
+
+0 or 1
+
+In the case of a situation which results from natural disasters,
+the short term response to support the affected population
+can score mitigation or adaptation 1 if designed with a clear
+link to climate change in terms of GHG emission reductions or
+improvement of adaptive capacity and resilience.
+
+Mitigation
+ Provision of solar lights for use during emergency
+responses (mitigation score 1).
+
+Members are currently not required to indicate the Rio/environment focus of GBS data. There may be rationale to revisit this however, in recognition of the 2011 Busan
+commitments on effective development co-operation to increase the use of country systems. Going forward, possible options for qualifying these flows in terms of their degree of
+focus could be pursued using a more refined methodology. Options include: i) Reviews of GBS donor co-ordination groups in recipient countries: these reviews could provide
+information on the content of policy dialogue that accompanies GBS and report on the specific measures taken to address biodiversity/climate/desertification/environment-related
+objectives, and ii) Monitoring of the recipient country’s domestic expenditure on biodiversity/climate/desertification/environment-related activities.
+
+30
+
+Sector/CRS purpose codes
+
+Mitigation
+
+Reconstruction
+relief
+rehabilitation – 73010
+
+and 0 or 1
+
+Disaster
+prevention
+preparedness – 74010
+
+and 0 or 1
+
+11.
+
+Adaptation
+
+Rationale for scoring
+
+Examples of qualifying activities
+
+0, 1 or 2 Mitigation
+Mitigation
+Restoration of services or repairing of infrastructure with the  Review and assess the adequacy of current
+incorporation of low carbon technologies (such as efficient environmental management practices on a range of
+batteries, solar panels for heating water or electricity) could humanitarian activities (mitigation score 1).
+be marked as mitigation.
+Adaptation
+Adaptation
+ Activity to support the early recovery and
+In the aftermath of a natural disaster caused or hardened by reconstruction as well as establishment of resilient society /
+climate change, the improvement of capabilities to cope with community (“build-back better”) in disaster-affected areas
+natural disasters caused by climate change can be marked as (adaptation score 1 or 2).
+adaptation,
+1, 2 or 0 Mitigation
+Mitigation
+Activities that include the provision of services/tools to be  Provision of solar lights in anticipation for a disaster
+better prepared in case of occurrence of a disaster can qualify impacted by climate change (mitigation score 1).
+to score 1 in mitigation if they lead to significant GHG emission
+reductions.
+Adaptation
+ Developing emergency prevention and preparedness
+Adaptation
+measures including insurance schemes to cope with
+Activities that aim at reducing the vulnerability (or potential climatic disasters such as floods or landslides
+strengthening the resilience) of the population, the economy, (adaptation score 2).
+and its infrastructure against the short-term negative  Support to Civil Protection Team to improve their
+consequences of climate change related disasters can score 1 information on climate change impacts through the use of
+or 2 against the adaptation marker, depending on the purpose satellite-based maps in the preparation of event scenarios
+of the activity (adaptation score 1 is appropriate if the and rescue plans after the heavy monsoon rains that
+measure is not directly aimed at adapting to climate change, caused floods (adaptation score 1).
+but still significantly contributes to it).
+ Developing emergency preparedness plans and disaster
+risk reduction strategies in order to protect key
+11
+Climate risk management which consists in preventing and infrastructure assets from the impacts of climate change;
+dealing with long-term loss and damage resulting from climate this includes setting up early warning systems, addressing
+change (e.g., impacts of sea level rise) qualifies for adaptation governance
+issues
+and
+promoting
+awareness
+score 2.
+(adaptation score 2).
+ Promoting disaster preparedness and the links to
+
+Note the risk of confusion with terms when climate risk management is referred to as climate risk “mitigation”; the latter can be misinterpreted as “mitigation” instead of
+“adaptation” related.
+
+31
+
+Sector/CRS purpose codes
+
+Mitigation
+
+Adaptation
+
+Rationale for scoring
+
+Examples of qualifying activities
+climate change adaptation at various levels of government
+as well as at community level (adaptation score 2).
+ Social protection for climate disasters: e.g. as part of a
+pre-disaster preparedness programme which seeks to build
+resilience to potential future climate related disasters,
+having a social protection scheme in place to enable
+emergency cash transfers to happen when a flood/storm
+strikes – means poorest people don’t need to sell down
+their assets in the immediate aftermath of a disaster
+(adaptation score 1 or 2 if main objective).
+
+ADMINISTRATIVE COSTS – 910
+Excluded from marking (see Converged Statistical Reporting Directives, Annex 18, paragraph 5).
+
+REFUGEES IN DONOR COUNTRIES – 930
+Excluded from marking (see Converged Statistical Reporting Directives, Annex 18, paragraph 5).
+
+UNALLOCATED – 998
+
+32
+
+http://oe.cd/RioMarkers
+
+

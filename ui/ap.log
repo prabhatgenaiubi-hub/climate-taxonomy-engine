@@ -1,0 +1,1814 @@
+2025-07-22 01:51:57,694 - DEBUG - pydot initializing
+2025-07-22 01:51:57,694 - DEBUG - pydot 4.0.1
+2025-07-22 01:51:57,699 - DEBUG - pydot core module initializing
+2025-07-22 01:52:21,825 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 01:52:21,828 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-22 01:52:22,207 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 01:52:22,257 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 01:52:22,514 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-22 01:52:22,522 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-22 01:52:22,770 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-22 01:52:22,822 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-22 01:52:23,077 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 01:52:23,128 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 01:52:23,384 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-22 01:52:23,435 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-22 01:52:24,036 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-22 01:52:24,053 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-22 01:52:25,483 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-22 01:52:25,534 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-22 01:52:25,791 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-22 01:52:26,098 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-22 01:52:26,354 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-22 01:52:26,362 - DEBUG - Environment variable FAISS_OPT_LEVEL is not set, so let's pick the instruction set according to the current CPU
+2025-07-22 01:52:26,363 - INFO - Loading faiss with AVX2 support.
+2025-07-22 01:52:26,441 - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-22 01:52:26,449 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-22 01:52:31,696 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-22 01:53:13,863 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 01:53:13,865 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-22 01:53:14,177 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 01:53:14,228 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 01:53:14,484 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-22 01:53:14,535 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-22 01:53:14,792 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-22 01:53:14,843 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-22 01:53:15,098 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 01:53:15,150 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 01:53:15,457 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-22 01:53:15,509 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-22 01:53:15,737 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-22 01:53:15,765 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-22 01:53:16,072 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-22 01:53:16,123 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-22 01:53:16,379 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-22 01:53:16,738 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-22 01:53:16,994 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-22 01:53:21,750 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-22 01:55:04,346 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 01:55:04,350 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-22 01:55:04,774 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 01:55:04,790 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 01:55:05,031 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-22 01:55:05,081 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-22 01:55:05,339 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-22 01:55:05,389 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-22 01:55:05,645 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 01:55:05,696 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 01:55:05,952 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-22 01:55:06,004 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-22 01:55:06,259 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-22 01:55:06,278 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-22 01:55:06,567 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-22 01:55:06,618 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-22 01:55:06,837 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-22 01:55:07,133 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-22 01:55:07,387 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-22 01:55:11,605 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-22 01:55:43,112 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 01:55:43,113 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-22 01:55:43,535 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 01:55:43,588 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 01:55:43,841 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-22 01:55:43,894 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-22 01:55:44,508 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-22 01:55:44,559 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-22 01:55:44,815 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 01:55:44,866 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 01:55:45,122 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-22 01:55:45,173 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-22 01:55:45,429 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-22 01:55:45,473 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-22 01:55:45,787 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-22 01:55:45,797 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-22 01:55:46,044 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-22 01:55:46,710 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-22 01:55:46,966 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-22 01:55:50,545 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-22 02:01:30,192 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 02:01:30,194 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-22 02:01:30,586 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 02:01:30,638 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 02:01:30,893 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-22 02:01:30,945 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-22 02:01:31,200 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-22 02:01:31,252 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-22 02:01:31,508 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 02:01:31,559 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 02:01:31,815 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-22 02:01:31,866 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-22 02:01:32,122 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-22 02:01:32,173 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-22 02:01:32,480 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-22 02:01:32,531 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-22 02:01:32,788 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-22 02:01:33,094 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-22 02:01:33,402 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-22 02:01:38,945 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-22 02:02:17,608 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 02:02:17,610 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-22 02:02:17,948 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 02:02:17,961 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 02:02:18,204 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-22 02:02:18,251 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-22 02:02:18,513 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-22 02:02:18,562 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-22 02:02:18,798 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 02:02:18,818 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 02:02:19,075 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-22 02:02:19,125 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-22 02:02:19,382 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-22 02:02:19,396 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-22 02:02:19,690 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-22 02:02:19,741 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-22 02:02:19,996 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-22 02:02:20,307 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-22 02:02:20,560 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-22 02:02:25,413 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-22 02:06:24,479 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 02:06:24,494 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-22 02:06:24,898 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 02:06:24,951 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 02:06:25,257 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-22 02:06:25,304 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-22 02:06:25,564 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-22 02:06:25,615 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-22 02:06:25,872 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 02:06:25,901 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 02:06:26,127 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-22 02:06:26,178 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-22 02:06:26,435 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-22 02:06:26,486 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-22 02:06:26,794 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-22 02:06:26,844 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-22 02:06:27,101 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-22 02:06:27,408 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-22 02:06:27,664 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-22 02:06:33,253 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-22 02:06:57,124 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 02:06:57,126 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-22 02:06:57,412 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 02:06:57,447 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 02:06:57,718 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-22 02:06:57,770 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-22 02:06:58,027 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-22 02:06:58,042 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-22 02:06:58,282 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 02:06:58,334 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 02:06:58,590 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-22 02:06:58,641 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-22 02:06:58,897 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-22 02:06:58,948 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-22 02:06:59,256 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-22 02:06:59,267 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-22 02:06:59,601 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-22 02:07:00,031 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-22 02:07:00,473 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-22 02:07:05,332 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-22 02:15:14,836 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 02:15:14,842 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-22 02:15:15,206 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 02:15:15,255 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 02:15:15,511 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-22 02:15:15,562 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-22 02:15:15,818 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-22 02:15:15,869 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-22 02:15:16,156 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 02:15:16,176 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 02:15:16,433 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-22 02:15:16,456 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-22 02:15:16,724 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-22 02:15:16,738 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-22 02:15:17,417 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-22 02:15:17,456 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-22 02:15:17,712 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-22 02:15:18,020 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-22 02:15:18,276 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-22 02:15:23,931 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-22 02:20:38,660 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 02:20:38,662 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-22 02:20:39,070 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 02:20:39,162 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 02:20:39,419 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-22 02:20:39,470 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-22 02:20:39,726 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-22 02:20:39,776 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-22 02:20:40,033 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 02:20:40,084 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 02:20:40,300 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-22 02:20:40,312 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-22 02:20:40,544 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-22 02:20:40,595 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-22 02:20:40,903 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-22 02:20:40,954 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-22 02:20:41,210 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-22 02:20:41,518 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-22 02:20:41,774 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-22 02:20:47,284 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-22 02:27:15,865 - DEBUG - pydot initializing
+2025-07-22 02:27:15,865 - DEBUG - pydot 4.0.1
+2025-07-22 02:27:15,873 - DEBUG - pydot core module initializing
+2025-07-22 02:27:36,676 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 02:27:36,680 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-22 02:27:37,948 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 02:27:37,969 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 02:27:38,204 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-22 02:27:38,239 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-22 02:27:38,458 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-22 02:27:38,468 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-22 02:27:38,716 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 02:27:38,734 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 02:27:38,952 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-22 02:27:38,973 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-22 02:27:39,227 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-22 02:27:39,279 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-22 02:27:40,866 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-22 02:27:40,918 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-22 02:27:41,174 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-22 02:27:41,481 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-22 02:27:41,736 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-22 02:27:41,747 - DEBUG - Environment variable FAISS_OPT_LEVEL is not set, so let's pick the instruction set according to the current CPU
+2025-07-22 02:27:41,749 - INFO - Loading faiss with AVX2 support.
+2025-07-22 02:27:41,838 - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-22 02:27:41,848 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-22 02:27:47,251 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-22 02:28:12,531 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 02:28:12,533 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-22 02:28:13,022 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 02:28:13,072 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 02:28:13,374 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-22 02:28:13,431 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-22 02:28:13,687 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-22 02:28:13,738 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-22 02:28:13,994 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 02:28:14,045 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 02:28:14,301 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-22 02:28:14,352 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-22 02:28:14,608 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-22 02:28:14,659 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-22 02:28:14,916 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-22 02:28:14,925 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-22 02:28:15,582 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-22 02:28:15,889 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-22 02:28:16,121 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-22 02:28:21,070 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-22 02:28:44,458 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 02:28:44,460 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-22 02:28:44,824 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 02:28:44,834 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 02:28:45,076 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-22 02:28:45,086 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-22 02:28:45,330 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-22 02:28:45,342 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-22 02:28:45,586 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 02:28:45,637 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 02:28:45,893 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-22 02:28:45,934 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-22 02:28:46,201 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-22 02:28:46,251 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-22 02:28:46,509 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-22 02:28:46,525 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-22 02:28:46,764 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-22 02:28:47,025 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-22 02:28:47,280 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-22 02:28:50,851 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-22 02:31:30,995 - DEBUG - pydot initializing
+2025-07-22 02:31:30,996 - DEBUG - pydot 4.0.1
+2025-07-22 02:31:31,007 - DEBUG - pydot core module initializing
+2025-07-22 02:31:50,538 - DEBUG - ['tesseract', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_xa8ux3lk_input.PPM', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_xa8ux3lk', '-l', 'eng', 'txt']
+2025-07-22 02:31:53,973 - DEBUG - ['tesseract', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_hoy20epp_input.PPM', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_hoy20epp', '-l', 'eng', 'txt']
+2025-07-22 02:31:56,529 - DEBUG - ['tesseract', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_vg3w_ygh_input.PPM', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_vg3w_ygh', '-l', 'eng', 'txt']
+2025-07-22 02:31:59,358 - DEBUG - ['tesseract', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_pco0j37u_input.PPM', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_pco0j37u', '-l', 'eng', 'txt']
+2025-07-22 02:32:02,577 - DEBUG - ['tesseract', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_urnpp_l6_input.PPM', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_urnpp_l6', '-l', 'eng', 'txt']
+2025-07-22 02:32:05,178 - DEBUG - ['tesseract', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_7t3kcsba_input.PPM', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_7t3kcsba', '-l', 'eng', 'txt']
+2025-07-22 02:32:07,704 - DEBUG - ['tesseract', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_4xjdw_wv_input.PPM', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_4xjdw_wv', '-l', 'eng', 'txt']
+2025-07-22 02:32:14,772 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 02:32:14,778 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-22 02:32:15,261 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 02:32:15,312 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 02:32:15,569 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-22 02:32:15,620 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-22 02:32:15,926 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-22 02:32:15,978 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-22 02:32:16,220 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 02:32:16,230 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 02:32:16,490 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-22 02:32:16,529 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-22 02:32:16,797 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-22 02:32:16,848 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-22 02:32:18,487 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-22 02:32:18,538 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-22 02:32:18,795 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-22 02:32:19,102 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-22 02:32:19,357 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-22 02:32:19,367 - DEBUG - Environment variable FAISS_OPT_LEVEL is not set, so let's pick the instruction set according to the current CPU
+2025-07-22 02:32:19,370 - INFO - Loading faiss with AVX2 support.
+2025-07-22 02:32:19,448 - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-22 02:32:19,458 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-22 02:32:26,747 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-22 12:56:41,490 - DEBUG - pydot initializing
+2025-07-22 12:56:41,490 - DEBUG - pydot 4.0.1
+2025-07-22 12:56:41,497 - DEBUG - pydot core module initializing
+2025-07-22 12:57:21,077 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 12:57:21,081 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-22 12:57:27,511 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 12:57:27,586 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 12:57:28,022 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-22 12:57:28,038 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-22 12:57:28,287 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-22 12:57:28,301 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-22 12:57:28,533 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-22 12:57:28,557 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-22 12:57:28,830 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-22 12:57:28,917 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-22 12:57:29,176 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-22 12:57:29,219 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-22 12:57:32,560 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-22 12:57:33,577 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-22 12:57:34,542 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-22 12:57:38,299 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-22 12:57:39,186 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-22 12:57:39,202 - DEBUG - Environment variable FAISS_OPT_LEVEL is not set, so let's pick the instruction set according to the current CPU
+2025-07-22 12:57:39,205 - INFO - Loading faiss with AVX2 support.
+2025-07-22 12:57:39,341 - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-22 12:57:39,354 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-22 12:57:45,288 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-23 11:57:21,850 - DEBUG - pydot initializing
+2025-07-23 11:57:21,850 - DEBUG - pydot 4.0.1
+2025-07-23 11:57:21,858 - DEBUG - pydot core module initializing
+2025-07-23 12:04:34,127 - DEBUG - pydot initializing
+2025-07-23 12:04:34,127 - DEBUG - pydot 4.0.1
+2025-07-23 12:04:34,135 - DEBUG - pydot core module initializing
+2025-07-23 12:07:49,867 - DEBUG - pydot initializing
+2025-07-23 12:07:49,867 - DEBUG - pydot 4.0.1
+2025-07-23 12:07:49,873 - DEBUG - pydot core module initializing
+2025-07-23 12:07:59,282 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:07:59,282 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:07:59,282 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:07:59,282 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:07:59,282 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:07:59,282 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:07:59,282 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:07:59,282 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:12:16,279 - DEBUG - pydot initializing
+2025-07-23 12:12:16,279 - DEBUG - pydot 4.0.1
+2025-07-23 12:12:16,284 - DEBUG - pydot core module initializing
+2025-07-23 12:12:25,868 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:12:25,869 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:12:25,869 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:12:25,869 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:12:25,869 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:12:25,869 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:12:25,869 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:12:25,869 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:12:25,899 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:12:25,899 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:12:25,899 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:12:25,899 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:12:25,900 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:12:25,900 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:12:25,900 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:12:25,900 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:38:52,935 - DEBUG - pydot initializing
+2025-07-23 12:38:52,935 - DEBUG - pydot 4.0.1
+2025-07-23 12:38:52,943 - DEBUG - pydot core module initializing
+2025-07-23 12:39:03,068 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:39:03,068 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:39:03,068 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:39:03,068 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:39:03,069 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:39:03,069 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:39:03,069 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:39:03,069 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:39:03,094 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:39:03,094 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:39:03,094 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:39:03,094 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:39:03,094 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:39:03,094 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:39:03,094 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:39:03,094 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:42:39,136 - DEBUG - pydot initializing
+2025-07-23 12:42:39,137 - DEBUG - pydot 4.0.1
+2025-07-23 12:42:39,143 - DEBUG - pydot core module initializing
+2025-07-23 12:42:48,673 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:42:48,673 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:42:48,673 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:42:48,673 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:42:48,673 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:42:48,673 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:42:48,673 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:42:48,673 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:46:25,987 - DEBUG - pydot initializing
+2025-07-23 12:46:25,987 - DEBUG - pydot 4.0.1
+2025-07-23 12:46:25,993 - DEBUG - pydot core module initializing
+2025-07-23 12:46:35,173 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:46:35,173 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:46:35,173 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:46:35,173 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:46:35,173 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:46:35,173 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:46:35,173 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:46:35,173 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:46:35,535 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:46:35,535 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:46:35,535 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:46:35,535 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:46:35,536 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:46:35,536 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:46:35,536 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:46:35,536 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:51:18,671 - DEBUG - pydot initializing
+2025-07-23 12:51:18,671 - DEBUG - pydot 4.0.1
+2025-07-23 12:51:18,680 - DEBUG - pydot core module initializing
+2025-07-23 12:51:27,961 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:51:27,961 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:51:27,961 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:51:27,961 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:51:27,961 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:51:27,961 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:51:27,962 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:51:27,962 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:51:27,988 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:51:27,989 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:51:27,989 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:51:27,989 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:51:27,989 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:51:27,989 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:51:27,989 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:51:27,989 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:52:25,893 - DEBUG - pydot initializing
+2025-07-23 12:52:25,893 - DEBUG - pydot 4.0.1
+2025-07-23 12:52:25,899 - DEBUG - pydot core module initializing
+2025-07-23 12:52:34,103 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:52:34,103 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:52:34,103 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:52:34,103 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:52:34,103 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:52:34,103 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:52:34,103 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:52:34,103 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:52:34,126 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:52:34,126 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:52:34,126 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:52:34,126 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:52:34,127 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:52:34,127 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:52:34,127 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:52:34,127 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:53:17,767 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:53:17,767 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:53:17,767 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:53:17,767 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:53:17,767 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:53:17,767 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:53:17,767 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:53:17,767 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:53:17,797 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:53:17,797 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:53:17,798 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:53:17,798 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:53:17,799 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:53:17,799 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:53:17,800 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:53:17,800 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:53:27,753 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:53:27,753 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:53:27,753 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:53:27,753 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:53:27,753 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:53:27,753 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:53:27,753 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:53:27,753 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:53:27,786 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:53:27,786 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:53:27,786 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:53:27,786 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:53:27,786 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:53:27,786 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:53:27,786 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:53:27,786 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:53:53,624 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:53:53,624 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:53:53,624 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:53:53,624 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:53:53,624 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:53:53,625 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:53:53,625 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:53:53,625 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:53:53,659 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:53:53,659 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:53:53,659 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:53:53,659 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:53:53,659 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:53:53,660 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:53:53,660 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:53:53,660 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:53:58,418 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-23 12:53:58,422 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-23 12:53:59,271 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-23 12:53:59,286 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-23 12:53:59,527 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-23 12:53:59,544 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-23 12:53:59,780 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-23 12:53:59,795 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-23 12:54:00,088 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-23 12:54:00,113 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-23 12:54:00,777 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-23 12:54:01,007 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-23 12:54:01,311 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-23 12:54:01,597 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-23 12:54:03,441 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-23 12:54:03,463 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-23 12:54:03,714 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-23 12:54:04,017 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-23 12:54:04,264 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-23 12:54:04,275 - DEBUG - Environment variable FAISS_OPT_LEVEL is not set, so let's pick the instruction set according to the current CPU
+2025-07-23 12:54:04,278 - INFO - Loading faiss with AVX2 support.
+2025-07-23 12:54:04,352 - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-23 12:54:04,361 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-23 12:54:09,781 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-23 12:54:25,158 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:54:25,158 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:54:25,158 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:54:25,158 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:54:25,158 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:54:25,158 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:54:25,158 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:54:25,158 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:54:25,185 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:54:25,185 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:54:25,185 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:54:25,185 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:54:25,185 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:54:25,185 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:54:25,185 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:54:25,186 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:54:56,195 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:54:56,195 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:54:56,195 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:54:56,195 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:54:56,195 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:54:56,195 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:54:56,195 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:54:56,195 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:54:56,223 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:54:56,223 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:54:56,223 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:54:56,224 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:54:56,224 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:54:56,224 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:54:56,224 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:54:56,224 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:54:59,218 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-23 12:54:59,220 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-23 12:55:00,114 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-23 12:55:00,128 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-23 12:55:00,373 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-23 12:55:00,388 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-23 12:55:00,608 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-23 12:55:00,621 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-23 12:55:01,005 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-23 12:55:01,023 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-23 12:55:01,257 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-23 12:55:01,273 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-23 12:55:01,860 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-23 12:55:01,879 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-23 12:55:02,155 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-23 12:55:02,170 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-23 12:55:02,521 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-23 12:55:03,062 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-23 12:55:03,284 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-23 12:55:08,037 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-23 12:58:12,874 - DEBUG - pydot initializing
+2025-07-23 12:58:12,875 - DEBUG - pydot 4.0.1
+2025-07-23 12:58:12,882 - DEBUG - pydot core module initializing
+2025-07-23 12:58:23,098 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:58:23,099 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:58:23,099 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:58:23,099 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:58:23,099 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:58:23,099 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:58:23,099 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:58:23,099 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:58:23,128 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:58:23,128 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:58:23,128 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:58:23,128 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:58:23,128 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:58:23,128 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:58:23,128 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:58:23,128 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:59:17,981 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:59:17,981 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:59:17,981 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:59:17,981 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:59:17,981 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:59:17,981 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:59:17,981 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:59:17,981 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:59:18,008 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:59:18,009 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:59:18,009 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:59:18,009 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:59:18,009 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 12:59:18,009 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 12:59:18,009 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 12:59:18,009 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 12:59:22,545 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-23 12:59:22,548 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-23 12:59:27,975 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-23 12:59:28,003 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-23 12:59:28,246 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-23 12:59:28,271 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-23 12:59:28,510 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-23 12:59:28,527 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-23 12:59:28,778 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-23 12:59:29,086 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-23 12:59:29,363 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-23 12:59:29,395 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-23 12:59:29,634 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-23 12:59:29,658 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-23 12:59:31,268 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-23 12:59:31,366 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-23 12:59:31,627 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-23 12:59:31,956 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-23 12:59:32,396 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-23 12:59:32,409 - DEBUG - Environment variable FAISS_OPT_LEVEL is not set, so let's pick the instruction set according to the current CPU
+2025-07-23 12:59:32,411 - INFO - Loading faiss with AVX2 support.
+2025-07-23 12:59:32,484 - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-23 12:59:32,492 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-23 12:59:37,800 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-23 13:00:34,128 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 13:00:34,128 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 13:00:34,128 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 13:00:34,129 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 13:00:34,129 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 13:00:34,129 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 13:00:34,129 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 13:00:34,129 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 13:00:34,158 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 13:00:34,158 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 13:00:34,158 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 13:00:34,158 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 13:00:34,158 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 13:00:34,158 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 13:00:34,159 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 13:00:34,159 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:24:28,972 - DEBUG - pydot initializing
+2025-07-23 18:24:28,973 - DEBUG - pydot 4.0.1
+2025-07-23 18:24:28,983 - DEBUG - pydot core module initializing
+2025-07-23 18:24:44,680 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:24:44,680 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:24:44,680 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:24:44,680 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:24:44,680 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:24:44,680 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:24:44,680 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:24:44,681 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:24:44,714 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:24:44,715 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:24:44,715 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:24:44,715 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:24:44,715 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:24:44,715 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:24:44,715 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:24:44,715 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:27:00,502 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:27:00,502 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:27:00,503 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:27:00,503 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:27:00,503 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:27:00,503 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:27:00,503 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:27:00,503 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:27:00,557 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:27:00,557 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:27:00,557 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:27:00,557 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:27:00,557 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:27:00,557 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:27:00,558 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:27:00,558 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:27:06,995 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-23 18:27:07,000 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-23 18:27:07,555 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-23 18:27:07,837 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-23 18:27:08,148 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-23 18:27:08,252 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-23 18:27:08,553 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-23 18:27:08,573 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-23 18:27:08,868 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-23 18:27:08,906 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-23 18:27:09,270 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-23 18:27:09,459 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-23 18:27:09,782 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-23 18:27:09,800 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-23 18:27:12,350 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-23 18:27:12,648 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-23 18:27:12,965 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-23 18:27:13,327 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-23 18:27:13,675 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-23 18:27:13,691 - DEBUG - Environment variable FAISS_OPT_LEVEL is not set, so let's pick the instruction set according to the current CPU
+2025-07-23 18:27:13,695 - INFO - Loading faiss with AVX2 support.
+2025-07-23 18:27:13,808 - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-23 18:27:13,822 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-23 18:27:22,373 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-23 18:28:20,580 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:28:20,580 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:28:20,580 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:28:20,581 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:28:20,581 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:28:20,581 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:28:20,581 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:28:20,581 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:28:20,631 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:28:20,632 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:28:20,632 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:28:20,632 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:28:20,633 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:28:20,633 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:28:20,633 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:28:20,633 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:30:49,204 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:30:49,204 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:30:49,205 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:30:49,205 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:30:49,205 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:30:49,205 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:30:49,205 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:30:49,205 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:30:49,256 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:30:49,256 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:30:49,256 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:30:49,256 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:30:49,257 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:30:49,257 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:30:49,257 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:30:49,257 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:30:53,241 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-23 18:30:53,246 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-23 18:30:56,602 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-23 18:30:56,617 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-23 18:30:56,953 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-23 18:30:57,038 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-23 18:30:57,282 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-23 18:30:57,304 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-23 18:30:57,567 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-23 18:30:57,587 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-23 18:30:57,824 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-23 18:30:57,845 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-23 18:30:58,110 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-23 18:30:58,128 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-23 18:30:58,563 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-23 18:30:58,753 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-23 18:30:59,221 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-23 18:30:59,729 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-23 18:31:01,317 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-23 18:31:07,682 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-23 18:31:37,960 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:31:37,961 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:31:37,961 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:31:37,961 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:31:37,961 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:31:37,961 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:31:37,961 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:31:37,961 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:31:38,003 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:31:38,004 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:31:38,004 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:31:38,004 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:31:38,005 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:31:38,005 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:31:38,005 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:31:38,006 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:32:57,331 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:32:57,331 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:32:57,331 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:32:57,331 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:32:57,331 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:32:57,331 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:32:57,331 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:32:57,332 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:32:57,378 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:32:57,379 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:32:57,379 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:32:57,379 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:32:57,379 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:32:57,379 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:32:57,379 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:32:57,380 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:33:01,354 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-23 18:33:01,357 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-23 18:33:02,625 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-23 18:33:02,640 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-23 18:33:05,530 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-23 18:33:07,172 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-23 18:33:08,447 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-23 18:33:08,530 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-23 18:33:09,339 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-23 18:33:09,522 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-23 18:33:09,998 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-23 18:33:10,242 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-23 18:33:10,561 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-23 18:33:10,758 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-23 18:33:11,526 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-23 18:33:11,899 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-23 18:33:12,424 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-23 18:33:12,897 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-23 18:33:13,236 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-23 18:33:19,624 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-23 18:33:28,769 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:33:28,769 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:33:28,769 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:33:28,769 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:33:28,770 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:33:28,770 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:33:28,771 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:33:28,771 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:33:28,828 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:33:28,828 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:33:28,828 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:33:28,828 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:33:28,828 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:33:28,829 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:33:28,829 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:33:28,829 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:34:38,984 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:34:38,985 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:34:38,985 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:34:38,985 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:34:38,985 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:34:38,985 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:34:38,985 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:34:38,985 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:34:39,028 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:34:39,029 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:34:39,029 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:34:39,029 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:34:39,029 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:34:39,029 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:34:39,029 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:34:39,029 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:34:42,796 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-23 18:34:42,799 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-23 18:34:43,346 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-23 18:34:43,719 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-23 18:34:44,068 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-23 18:34:44,150 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-23 18:34:44,461 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-23 18:34:44,524 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-23 18:34:44,791 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-23 18:34:44,808 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-23 18:34:45,178 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-23 18:34:45,204 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-23 18:34:45,592 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-23 18:34:45,893 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-23 18:34:46,512 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-23 18:34:46,554 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-23 18:34:46,928 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-23 18:34:47,271 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-23 18:34:47,935 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-23 18:34:56,435 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-23 18:35:14,648 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:35:14,648 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:35:14,648 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:35:14,649 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:35:14,649 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:35:14,649 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:35:14,649 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:35:14,649 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:35:14,689 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:35:14,689 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:35:14,689 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:35:14,690 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:35:14,690 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:35:14,690 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:35:14,690 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:35:14,690 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:39:09,004 - DEBUG - pydot initializing
+2025-07-23 18:39:09,005 - DEBUG - pydot 4.0.1
+2025-07-23 18:39:09,018 - DEBUG - pydot core module initializing
+2025-07-23 18:39:23,451 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:39:23,452 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:39:23,452 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:39:23,452 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:39:23,452 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:39:23,452 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:39:23,452 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:39:23,452 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:39:23,485 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:39:23,485 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:39:23,485 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:39:23,485 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:39:23,485 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:39:23,486 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:39:23,486 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:39:23,486 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:40:02,651 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:40:02,651 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:40:02,651 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:40:02,651 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:40:02,651 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:40:02,652 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:40:02,652 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:40:02,652 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:40:02,689 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:40:02,689 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:40:02,689 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:40:02,690 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:40:02,690 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:40:02,690 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:40:02,690 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:40:02,690 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:40:07,492 - DEBUG - ['tesseract', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_skbkwlle_input.PPM', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_skbkwlle', '-l', 'eng', 'txt']
+2025-07-23 18:40:11,898 - DEBUG - ['tesseract', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_s0n3ht46_input.PPM', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_s0n3ht46', '-l', 'eng', 'txt']
+2025-07-23 18:40:15,196 - DEBUG - ['tesseract', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_42kigtef_input.PPM', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_42kigtef', '-l', 'eng', 'txt']
+2025-07-23 18:40:18,492 - DEBUG - ['tesseract', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_st94oft8_input.PPM', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_st94oft8', '-l', 'eng', 'txt']
+2025-07-23 18:40:22,333 - DEBUG - ['tesseract', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_q2g3c_qd_input.PPM', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_q2g3c_qd', '-l', 'eng', 'txt']
+2025-07-23 18:40:25,389 - DEBUG - ['tesseract', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_6n63cn3w_input.PPM', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_6n63cn3w', '-l', 'eng', 'txt']
+2025-07-23 18:40:28,379 - DEBUG - ['tesseract', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_hn5tidmb_input.PPM', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_hn5tidmb', '-l', 'eng', 'txt']
+2025-07-23 18:40:36,711 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-23 18:40:36,715 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-23 18:40:38,068 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-23 18:40:38,089 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-23 18:40:38,480 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-23 18:40:38,495 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-23 18:40:39,104 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-23 18:40:39,124 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-23 18:40:39,589 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-23 18:40:39,606 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-23 18:40:39,912 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-23 18:40:39,927 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-23 18:40:40,323 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-23 18:40:40,339 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-23 18:40:42,915 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-23 18:40:43,326 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-23 18:40:43,598 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-23 18:40:44,042 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-23 18:40:44,319 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-23 18:40:44,334 - DEBUG - Environment variable FAISS_OPT_LEVEL is not set, so let's pick the instruction set according to the current CPU
+2025-07-23 18:40:44,336 - INFO - Loading faiss with AVX2 support.
+2025-07-23 18:40:44,456 - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-23 18:40:44,474 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-23 18:40:54,081 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-23 18:41:43,981 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:41:43,981 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:41:43,981 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:41:43,981 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:41:43,981 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:41:43,981 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:41:43,981 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:41:43,982 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:41:44,045 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:41:44,045 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:41:44,045 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:41:44,045 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-23 18:41:44,046 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-23 18:41:44,046 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-23 18:41:44,046 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-23 18:41:44,046 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:33:43,240 - DEBUG - pydot initializing
+2025-07-24 00:33:43,241 - DEBUG - pydot 4.0.1
+2025-07-24 00:33:43,248 - DEBUG - pydot core module initializing
+2025-07-24 00:33:56,208 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:33:56,208 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:33:56,208 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:33:56,208 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:33:56,208 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:33:56,209 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:33:56,209 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:33:56,209 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:33:56,237 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:33:56,237 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:33:56,237 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:33:56,238 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:33:56,238 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:33:56,238 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:33:56,238 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:33:56,238 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:34:08,559 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:34:08,559 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:34:08,559 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:34:08,559 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:34:08,559 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:34:08,559 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:34:08,559 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:34:08,559 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:34:08,585 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:34:08,586 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:34:08,586 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:34:08,586 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:34:08,586 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:34:08,586 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:34:08,586 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:34:08,586 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:34:17,546 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-24 00:34:17,549 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-24 00:34:17,946 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-24 00:34:17,997 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-24 00:34:18,253 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-24 00:34:18,305 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-24 00:34:18,561 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-24 00:34:18,611 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-24 00:34:18,868 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-24 00:34:18,918 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-24 00:34:19,175 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-24 00:34:19,225 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-24 00:34:19,483 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-24 00:34:19,501 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-24 00:34:21,172 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-24 00:34:21,223 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-24 00:34:21,478 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-24 00:34:21,787 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-24 00:34:22,094 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-24 00:34:22,104 - DEBUG - Environment variable FAISS_OPT_LEVEL is not set, so let's pick the instruction set according to the current CPU
+2025-07-24 00:34:22,105 - INFO - Loading faiss with AVX2 support.
+2025-07-24 00:34:22,183 - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-24 00:34:22,193 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-24 00:34:27,570 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-24 00:36:39,241 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:36:39,241 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:36:39,241 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:36:39,241 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:36:39,241 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:36:39,241 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:36:39,241 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:36:39,241 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:36:39,272 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:36:39,273 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:36:39,273 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:36:39,273 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:36:39,273 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:36:39,273 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:36:39,273 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:36:39,273 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:39:56,647 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:39:56,650 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:39:56,652 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:39:56,653 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:39:56,654 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:39:56,654 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:39:56,654 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:39:56,654 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:39:56,690 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:39:56,690 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:39:56,690 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:39:56,690 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:39:56,691 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:39:56,691 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:39:56,691 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:39:56,691 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:40:01,766 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-24 00:40:01,777 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-24 00:40:02,259 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-24 00:40:02,284 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-24 00:40:02,590 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-24 00:40:02,606 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-24 00:40:02,830 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-24 00:40:02,897 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-24 00:40:03,205 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-24 00:40:03,256 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-24 00:40:03,512 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-24 00:40:03,564 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-24 00:40:03,819 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-24 00:40:03,848 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-24 00:40:04,583 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-24 00:40:04,639 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-24 00:40:04,894 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-24 00:40:05,202 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-24 00:40:05,473 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-24 00:40:54,297 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-24 00:41:25,236 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:41:25,236 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:41:25,236 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:41:25,236 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:41:25,236 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:41:25,236 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:41:25,236 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:41:25,236 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:41:25,270 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:41:25,270 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:41:25,270 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:41:25,270 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:41:25,271 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:41:25,271 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:41:25,271 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:41:25,271 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:42:02,598 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:42:02,598 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:42:02,598 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:42:02,598 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:42:02,598 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:42:02,598 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:42:02,599 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:42:02,599 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:42:02,624 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:42:02,625 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:42:02,625 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:42:02,625 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:42:02,625 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:42:02,625 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:42:02,625 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:42:02,625 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:42:06,376 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-24 00:42:06,378 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-24 00:42:06,704 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-24 00:42:06,756 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-24 00:42:06,997 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-24 00:42:07,012 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-24 00:42:07,268 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-24 00:42:07,319 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-24 00:42:07,576 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-24 00:42:07,627 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-24 00:42:07,883 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-24 00:42:07,934 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-24 00:42:08,190 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-24 00:42:08,242 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-24 00:42:08,522 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-24 00:42:08,549 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-24 00:42:08,797 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-24 00:42:09,112 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-24 00:42:09,368 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-24 00:43:04,660 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-24 00:43:34,066 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:43:34,066 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:43:34,066 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:43:34,066 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:43:34,067 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:43:34,067 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:43:34,067 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:43:34,067 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:43:34,096 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:43:34,096 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:43:34,096 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:43:34,096 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 00:43:34,097 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 00:43:34,097 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 00:43:34,097 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 00:43:34,097 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:05:59,173 - DEBUG - pydot initializing
+2025-07-24 15:05:59,174 - DEBUG - pydot 4.0.1
+2025-07-24 15:05:59,183 - DEBUG - pydot core module initializing
+2025-07-24 15:06:13,465 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:06:13,465 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:06:13,465 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:06:13,465 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:06:13,465 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:06:13,465 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:06:13,465 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:06:13,465 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:06:13,496 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:06:13,496 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:06:13,497 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:06:13,497 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:06:13,497 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:06:13,497 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:06:13,497 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:06:13,498 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:07:14,124 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:07:14,124 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:07:14,124 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:07:14,124 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:07:14,124 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:07:14,124 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:07:14,124 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:07:14,125 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:07:14,156 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:07:14,156 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:07:14,157 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:07:14,157 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:07:14,157 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:07:14,158 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:07:14,159 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:07:14,159 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:08:05,638 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:08:05,639 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:08:05,639 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:08:05,639 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:08:05,639 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:08:05,639 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:08:05,640 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:08:05,640 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:08:05,680 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:08:05,680 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:08:05,681 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:08:05,681 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:08:05,681 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:08:05,682 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:08:05,682 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:08:05,682 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:10:54,566 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:10:54,569 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:10:54,569 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:10:54,569 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:10:54,570 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:10:54,570 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:10:54,571 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:10:54,571 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:10:54,609 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:10:54,610 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:10:54,610 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:10:54,610 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:10:54,611 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:10:54,611 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:10:54,611 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:10:54,611 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:11:01,263 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-24 15:11:01,272 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-24 15:11:03,255 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-24 15:11:03,305 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-24 15:11:03,626 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-24 15:11:03,641 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-24 15:11:04,138 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-24 15:11:04,329 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-24 15:11:04,639 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-24 15:11:04,746 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-24 15:11:05,064 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-24 15:11:05,077 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-24 15:11:05,476 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-24 15:11:05,521 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-24 15:11:08,242 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-24 15:11:08,426 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-24 15:11:08,750 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-24 15:11:09,262 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-24 15:11:09,975 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-24 15:11:09,993 - DEBUG - Environment variable FAISS_OPT_LEVEL is not set, so let's pick the instruction set according to the current CPU
+2025-07-24 15:11:10,001 - INFO - Loading faiss with AVX2 support.
+2025-07-24 15:11:15,980 - INFO - Successfully loaded faiss with AVX2 support.
+2025-07-24 15:11:15,992 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-24 15:11:22,888 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-24 15:13:38,040 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:13:38,041 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:13:38,041 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:13:38,041 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:13:38,041 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:13:38,042 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:13:38,042 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:13:38,042 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:13:38,094 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:13:38,094 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:13:38,094 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:13:38,095 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:13:38,095 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:13:38,095 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:13:38,095 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:13:38,095 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:14:35,394 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:14:35,394 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:14:35,395 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:14:35,395 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:14:35,395 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:14:35,395 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:14:35,395 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:14:35,395 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:14:35,435 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:14:35,435 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:14:35,435 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:14:35,435 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:14:35,435 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:14:35,435 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:14:35,435 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:14:35,436 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:14:40,245 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-24 15:14:40,249 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-24 15:14:41,858 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-24 15:14:41,944 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-24 15:14:42,466 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-24 15:14:42,482 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-24 15:14:42,725 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-24 15:14:42,740 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-24 15:14:42,975 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-24 15:14:42,991 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-24 15:14:43,224 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-24 15:14:43,241 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-24 15:14:43,494 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-24 15:14:43,518 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-24 15:14:43,888 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-24 15:14:43,906 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-24 15:14:44,177 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-24 15:14:44,528 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-24 15:14:44,829 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-24 15:14:51,131 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-24 15:16:12,122 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:16:12,122 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:16:12,122 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:16:12,123 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:16:12,123 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:16:12,123 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:16:12,123 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:16:12,124 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:16:12,184 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:16:12,185 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:16:12,185 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:16:12,186 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:16:12,186 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:16:12,186 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:16:12,187 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:16:12,187 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:16:41,644 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:16:41,644 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:16:41,645 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:16:41,645 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:16:41,645 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:16:41,645 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:16:41,645 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:16:41,645 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:16:41,683 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:16:41,684 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:16:41,684 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:16:41,685 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:16:41,685 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:16:41,686 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:16:41,686 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:16:41,686 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:16:47,343 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-24 15:16:47,346 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-24 15:16:48,629 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-24 15:16:48,938 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-24 15:16:49,463 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-24 15:16:49,480 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-24 15:16:49,754 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-24 15:16:50,024 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-24 15:16:50,562 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-24 15:16:50,625 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-24 15:16:51,364 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-24 15:16:51,387 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-24 15:16:51,811 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-24 15:16:51,828 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-24 15:16:52,450 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-24 15:16:52,466 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-24 15:16:52,906 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-24 15:16:53,687 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-24 15:16:53,919 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-24 15:17:00,385 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-24 15:17:29,447 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:17:29,447 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:17:29,447 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:17:29,448 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:17:29,448 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:17:29,448 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:17:29,448 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:17:29,448 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:17:29,515 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:17:29,515 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:17:29,516 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:17:29,516 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:17:29,516 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:17:29,516 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:17:29,517 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:17:29,517 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:18:34,051 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:18:34,052 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:18:34,052 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:18:34,052 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:18:34,052 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:18:34,052 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:18:34,052 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:18:34,053 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:18:34,088 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:18:34,089 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:18:34,089 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:18:34,090 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:18:34,090 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:18:34,090 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:18:34,090 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:18:34,090 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:18:40,680 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-24 15:18:40,682 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-24 15:18:40,988 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-24 15:18:41,007 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-24 15:18:41,243 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-24 15:18:41,261 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-24 15:18:41,517 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-24 15:18:41,539 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-24 15:18:41,788 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-24 15:18:41,876 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-24 15:18:42,113 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-24 15:18:42,127 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-24 15:18:42,609 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-24 15:18:42,812 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-24 15:18:43,137 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-24 15:18:43,206 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-24 15:18:43,564 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-24 15:18:44,023 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-24 15:18:44,346 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-24 15:18:52,902 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-24 15:19:39,212 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:19:39,212 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:19:39,212 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:19:39,212 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:19:39,213 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:19:39,213 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:19:39,213 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:19:39,213 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:19:39,261 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:19:39,261 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:19:39,261 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:19:39,261 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:19:39,261 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:19:39,262 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:19:39,262 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:19:39,262 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:22:44,731 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:22:44,731 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:22:44,731 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:22:44,732 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:22:44,732 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:22:44,732 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:22:44,732 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:22:44,732 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:22:44,780 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:22:44,780 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:22:44,780 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:22:44,781 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:22:44,781 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:22:44,781 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:22:44,781 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:22:44,781 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:22:49,415 - DEBUG - ['tesseract', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_0mf3drl7_input.PPM', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_0mf3drl7', '-l', 'eng', 'txt']
+2025-07-24 15:22:53,849 - DEBUG - ['tesseract', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_xsgxgymv_input.PPM', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_xsgxgymv', '-l', 'eng', 'txt']
+2025-07-24 15:22:56,811 - DEBUG - ['tesseract', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_8fzig9pr_input.PPM', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_8fzig9pr', '-l', 'eng', 'txt']
+2025-07-24 15:23:00,119 - DEBUG - ['tesseract', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_k0gtpom8_input.PPM', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_k0gtpom8', '-l', 'eng', 'txt']
+2025-07-24 15:23:03,957 - DEBUG - ['tesseract', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_xs35wmbh_input.PPM', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_xs35wmbh', '-l', 'eng', 'txt']
+2025-07-24 15:23:07,032 - DEBUG - ['tesseract', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_89oqclpp_input.PPM', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_89oqclpp', '-l', 'eng', 'txt']
+2025-07-24 15:23:09,990 - DEBUG - ['tesseract', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_o4ue12kh_input.PPM', 'C:\\Users\\Anand\\AppData\\Local\\Temp\\tess_o4ue12kh', '-l', 'eng', 'txt']
+2025-07-24 15:23:16,139 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-24 15:23:16,142 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-07-24 15:23:16,639 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-24 15:23:16,677 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-24 15:23:17,052 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2025-07-24 15:23:17,138 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-07-24 15:23:17,568 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2025-07-24 15:23:17,582 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2025-07-24 15:23:17,848 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2025-07-24 15:23:17,886 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2025-07-24 15:23:18,160 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2025-07-24 15:23:18,274 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2025-07-24 15:23:18,586 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2025-07-24 15:23:18,599 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2025-07-24 15:23:19,009 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2025-07-24 15:23:19,028 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2025-07-24 15:23:19,307 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2025-07-24 15:23:19,724 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6849
+2025-07-24 15:23:20,332 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6849
+2025-07-24 15:23:30,040 - INFO - Saved classification result to C:\Users\Anand\Project\climateclassifier\data\classified\classifications.csv
+2025-07-24 15:24:43,816 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:24:43,818 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:24:43,818 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:24:43,819 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:24:43,819 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:24:43,819 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:24:43,819 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:24:43,820 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:24:43,864 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:24:43,864 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:24:43,865 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:24:43,865 - DEBUG - STREAM b'IDAT' 1089 43165
+2025-07-24 15:24:43,865 - DEBUG - STREAM b'IHDR' 16 13
+2025-07-24 15:24:43,866 - DEBUG - STREAM b'tEXt' 41 25
+2025-07-24 15:24:43,866 - DEBUG - STREAM b'iTXt' 78 999
+2025-07-24 15:24:43,866 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:01:00,964 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:01:00,964 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:01:00,964 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:01:00,964 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:01:00,964 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:01:00,964 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:01:00,964 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:01:00,964 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:01:00,991 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:01:00,991 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:01:00,991 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:01:00,991 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:01:00,991 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:01:00,991 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:01:00,991 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:01:00,991 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:01:31,591 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:01:31,591 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:01:31,591 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:01:31,591 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:01:31,591 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:01:31,591 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:01:31,591 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:01:31,591 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:01:31,616 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:01:31,616 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:01:31,616 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:01:31,616 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:01:31,616 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:01:31,616 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:01:31,616 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:01:31,616 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:02:10,615 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:02:10,615 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:02:10,615 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:02:10,615 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:02:10,615 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:02:10,615 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:02:10,615 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:02:10,615 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:02:10,648 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:02:10,648 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:02:10,648 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:02:10,648 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:02:10,648 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:02:10,648 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:02:10,648 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:02:10,648 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:02:16,214 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:02:16,214 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:02:16,214 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:02:16,214 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:02:16,214 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:02:16,214 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:02:16,214 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:02:16,214 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:02:16,239 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:02:16,239 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:02:16,239 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:02:16,239 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:02:16,239 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:02:16,239 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:02:16,239 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:02:16,239 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:04:09,097 - ERROR - Exception in callback _HandlerDelegate.execute.<locals>.<lambda>(<Task cancell...\web.py:1807>>) at C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\tornado\web.py:2509
+handle: <Handle _HandlerDelegate.execute.<locals>.<lambda>(<Task cancell...\web.py:1807>>) at C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\tornado\web.py:2509>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\streamlit\web\bootstrap.py", line 348, in run
+    if asyncio.get_running_loop().is_running():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: no running event loop
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\tornado\web.py", line 2509, in <lambda>
+    fut.add_done_callback(lambda f: f.result())
+                                    ^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\tornado\web.py", line 1859, in _execute
+    result = await result
+             ^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\tornado\web.py", line 2846, in get
+    await self.flush()
+asyncio.exceptions.CancelledError
+2026-05-08 15:04:42,382 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:04:42,382 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:04:42,382 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:04:42,382 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:04:42,382 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:04:42,382 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:04:42,382 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:04:42,382 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:04:42,414 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:04:42,414 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:04:42,414 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:04:42,414 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:04:42,414 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:04:42,414 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:04:42,415 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:04:42,415 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:04:52,482 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:04:52,482 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:04:52,482 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:04:52,482 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:04:52,482 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:04:52,482 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:04:52,482 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:04:52,482 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:04:52,510 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:04:52,510 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:04:52,510 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:04:52,510 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:04:52,510 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:04:52,510 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:04:52,510 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:04:52,510 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:07:55,865 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:07:55,865 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:07:55,865 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:07:55,865 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:07:55,865 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:07:55,865 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:07:55,865 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:07:55,880 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:07:55,897 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:07:55,897 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:07:55,897 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:07:55,897 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:07:55,897 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:07:55,897 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:07:55,897 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:07:55,897 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:08:05,869 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:08:05,869 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:08:05,869 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:08:05,869 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:08:05,869 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:08:05,869 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:08:05,886 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:08:05,886 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:08:05,912 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:08:05,912 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:08:05,912 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:08:05,912 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:08:05,912 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:08:05,912 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:08:05,912 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:08:05,912 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:08:16,974 - ERROR - Failed to load vector store: module 'pyarrow' has no attribute 'PyExtensionType'
+2026-05-08 15:10:51,331 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:10:51,331 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:10:51,331 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:10:51,331 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:10:51,331 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:10:51,331 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:10:51,331 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:10:51,331 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:10:51,371 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:10:51,371 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:10:51,371 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:10:51,371 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:10:51,371 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:10:51,371 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:10:51,371 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:10:51,371 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:11:04,522 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:11:04,522 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:11:04,522 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:11:04,522 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:11:04,522 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:11:04,522 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:11:04,522 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:11:04,522 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:11:04,563 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:11:04,563 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:11:04,563 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:11:04,563 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:11:04,563 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:11:04,563 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:11:04,563 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:11:04,563 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:11:12,636 - ERROR - Failed to load vector store: module 'pyarrow' has no attribute 'PyExtensionType'
+2026-05-08 15:11:51,206 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:11:51,206 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:11:51,206 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:11:51,206 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:11:51,206 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:11:51,206 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:11:51,206 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:11:51,206 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:11:51,237 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:11:51,237 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:11:51,237 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:11:51,237 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:11:51,237 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:11:51,237 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:11:51,237 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:11:51,237 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:12:00,819 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:12:00,819 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:12:00,819 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:12:00,819 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:12:00,819 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:12:00,819 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:12:00,819 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:12:00,819 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:12:00,851 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:12:00,851 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:12:00,851 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:12:00,851 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:12:00,851 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:12:00,851 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:12:00,851 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:12:00,851 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:12:11,521 - ERROR - Failed to load vector store: module 'pyarrow' has no attribute 'PyExtensionType'
+2026-05-08 15:16:52,444 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:16:52,444 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:16:52,444 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:16:52,444 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:16:52,444 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:16:52,444 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:16:52,444 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:16:52,444 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:16:52,464 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:16:52,464 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:16:52,464 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:16:52,469 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:16:52,469 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:16:52,469 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:16:52,469 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:16:52,469 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:17:01,252 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:17:01,252 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:17:01,252 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:17:01,252 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:17:01,252 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:17:01,252 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:17:01,252 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:17:01,252 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:17:01,276 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:17:01,276 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:17:01,276 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:17:01,276 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:17:01,276 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:17:01,277 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:17:01,277 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:17:01,277 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:17:08,558 - ERROR - Failed to load vector store: module 'pyarrow' has no attribute 'PyExtensionType'
+2026-05-08 15:21:30,797 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:21:30,797 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:21:30,797 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:21:30,799 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:21:30,799 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:21:30,799 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:21:30,799 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:21:30,799 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:21:30,819 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:21:30,819 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:21:30,819 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:21:30,819 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:21:30,819 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:21:30,819 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:21:30,819 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:21:30,819 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:21:38,351 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:21:38,351 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:21:38,351 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:21:38,351 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:21:38,351 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:21:38,351 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:21:38,351 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:21:38,351 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:21:38,377 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:21:38,377 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:21:38,377 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:21:38,377 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:21:38,377 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:21:38,377 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:21:38,377 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:21:38,377 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:21:46,057 - DEBUG - PyTorch version 2.7.1 available.
+2026-05-08 15:21:46,686 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-05-08 15:21:46,686 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2026-05-08 15:21:47,239 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2026-05-08 15:21:47,239 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2026-05-08 15:21:47,515 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2026-05-08 15:21:47,518 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2026-05-08 15:21:47,783 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2026-05-08 15:21:47,798 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2026-05-08 15:21:48,072 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2026-05-08 15:21:48,089 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2026-05-08 15:21:48,359 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2026-05-08 15:21:48,391 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2026-05-08 15:21:48,700 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2026-05-08 15:21:48,703 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2026-05-08 15:21:50,630 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2026-05-08 15:21:50,642 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2026-05-08 15:21:50,888 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2026-05-08 15:21:51,248 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 None
+2026-05-08 15:21:51,543 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 None
+2026-05-08 15:21:51,559 - DEBUG - Environment variable FAISS_OPT_LEVEL is not set, so let's pick the instruction set according to the current CPU
+2026-05-08 15:21:51,559 - INFO - Loading faiss with AVX2 support.
+2026-05-08 15:21:52,191 - INFO - Successfully loaded faiss with AVX2 support.
+2026-05-08 15:21:52,208 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2026-05-08 15:24:05,739 - INFO - Saved classification result to D:\A-ClimateclassifierProject\climateclassifier\data\classified\classifications.csv
+2026-05-08 15:25:14,490 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:25:14,491 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:25:14,491 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:25:14,491 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:25:14,491 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:25:14,491 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:25:14,491 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:25:14,491 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:25:14,514 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:25:14,515 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:25:14,515 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:25:14,515 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:25:14,515 - DEBUG - STREAM b'IHDR' 16 13
+2026-05-08 15:25:14,515 - DEBUG - STREAM b'tEXt' 41 25
+2026-05-08 15:25:14,515 - DEBUG - STREAM b'iTXt' 78 999
+2026-05-08 15:25:14,515 - DEBUG - STREAM b'IDAT' 1089 43165
+2026-05-08 15:25:20,059 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-05-08 15:25:20,059 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2026-05-08 15:25:20,934 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2026-05-08 15:25:20,946 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2026-05-08 15:25:21,211 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 307 0
+2026-05-08 15:25:21,227 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json HTTP/1.1" 200 0
+2026-05-08 15:25:21,488 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 307 0
+2026-05-08 15:25:21,488 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md HTTP/1.1" 200 0
+2026-05-08 15:25:21,731 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 307 0
+2026-05-08 15:25:21,745 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json HTTP/1.1" 200 0
+2026-05-08 15:25:21,983 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 307 0
+2026-05-08 15:25:21,983 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json HTTP/1.1" 200 0
+2026-05-08 15:25:22,234 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 307 0
+2026-05-08 15:25:22,246 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json HTTP/1.1" 200 0
+2026-05-08 15:25:22,526 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 307 0
+2026-05-08 15:25:22,538 - DEBUG - https://huggingface.co:443 "HEAD /api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json HTTP/1.1" 200 0
+2026-05-08 15:25:22,784 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=False&expand=False HTTP/1.1" 404 64
+2026-05-08 15:25:23,055 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 None
+2026-05-08 15:25:23,311 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 None
+2026-05-08 15:27:36,462 - INFO - Saved classification result to D:\A-ClimateclassifierProject\climateclassifier\data\classified\classifications.csv
