@@ -298,3 +298,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+
+##Hello! This is the main Streamlit app for the Climate Finance Classifier. It allows users to upload documents, processes them through text extraction, sector filtering, adaptation checking, and classification, and then displays the results in a user-friendly format. The app also includes progress indicators and error handling to ensure a smooth user experience.
