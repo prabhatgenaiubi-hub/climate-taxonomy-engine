@@ -3,6 +3,27 @@ import pytesseract
 from pdf2image import convert_from_path
 from docx import Document
 import os
+import glob
+
+def _find_poppler_path():
+    """Auto-detect poppler bin path on Windows under C:\\Poppler."""
+    # Check if already on PATH
+    import shutil
+    if shutil.which("pdftoppm"):
+        return None  # already available system-wide
+
+    # Common install locations (version-agnostic glob)
+    candidates = glob.glob(r"C:\Poppler\*\Library\bin") + \
+                 glob.glob(r"C:\poppler*\Library\bin") + \
+                 glob.glob(r"C:\Program Files\poppler*\Library\bin") + \
+                 [r"C:\Poppler\Library\bin"]  # legacy flat install
+
+    for path in candidates:
+        if os.path.isfile(os.path.join(path, "pdftoppm.exe")):
+            return path
+    return None  # will let pdf2image raise its own informative error
+
+POPPLER_PATH = _find_poppler_path()
 
 def extract_text_from_docx(path):
     try:
@@ -25,7 +46,7 @@ def extract_text_from_pdf(path):
 def extract_text_from_scanned_pdf(path):
     try:
         print("Converting PDF to images...")
-        pages = convert_from_path(path, dpi=300, poppler_path=r"C:\Poppler\Library\bin")
+        pages = convert_from_path(path, dpi=300, poppler_path=POPPLER_PATH)
         text = ""
         for idx, page in enumerate(pages):
             print(f"Running OCR on page {idx + 1}")
