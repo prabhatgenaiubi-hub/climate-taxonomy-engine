@@ -10,7 +10,7 @@ Classifies loan/investment documents as **Mitigation**, **Adaptation**, **Both**
 ```
 climate-taxonomy-engine/
 │
-├── app/                          # Streamlit frontend (UI only)
+├── frontend/                     # Streamlit frontend (UI only)
 │   └── main.py                   # Entry point — run this
 │
 ├── backend/
@@ -76,7 +76,7 @@ python -m backend.ml.rag_engine
 
 ### 4. Run the app
 ```bash
-streamlit run app/main.py
+streamlit run frontend/main.py
 ```
 
 ---
