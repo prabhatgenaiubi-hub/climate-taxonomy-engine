@@ -98,6 +98,26 @@ def process_uploaded_file(uploaded_file) -> str:
     return text
 
 
+def process_uploaded_file_bytes(file_bytes: bytes, filename: str) -> str:
+    """
+    Accept raw bytes (from FastAPI UploadFile.read()) + filename,
+    save to RAW_DIR, extract text, persist to PROCESSED_DIR.
+    Returns extracted text string.
+    """
+    RAW_DIR.mkdir(parents=True, exist_ok=True)
+    file_path = RAW_DIR / filename
+    with open(file_path, "wb") as f:
+        f.write(file_bytes)
+
+    text = extract_text(str(file_path))
+    PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
+    stem = Path(filename).stem
+    processed_path = PROCESSED_DIR / f"{stem}.txt"
+    with open(processed_path, "w", encoding="utf-8") as f:
+        f.write(text)
+    return text
+
+
 def process_all(source_dir: Path = None, output_dir: Path = None) -> None:
     """Batch-process all files in source_dir and save to output_dir."""
     source_dir = source_dir or RAW_DIR

@@ -31,6 +31,7 @@ EMBEDDING_CACHE_DIR          = str(Path.home() / ".cache" / "huggingface" / "hub
 # ─── Vector DB ───────────────────────────────────────────────────────────────
 VECTOR_DB_DIR        = PROJECT_ROOT / "vector_db"
 VECTOR_DB_INDEX_DIR  = VECTOR_DB_DIR / "index.faiss"
+DOC_INDEX_DIR        = VECTOR_DB_DIR / "doc_index"   # per-document FAISS stores
 
 # ─── Documents / Knowledge Base ──────────────────────────────────────────────
 DOCUMENTS_DIR        = PROJECT_ROOT / "documents"
