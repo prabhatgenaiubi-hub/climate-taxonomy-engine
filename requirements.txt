@@ -4,7 +4,6 @@ torch==2.7.1
 transformers==4.53.1
 sentence-transformers==3.2.1
 faiss-cpu==1.11.0
-streamlit==1.46.1
 openpyxl==3.1.5
 scikit-learn==1.5.2
 datasets>=3.0.0
