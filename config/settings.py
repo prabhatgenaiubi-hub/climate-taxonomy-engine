@@ -87,3 +87,6 @@ POPPLER_PATH = find_poppler_path()
 # ─── Offline Mode ────────────────────────────────────────────────────────────
 import os as _os2
 _os2.environ["HF_HUB_OFFLINE"] = "True"
+
+#.......
+
